@@ -1,0 +1,71 @@
+<% layout("layouts/boilerplate.ejs") %> 
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1>Data Concern</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">Data Concern</li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <div class="card-header">
+                <%- include("../partials/tambahconcern") %> 
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                <table id="program" class="table table-bordered table-hover">
+                  <thead>
+                  <tr>
+                    <th>Nama Concern</th>
+                    <th>Aksi</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <% for (c of concern) {%>
+                        <tr>
+                            <td><%= c.nama %></td>
+                            <td>
+                              <a href="/concern/<%= c._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+                            </td>
+                        </tr>
+                    <% } %>  
+                  </tbody>
+                  <tfoot>
+                  <tr>
+                    <th>Nama Concern</th>
+                    <th>Aksi</th>
+                  </tr>
+                  </tfoot>
+                </table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  

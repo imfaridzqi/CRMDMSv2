@@ -1,0 +1,38 @@
+<button type="button" class="btn btn-info float-sm-right" data-toggle="modal" data-target="#modal-lg">
+    Tambah Program
+</button>
+
+
+<div class="modal fade" id="modal-lg">
+    <form action="/program/" method="POST" class="needs-validation" novalidate>
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title">Tambah Program Baru</h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+            <div class="card-body">
+                <div class="form-group">
+                <label for="nama">Nama Program</label>
+                <input type="text" class="form-control" id="nama" name="program[nama]" placeholder="Masukkan Nama Program" required>
+                <div class="invalid-feedback">
+                  Nama program harus diisi.
+                </div>
+                </div>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <div class="modal-footer justify-content-between">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+      </div>
+      <!-- /.modal-content -->
+    </form>
+    </div>
+    <!-- /.modal-dialog -->
+  </div>
+  <!-- /.modal -->

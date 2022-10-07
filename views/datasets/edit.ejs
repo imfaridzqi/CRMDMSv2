@@ -1,0 +1,148 @@
+<% layout("layouts/boilerplate.ejs") %> 
+
+ <!-- Content Wrapper. Contains page content -->
+ <div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+          <h1>Edit Data Peserta</h1>
+        </div>
+        <div class="col-sm-6">
+          <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item active">Edit Data Peserta</li>
+          </ol>
+        </div>
+      </div>
+    </div><!-- /.container-fluid -->
+  </section>
+
+  <!-- Main content -->
+  <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <!-- left column -->
+        <div class="col-md-12">
+          <!-- general form elements -->
+          <div class="card">
+            <div class="card-header">
+              <%- include("../partials/hapusdata")  %> 
+            </div>
+            <!-- /.card-header -->
+            <!-- form start -->
+            <form action="/datasets/<%= dataset._id %>?_method=PUT" method="POST" class="needs-validation" novalidate>
+              <div class="card-body">
+                <div class="card-body">
+
+                  <!-- Nama -->
+                  <div class="form-group">
+                    <label for="nama">Nama Peserta</label>
+                    <input type="text" class="form-control" id="nama" name="datasets[nama]" placeholder="Masukkan Nama" value="<%= dataset.nama %>" required>
+                    <div class="invalid-feedback">
+                      Nama harus diisi.
+                    </div>
+                  </div>
+
+                  <!-- Email -->
+                  <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" name="datasets[email]" placeholder="Masukkan Email" value="<%= dataset.email %>">
+                  </div>
+
+                  <!-- Nomor Handphone -->
+                  <div class="form-group">
+                    <label for="handphone">Handphone</label>
+                    <input type="text" class="form-control" id="handphone" name="datasets[handphone]" placeholder="Masukkan Nomor Handphone" value="<%= dataset.handphone %>">
+                  </div>
+
+                  <!-- Perusahaan -->
+                  <div class="form-group">
+                    <label for="perusahaan">Perusahaan</label>
+                    <input type="text" class="form-control" id="perusahaan" name="datasets[perusahaan]" placeholder="Masukkan Nama Perusahaan" value="<%= dataset.perusahaan %>">
+                  </div>
+
+                  <!-- Program -->
+                  <div class="form-group">
+                    <label>Program</label>
+                    <select class="form-control" name="datasets[program]">
+                      <option>Pilih Program</option>
+                        <% for (p of program) {%>
+                            <option value="<%= p.nama %>" <%= dataset.program == p.nama ? "selected" : "" %> ><%= p.nama %></option>
+                        <% } %>  
+                    </select>
+                  </div>
+
+                  <!-- Batch Program -->
+                  <div class="form-group">
+                    <label>Batch Program</label>
+                    <select class="form-control" name="datasets[batch]">
+                      <option>Pilih Batch Program</option>
+                        <% for (let i = 1; i <= 100; i++) {%>
+                            <option value="<%= i %>" <%= dataset.batch == i ? "selected" : "" %> ><%= i %></option>
+                        <% } %>  
+                    </select>
+                  </div>
+
+                  <!-- Status -->
+                  <div class="form-group">
+                    <label>Status</label>
+                    <select class="form-control" name="datasets[status]">
+                      <option>Pilih Status</option>
+                        <% for (s of status) {%>
+                            <option value="<%= s.nama %>" <%= dataset.status == s.nama ? "selected" : "" %>><%= s.nama %></option>
+                        <% } %>  
+                    </select>
+                  </div>
+
+                  <!-- Tanggal Input -->
+                  <div class="form-group">
+                    <label>Tanggal Input</label>
+                      <div class="input-group date" id="reservationdate" data-target-input="nearest">
+                          <input type="text" class="form-control datetimepicker-input" data-target="#reservationdate" name="datasets[tglInput]" placeholder="Masukkan Tanggal" value="<%= dataset.tglInput.getFullYear() %>-<%= ("0" + (dataset.tglInput.getUTCMonth() + 1)).slice(-2) %>-<%= ("0" + (dataset.tglInput.getDate())).slice(-2) %>">
+                          <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                              <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                          </div>
+                      </div>
+                  </div>
+
+                  <!-- Concern -->
+                  <div class="form-group">
+                    <label>Concern</label>
+                    <select class="form-control" name="datasets[concern]">
+                      <option>Pilih Concern</option>
+                        <% for (c of concern) {%>
+                            <option value="<%= c.nama %>" <%= dataset.concern == c.nama ? "selected" : "" %> ><%= c.nama %></option>
+                        <% } %>  
+                    </select>
+                  </div>
+
+                  <!-- Sumber -->
+                  <div class="form-group">
+                    <label>Sumber</label>
+                    <select class="form-control" name="datasets[sumber]">
+                      <option>Pilih Sumber</option>
+                        <% for (s of sumber) {%>
+                            <option value="<%= s.nama %>" <%= dataset.sumber == s.nama ? "selected" : "" %>><%= s.nama %></option>
+                        <% } %>  
+                    </select>
+                  </div>
+
+              </div>
+              <!-- /.card-body -->
+              <div class="card-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form>
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.col (left) -->
+      </div>
+      <!-- /.row -->
+    </div><!-- /.container-fluid -->
+  </section>
+  <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->

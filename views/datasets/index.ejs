@@ -1,0 +1,128 @@
+<% layout("layouts/boilerplate.ejs") %> 
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1>Data Peserta</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">Data Peserta</li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <div class="card-header">
+                <%- include("../partials/tambahdata") %> 
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                
+                <table border="0" cellspacing="5" cellpadding="5">
+                  <h4>Cari Berdasarkan Tanggal</h4>
+                  <tbody>
+                    <tr>
+                      <td>Tanggal awal:</td>
+                      <td><input type="text" id="min" name="min"></td>
+                    </tr>
+                    <tr>
+                      <td>Tanggal Akhir:</td>
+                      <td><input type="text" id="max" name="max"></td>
+                    </tr>
+                  </tbody>
+                </table>
+
+                
+
+                <table id="example1" class="table table-bordered table-hover">
+                  <thead>
+                  <tr>
+                    <th>Nama</th>
+                    <th>Email</th>
+                    <th>Handphone</th>
+                    <th>Perusahaan</th>
+                    <th>Program</th>
+                    <th>Batch</th>
+                    <th>Status</th>
+                    <th>Tanggal Input</th>
+                    <th>Atur Jadwal</th>
+                    <th>Concern</th>
+                    <th>Sumber</th>
+                    <th></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <% for (dataset of datasets) {%>
+                        <tr>
+                            <td><%= dataset.nama %></td>
+                            <td><%= dataset.email %></td>
+                            <td><%= dataset.handphone %></td>
+                            <td><%= dataset.perusahaan %></td>
+                            <td><%= dataset.program %></td>
+                            <td><%= dataset.batch %></td>
+                            <td><%= dataset.status %></td>
+                            <td><%= moment(dataset.tglInput).format("YYYY-MM-DD") %></td>
+                            <% if (dataset.status === "Refollow Up"){%>
+                              <% if (dataset.tglRefollowUp) {%>
+                                <td><%= moment(dataset.tglRefollowUp).format("YYYY-MM-DD") %></td>
+                              <% } else if (!dataset.tglRefollowUp) { %>
+                                <td><a href="/datasets/<%= dataset._id %>/aturjadwal">Atur Jadwal</a></td>
+                              <% } else {%>
+                                <td></td>
+                              <% } %>    
+                            <% } else  {%>
+                              <td></td>
+                            <% } %>  
+                            <td><%= dataset.concern %></td>
+                            <td><%= dataset.sumber %></td>
+                            <td>
+                              <a href="/datasets/<%= dataset._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+                            </td>
+                        </tr>
+                    <% } %>  
+                  </tbody>
+                  <tfoot>
+                  <tr>
+                    <th>Nama</th>
+                    <th>Email</th>
+                    <th>Handphone</th>
+                    <th>Perusahaan</th>
+                    <th>Program</th>
+                    <th>Batch</th>
+                    <th>Status</th>
+                    <th>Tanggal Input</th>
+                    <th>Atur Jadwal</th>
+                    <th>Concern</th>
+                    <th>Sumber</th>
+                    <th></th>
+                  </tr>
+                  </tfoot>
+                </table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  
