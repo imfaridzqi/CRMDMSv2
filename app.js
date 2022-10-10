@@ -23,6 +23,8 @@ const statusRoutes = require("./routes/status");
 const sumberRoutes = require("./routes/sumber");
 const userRoutes = require("./routes/user");
 
+// process.env.DB_URL
+
 mongoose.connect("mongodb://localhost:27017/DMSDatabase", {
     useNewUrlParser: true,
     useUnifiedTopology: true
@@ -45,7 +47,7 @@ app.use(express.urlencoded({extended: true}));
 app.use(methodOverride("_method"));
 
 const sessionConfig = {
-    secret: "thisshouldbeabettersecret",
+    secret: process.env.SECRET || "thisshouldbeabettersecret",
     resave: false,
     saveUninitialized: true,
     cookie: {
@@ -102,6 +104,6 @@ app.use((err, req, res, next) => {
     res.status(statusCode).render("error", { err });
   });
   
-app.listen(3000, ()=> {
-    console.log("App listening on port 3000");
+app.listen(process.env.PORT || 4000, ()=> {
+    console.log("App listening on port 4000");
 });
