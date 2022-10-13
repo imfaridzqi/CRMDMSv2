@@ -12,6 +12,7 @@ const session = require("express-session");
 const flash = require("connect-flash");
 const passport = require("passport");
 const moment = require("moment");
+const https = require("https");
 const LocalStrategy = require("passport-local");
 const User = require("./models/user");
 
@@ -22,6 +23,19 @@ const concernRoutes = require("./routes/concern");
 const statusRoutes = require("./routes/status");
 const sumberRoutes = require("./routes/sumber");
 const userRoutes = require("./routes/user");
+
+
+// Jokes API
+
+// const url = "https://candaan-api.vercel.app/api/text/random";
+// https.get(url, function(response) {
+
+//     response.on("data", function(data) {
+//         const jokesData = JSON.parse(data);
+//         const jokes = jokesData.data;
+//     });
+// });
+
 
 // process.env.DB_URL
 
@@ -91,7 +105,7 @@ app.use("/sumber", sumberRoutes);
 app.use("/user", userRoutes);
 
 app.get("/", (req, res) => {
-    res.render("home");
+    res.redirect("/datasets");
 });
 
 app.all("*", (req, res, next) => {

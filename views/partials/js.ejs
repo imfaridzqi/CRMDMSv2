@@ -56,6 +56,7 @@
 
 <script src="https://cdn.datatables.net/datetime/1.1.2/js/dataTables.dateTime.min.js"></script>
 
+<script src="https://cdn.datatables.net/plug-ins/1.12.1/i18n/id.json"></script>
 
 <script>
   var minDate, maxDate;
@@ -65,7 +66,7 @@
      function( settings, data, dataIndex ) {
          var min = minDate.val();
          var max = maxDate.val();
-         var date = new Date( data[7] );
+         var date = new Date( data[8] );
   
          if (
              ( min == null && max == null ) ||
@@ -87,11 +88,14 @@
      maxDate = new DateTime($('#max'), {
          format: 'YYYY-MM-DD'
      });
-  
+     
      // DataTables initialisation
      var table = $('#example1').DataTable({
             "scrollX": true,
             "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
+            "language": {
+            url: 'https://cdn.datatables.net/plug-ins/1.12.1/i18n/id.json'
+           },
             
             initComplete: function () {
           this.api()
@@ -115,7 +119,23 @@
                       });
               }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
       },
-        }).buttons();
+      columnDefs: [
+            {
+                searchable: false,
+                orderable: false,
+                targets: 0,
+            },
+        ],
+        order: [[1, 'asc']],
+    });
+ 
+    table.on('order.dt search.dt', function () {
+        let i = 1;
+ 
+        table.cells(null, 0, { search: 'applied', order: 'applied' }).every(function (cell) {
+            this.data(i++);
+        });
+        }).buttons().draw();
   
      // Refilter the table
      $('#min, #max').on('change', function () {

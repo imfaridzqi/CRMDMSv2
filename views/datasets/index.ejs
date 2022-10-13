@@ -30,7 +30,7 @@
               <!-- /.card-header -->
               <div class="card-body">
                 
-                <table border="0" cellspacing="5" cellpadding="5">
+                <table border="0" class="mb-5" cellspacing="5" cellpadding="5">
                   <h4>Cari Berdasarkan Tanggal</h4>
                   <tbody>
                     <tr>
@@ -49,6 +49,7 @@
                 <table id="example1" class="table table-bordered table-hover">
                   <thead>
                   <tr>
+                    <th></th>
                     <th>Nama</th>
                     <th>Email</th>
                     <th>Handphone</th>
@@ -66,6 +67,7 @@
                   <tbody>
                     <% for (dataset of datasets) {%>
                         <tr>
+                          <td></td>
                             <td><%= dataset.nama %></td>
                             <td><%= dataset.email %></td>
                             <td><%= dataset.handphone %></td>
@@ -95,6 +97,7 @@
                   </tbody>
                   <tfoot>
                   <tr>
+                    <th></th>
                     <th>Nama</th>
                     <th>Email</th>
                     <th>Handphone</th>
