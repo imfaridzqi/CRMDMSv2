@@ -23,8 +23,7 @@ const statusRoutes = require("./routes/status");
 const sumberRoutes = require("./routes/sumber");
 const userRoutes = require("./routes/user");
 
-// process.env.DB_URL
-
+// process.env.DB_URL || 
 mongoose.connect("mongodb://localhost:27017/DMSDatabase", {
     useNewUrlParser: true,
     useUnifiedTopology: true
