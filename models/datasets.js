@@ -6,6 +6,9 @@ const DatasetSchema = new Schema(
     nama: {
       type: String,
     },
+    gender: {
+      type: String,
+    },
     email: {
       type: String,
     },
@@ -48,6 +51,12 @@ const DatasetSchema = new Schema(
     tglRefollowUp: {
       type: Date,
     },
+    nomorSertifikat: {
+      type: String,
+    },
+    tglTerbitSertifikat: {
+      type: Date,
+    }
   },
   {timestamps: true}
   );

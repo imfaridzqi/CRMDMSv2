@@ -1,0 +1,127 @@
+
+  <script>
+      const ctx = document.getElementById('lineChart');
+      const DMjan = "<%= DMjanLength %>"
+      const DMfeb = "<%= DMfebLength %>"
+      const DMmar = "<%= DMmarLength %>"
+      const DMapr = "<%= DMaprLength %>"
+      const DMmay = "<%= DMmayLength %>"
+      const DMjun = "<%= DMjunLength %>"
+      const DMjul = "<%= DMjulLength %>"
+      const DMaug = "<%= DMaugLength %>"
+      const DMsep = "<%= DMsepLength %>"
+      const DMoct = "<%= DMoctLength %>"
+      const DMnov = "<%= DMnovLength %>"
+      const DMdec = "<%= DMdecLength %>"
+
+      const SMjan = "<%= SMjanLength %>"
+      const SMfeb = "<%= SMfebLength %>"
+      const SMmar = "<%= SMmarLength %>"
+      const SMapr = "<%= SMaprLength %>"
+      const SMmay = "<%= SMmayLength %>"
+      const SMjun = "<%= SMjunLength %>"
+      const SMjul = "<%= SMjulLength %>"
+      const SMaug = "<%= SMaugLength %>"
+      const SMsep = "<%= SMsepLength %>"
+      const SMoct = "<%= SMoctLength %>"
+      const SMnov = "<%= SMnovLength %>"
+      const SMdec = "<%= SMdecLength %>"
+
+      const HRMjan = "<%= HRMjanLength %>"
+      const HRMfeb = "<%= HRMfebLength %>"
+      const HRMmar = "<%= HRMmarLength %>"
+      const HRMapr = "<%= HRMaprLength %>"
+      const HRMmay = "<%= HRMmayLength %>"
+      const HRMjun = "<%= HRMjunLength %>"
+      const HRMjul = "<%= HRMjulLength %>"
+      const HRMaug = "<%= HRMaugLength %>"
+      const HRMsep = "<%= HRMsepLength %>"
+      const HRMoct = "<%= HRMoctLength %>"
+      const HRMnov = "<%= HRMnovLength %>"
+      const HRMdec = "<%= HRMdecLength %>"
+
+      const IHTjan = "<%= IHTjanLength %>"
+      const IHTfeb = "<%= IHTfebLength %>"
+      const IHTmar = "<%= IHTmarLength %>"
+      const IHTapr = "<%= IHTaprLength %>"
+      const IHTmay = "<%= IHTmayLength %>"
+      const IHTjun = "<%= IHTjunLength %>"
+      const IHTjul = "<%= IHTjulLength %>"
+      const IHTaug = "<%= IHTaugLength %>"
+      const IHTsep = "<%= IHTsepLength %>"
+      const IHToct = "<%= IHToctLength %>"
+      const IHTnov = "<%= IHTnovLength %>"
+      const IHTdec = "<%= IHTdecLength %>"
+
+    new Chart(ctx, {
+      type: 'line',
+      data: {
+        labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        datasets: [{
+          label: 'Sertifikasi Digital Marketing',
+          data: [DMjan, DMfeb, DMmar, DMapr, DMmay, DMjun, DMjul, DMaug, DMsep, DMoct, DMnov, DMdec],
+          borderWidth: 2
+        },
+        {
+          label: 'Sertifikasi Social Media',
+          data: [SMjan, SMfeb, SMmar, SMapr, SMmay, SMjun, SMjul, SMaug, SMsep, SMoct, SMnov, SMdec],
+          borderWidth: 2,
+        },
+        {
+          label: 'Human Resource Manager',
+          data: [HRMjan, HRMfeb, HRMmar, HRMapr, HRMmay, HRMjun, HRMjul, HRMaug, HRMsep, HRMoct, HRMnov, HRMdec],
+          borderWidth: 2,
+        },
+        {
+          label: 'In House Training',
+          data: [IHTjan, IHTfeb, IHTmar, IHTapr, IHTmay, IHTjun, IHTjul, IHTaug, IHTsep, IHToct, IHTnov, IHTdec],
+          borderWidth: 2,
+        }
+        
+    ]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+
+  <script>
+    const sumberChart = document.getElementById("sumber");
+    
+    const jan = "<%= DMFromWhatsAppJanLength %>";
+    const feb = "<%= DMFromWhatsAppFebLength %>";
+    const mar = "<%= DMFromWhatsAppMarLength %>";
+    const apr = "<%= DMFromWhatsAppAprLength %>";
+    const may = "<%= DMFromWhatsAppMayLength %>";
+    const jun = "<%= DMFromWhatsAppJunLength %>";
+    const jul = "<%= DMFromWhatsAppJulLength %>";
+    const aug = "<%= DMFromWhatsAppAugLength %>";
+    const sep = "<%= DMFromWhatsAppSepLength %>";
+    const oct = "<%= DMFromWhatsAppOctLength %>";
+    const nov = "<%= DMFromWhatsAppNovLength %>";
+    const dec = "<%= DMFromWhatsAppDecLength %>";
+
+    new Chart(sumberChart, {
+      type: 'line',
+      data: {
+        labels: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        datasets: [{
+          label: 'Sertifikasi Digital Marketing (Sumber dari WhatsApp)',
+          data: [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec],
+          borderWidth: 2
+        }]
+      },
+      options: {
+        scales: {
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>

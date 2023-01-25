@@ -2,7 +2,8 @@ const Program = require("../models/program");
 
 module.exports.index = async (req, res) => {
     const program = await Program.find({});
-    res.render("program", {program});
+    const title = "Program";
+    res.render("program", {program, title});
 };
 
 module.exports.create = async(req, res) => {

@@ -1,0 +1,415 @@
+<% layout("layouts/boilerplate.ejs") %>
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1>Data Alumni</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">Data Alumni</li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-info">
+              <div class="inner">
+                <h3><%= alumnis.length %></h3>
+
+                <p>Jumlah Alumni</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-university"></i>
+              </div>
+            </div>
+          </div>
+          <!-- ./col -->
+          <div class="col-lg-3 col-6">
+            <!-- small box -->
+            <div class="small-box bg-success">
+              <div class="inner">
+                <h3><%= average %> Tahun</h3>
+
+                <p>Rata-rata usia</p>
+              </div>
+              <div class="icon">
+                <i class="ion ion-ios-people"></i>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- /.row -->
+        <div class="row">
+          <div class="col-md-8">
+            <!-- PIE CHART -->
+            <div class="card card-info">
+              <div class="card-header">
+                <h3 class="card-title">Alumni Status Chart</h3>
+
+                <div class="card-tools">
+                  <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                    <i class="fas fa-minus"></i>
+                  </button>
+                  <button type="button" class="btn btn-tool" data-card-widget="remove">
+                    <i class="fas fa-times"></i>
+                  </button>
+                </div>
+              </div>
+              <div class="card-body">
+                <canvas id="winners"
+                  style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+
+          <div class="col-md-4">
+            <!-- PIE CHART -->
+            <div class="card card-info">
+              <div class="card-header">
+                <h3 class="card-title">Alumni Gender Chart</h3>
+                <div class="card-tools">
+                  <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                    <i class="fas fa-minus"></i>
+                  </button>
+                  <button type="button" class="btn btn-tool" data-card-widget="remove">
+                    <i class="fas fa-times"></i>
+                  </button>
+                </div>
+              </div>
+              <div class="card-body">
+                <canvas id="alumni"
+                  style="min-height: 250px; height: 250px; max-height: 250px; max-width: 100%;"></canvas>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+
+            <!-- End Pie Chart -->
+          </div>
+          <div class="col-12">
+            <div class="card">
+              <div class="card-header">
+                <%- include("../partials/tambahAlumni") %>
+              </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                <h5>Filter Data Alumni</h5>
+                <form class="mb-5">
+                  <div class="form-row">
+                    <div class="col" id="filter_col3" data-column="3">
+                      <label for="col3_filter">Program</label>
+                      <select class="form-control column_filter" id="col3_filter">
+                        <option value="">Pilih Program...</option>
+                        <% for (let p of program) {%>
+                          <option value="<%= p.nama %>">
+                            <%= p.nama %>
+                          </option>
+                          <% } %>
+                      </select>
+                    </div>
+                    <div class="col" id="filter_col4" data-column="4">
+                      <label for="col4_filter">Batch</label>
+                      <select class="form-control column_filter" id="col4_filter">
+                        <option value="">Pilih Batch...</option>
+                        <% for (let i=1; i <= 100; i++) {%>
+                          <option value="<%= i %>">
+                            <%= i %>
+                          </option>
+                          <% } %>
+                      </select>
+                    </div>
+                    <div class="col"></div>
+                    <div class="col"></div>
+                    <div class="col" style="display: none;">
+                      <label for="min">Tanggal Awal</label>
+                      <input class="form-control" type="text" id="min">
+                    </div>
+                    <div class="col" style="display: none;">
+                      <label for="max">Tanggal Akhir</label>
+                      <input class="form-control" type="text" id="max">
+                    </div>
+                    <div class="col">
+                      <label for="resetBtn">Reset Filter</label>
+                      <button type="button" class="form-control btn btn-danger" id="resetBtn">Reset</button>
+                    </div>
+                  </div>
+                </form>
+
+                <!-- <table border="0" class="mb-5" cellspacing="5" cellpadding="5">
+                  <h4>Cari Berdasarkan Tanggal</h4>
+                  <tbody>
+                    <tr>
+                      <td>Tanggal Awal:</td>
+                      <td><input type="text" id="min" name="min"></td>
+                    </tr>
+                    <tr>
+                      <td>Tanggal Akhir:</td>
+                      <td><input type="text" id="max" name="max"></td>
+                    </tr>
+                  </tbody>
+                </table> -->
+
+                <table class="table table-striped table-bordered nowrap alumni" style="width: 100%;">
+                  <thead>
+                    <tr>
+                      <!-- <th>No.</th> -->
+                      <th>Nama</th>
+                      <th>Gender</th>
+                      <th>Email</th>
+                      <th>Program</th>
+                      <th>Batch</th>
+                      <th>Nomor Handphone</th>
+                      <th>Tempat Lahir</th>
+                      <th>Tanggal Lahir</th>
+                      <th>Usia</th>
+                      <th>Sertifikat Terkirim</th>
+                      <th>Alamat</th>
+                      <th>Perusahaan</th>
+                      <th>Jabatan</th>
+                      <th>Status</th>
+                      <th>Pendidikan</th>
+                      <th>Jurusan</th>
+                      <th>Universitas</th>
+                      <th>Tanggal Keikutsertaan</th>
+                      <th>Tanggal Program</th>
+                      <th>Foto Formal</th>
+                      <th>Foto Non Formal</th>
+                      <th>CV</th>
+                      <th>Instagram</th>
+                      <th>Linked In</th>
+                      <th>Tanggal Ujian</th>
+                      <th>Alamat Pengiriman</th>
+                      <th>Sertifikat Keikutsertaan</th>
+                      <th>Nomor Sertifikat BNSP</th>
+                      <th>Tanggal Cetak Sertifikat</th>
+                      <th>Tanggal Akhir Berlaku Sertifikat</th>
+                      <th>No</th>
+                      <th>Property</th>
+                      <th>Daerah</th>
+                      <th></th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <% for (alumni of alumnis) {%>
+                      <% const today=moment(new Date()); const tahunLahirAlumni=moment(alumni.tglLahir); const
+                        tglLahir=moment(alumni.tglLahir).format("YYYY-MM-DD"); const
+                        usia=today.diff(tahunLahirAlumni, "years" ); const
+                        tglKeikutsertaan=moment(alumni.tglKeikutsertaan).format("YYYY-MM-DD"); const
+                        tglProgram=moment(alumni.tglKeikutsertaan).format("YYYY-MM-DD"); const
+                        tglUjian=moment(alumni.tglUjian).format("YYYY-MM-DD"); const
+                        tglCetakSertifikat=moment(alumni.tglCetakSertifikat).format("YYYY-MM-DD"); const
+                        tglAkhirBerlakuSertifikat=moment(alumni.tglAkhirBerlakuSertifikat).format("YYYY-MM-DD"); %>
+                        <tr>
+                          <!-- <td></td> -->
+                          <td>
+                            <%= alumni.nama %>
+                          </td>
+                          <td class="text-center">
+                            <% if (alumni.gender === "L") {%>
+                              <button type="button" class="btn btn-primary btn-sm"><%= alumni.gender %></button>
+                            <% } else { %>
+                              <button type="button" class="btn btn-default bg-maroon btn-sm"><%= alumni.gender %></button>
+                            <% } %>   
+                          </td>
+                          <td>
+                            <a href="mailto:<%= alumni.email %>"><%= alumni.email %></a>
+                          </td>
+                          <td>
+                            <%= alumni.program %>
+                          </td>
+                          <td>
+                            <%= alumni.batch %>
+                          </td>
+                          <td>
+                            <%= alumni.handphone %>
+                          </td>
+                          <td>
+                            <%= alumni.tempatLahir %>
+                          </td>
+                          <td>
+                            <%= tglLahir == "Invalid date" ? "-" : tglLahir %>
+                          </td>
+                          <td>
+                            <%= usia > 0 ? usia + " Tahun" : "-" %>
+                          </td>
+                          <td>
+                            <%= alumni.sertifikatTerkirim %>
+                          </td>
+                          <td>
+                            <%= alumni.alamat %>
+                          </td>
+                          <td>
+                            <%= alumni.perusahaan %>
+                          </td>
+                          <td>
+                            <%= alumni.jabatan %>
+                          </td>
+                          <td>
+                            <%= alumni.status %>
+                          </td>
+                          <td>
+                            <%= alumni.pendidikan %>
+                          </td>
+                          <td>
+                            <%= alumni.jurusan %>
+                          </td>
+                          <td>
+                            <%= alumni.universitas %>
+                          </td>
+                          <td>
+                            <%= tglKeikutsertaan == "Invalid date" ? "-" : tglKeikutsertaan %>
+                          </td>
+                          <td>
+                            <%= tglProgram == "Invalid date" ? "-" : tglProgram %>
+                          </td>
+                          <td><a href=<%=alumni.fotoFormal %>><%= alumni.fotoFormal %></a></td>
+                          <td><a href=<%=alumni.fotoNonFormal %>><%= alumni.fotoNonFormal %></a></td>
+                          <td><a href="<%= alumni.cv %>">
+                              <%= alumni.cv %>
+                            </a></td>
+                          <td>
+                            <%= alumni.instagram %>
+                          </td>
+                          <td>
+                            <%= alumni.linkedin %>
+                          </td>
+                          <td>
+                            <%= tglUjian == "Invalid date" ? "-" : tglUjian %>
+                          </td>
+                          <td>
+                            <%= alumni.alamatPengiriman %>
+                          </td>
+                          <td>
+                            <%= alumni.sertifikatKeikutsertaan %>
+                          </td>
+                          <td>
+                            <%= alumni.nomorSertifikatBNSP %>
+                          </td>
+                          <td>
+                            <%= tglCetakSertifikat == "Invalid date" ? "-" : tglCetakSertifikat %>
+                          </td>
+                          <td>
+                            <%= tglAkhirBerlakuSertifikat == "Invalid date" ? "-" : tglAkhirBerlakuSertifikat %>
+                          </td>
+                          <td>
+                            <%= alumni.no %>
+                          </td>
+                          <td>
+                            <%= alumni.property %>
+                          </td>
+                          <td>
+                            <%= alumni.daerah %>
+                          </td>
+                          <td>
+                            <a href="/alumni/<%= alumni._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+                          </td>
+                        </tr>
+                        <% } %>
+                  </tbody>
+                </table>
+              </div>
+              <!-- /.card-body -->
+            </div>
+            <!-- /.card -->
+          </div>
+          <!-- /.col -->
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+// var chartData = [{"visitor": 39, "visit": 1}, {"visitor": 18, "visit": 2}]
+
+const lakiLaki = "<%= totalLakiLaki %>";
+const perempuan = "<%= totalPerempuan %>";
+
+var visitorData = [lakiLaki, perempuan],
+    visitData = ["Laki -Laki", "Perempuan"];
+
+// for (var i = 0; i < chartData.length; i++) {
+//     visitorData.push(chartData[i]['visitor'])
+//     visitData.push(chartData[i]['visit'])
+// }
+
+var myChart = new Chart(document.getElementById('alumni'), {
+    type: 'doughnut',
+    data: {
+        labels: visitData,
+        datasets: [{
+            label: 'Total',
+            data: visitorData,
+            backgroundColor: [
+            'rgb(54, 162, 235)',
+            'rgb(255, 99, 132)',
+            ]
+        }]
+    },
+    options: {
+        responsive: true,
+        legend: false,
+        legendCallback: function(chart) {
+            var legendHtml = [];
+            legendHtml.push('<ul>');
+            var item = chart.data.datasets[0];
+            for (var i=0; i < item.data.length; i++) {
+                legendHtml.push('<li onclick="updateDataset(event, ' + '\'' + item.data[i] + '\'' + '); ">');
+                legendHtml.push('<span class="chart-legend" style="background-color:' + item.backgroundColor[i] +'"></span>');
+                legendHtml.push('<span class="chart-legend-label-text">' + item.data[i] + ' person - '+chart.data.labels[i]+' times</span>');
+                legendHtml.push('</li>');
+            }
+            legendHtml.push('</ul>');
+            return legendHtml.join("");
+        }
+    }
+});
+
+const key = "<%= statusKey %>";
+const value = "<%= statusValue %>";
+
+const keyArr = key.split(",");
+const valueArr = value.split(",");
+
+var ctx = document.getElementById('winners').getContext('2d');
+var chart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: keyArr,
+        datasets: [{
+            label: 'Status Alumni',
+            data: valueArr,
+            backgroundColor: '#99c4c8',
+            borderColor: '#1b7fbd',
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+
+</script>

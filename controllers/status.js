@@ -2,7 +2,8 @@ const Status = require("../models/status");
 
 module.exports.index = async(req, res) => {
     const status = await Status.find({});
-    res.render("status", {status});
+    const title = "Status"
+    res.render("status", {status, title});
 };
 
 module.exports.create = async(req, res) => {

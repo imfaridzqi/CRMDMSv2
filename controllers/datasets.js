@@ -3,6 +3,7 @@ const Program = require("../models/program");
 const Concern = require("../models/concern");
 const Status = require("../models/status");
 const Sumber = require("../models/sumber");
+const Batch = require("../models/batch");
 
 module.exports.index = async(req, res) => {
     const datasets = await Dataset.find({});
@@ -10,7 +11,9 @@ module.exports.index = async(req, res) => {
     const concern = await Concern.find({});
     const status = await Status.find({});
     const sumber = await Sumber.find({});
-    res.render("datasets/index", {datasets, program, concern, status, sumber});
+    const batch = await Batch.find({});
+    const title = "Datasets";
+    res.render("datasets/index", {datasets, program, concern, status, sumber, batch, title});
 };
 
 module.exports.renderNewForm = (req, res) => {

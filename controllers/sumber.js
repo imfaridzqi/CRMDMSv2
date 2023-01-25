@@ -2,7 +2,8 @@ const Sumber = require("../models/sumber");
 
 module.exports.index = async(req, res) => {
     const sumber = await Sumber.find({});
-    res.render("sumber", {sumber});
+    const title = "Sumber";
+    res.render("sumber", {sumber, title});
 };
 
 module.exports.create = async (req, res) => {

@@ -1,0 +1,54 @@
+<table class="table display table-striped table-bordered nowrap sdm" cellspacing="0" width="100%">
+<thead>
+<tr>
+<!-- <th>No.</th> -->
+<th>Nama</th>
+<th>Gender</th>
+<th>Email</th>
+<th>Handphone</th>
+<th>Program</th>
+<th>Batch</th>
+<th>Perusahaan</th>
+<th>Jabatan</th>
+<th>Status</th>
+<th>Tanggal Input</th>
+<th>Atur Jadwal</th>
+<th>Concern</th>
+<th>Sumber</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<% for (data of dataLeadsSDM) {%>
+    <tr>
+        <!-- <td></td> -->
+        <td><%= data.nama %></td>
+        <td><%= data.gender %></td>
+        <td><%= data.email %></td>
+        <td><%= data.handphone %></td>
+        <td><%= data.program %></td>
+        <td><%= data.batch %></td>
+        <td><%= data.perusahaan %></td>
+        <td><%= data.jabatan %></td>
+        <td><%= data.status %></td>
+        <td><%= moment(data.tglInput).format("YYYY-MM-DD") %></td>
+        <% if (data.status === "Refollow Up"){%>
+          <% if (data.tglRefollowUp) {%>
+            <td><%= moment(data.tglRefollowUp).format("YYYY-MM-DD") %></td>
+          <% } else if (!data.tglRefollowUp) { %>
+            <td><a href="/datasets/<%= data._id %>/aturjadwal">Atur Jadwal</a></td>
+          <% } else {%>
+            <td></td>
+          <% } %>    
+        <% } else  {%>
+          <td></td>
+        <% } %>  
+        <td><%= data.concern %></td>
+        <td><%= data.sumber %></td>
+        <td>
+          <a href="/datasets/<%= data._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+        </td>
+    </tr>
+<% } %>  
+</tbody>
+</table>

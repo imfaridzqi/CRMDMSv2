@@ -8,10 +8,15 @@
 <script src="../../dist/js/adminlte.js"></script>
 
 <!-- OPTIONAL SCRIPTS -->
-<script src="../../plugins/chart.js/Chart.min.js"></script>
 
+<script
+  src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.0.1/chart.min.js"
+  integrity="sha512-tQYZBKe34uzoeOjY9jr3MX7R/mo7n25vnqbnrkskGr4D6YOoPYSpyafUAzQVjV6xAozAqUFIEFsCO4z8mnVBXA=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+></script>
 
-<script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+<!-- <script src="https://code.jquery.com/jquery-3.5.1.js"></script> -->
 <!-- <script src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script> -->
 
 <!-- DataTables  & Plugins -->
@@ -43,8 +48,7 @@
 <script src="../../plugins/inputmask/jquery.inputmask.min.js"></script>
 <!-- date-range-picker -->
 <script src="../../plugins/daterangepicker/daterangepicker.js"></script>
-<!-- bootstrap color picker -->
-<script src="../../plugins/bootstrap-colorpicker/js/bootstrap-colorpicker.min.js"></script>
+
 <!-- Tempusdominus Bootstrap 4 -->
 <script src="../../plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
 <!-- Bootstrap Switch -->
@@ -54,229 +58,540 @@
 
 <!-- Daterange -->
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 <script src="https://cdn.datatables.net/datetime/1.1.2/js/dataTables.dateTime.min.js"></script>
 
 <script src="https://cdn.datatables.net/plug-ins/1.12.1/i18n/id.json"></script>
 
+<script src="https://cdn.datatables.net/buttons/2.3.2/js/dataTables.buttons.min.js"></script>
+
+<script src="https://cdn.datatables.net/buttons/2.3.2/js/buttons.html5.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+
 <script>
-  var minDate, maxDate;
- 
- // Custom filtering function which will search data in column four between two values
- $.fn.dataTable.ext.search.push(
-     function( settings, data, dataIndex ) {
-         var min = minDate.val();
-         var max = maxDate.val();
-         var date = new Date( data[8] );
-  
-         if (
-             ( min == null && max == null ) ||
-             ( min == null && date <= max ) ||
-             ( min <= date && max == null ) ||
-             ( min <= date && date <= max )
-         ) {
-             return true;
-         }
-         return false;
-     }
- );
-  
- $(document).ready(function() {
-     // Create date inputs
-     minDate = new DateTime($('#min'), {
-         format: 'YYYY-MM-DD'
-     });
-     maxDate = new DateTime($('#max'), {
-         format: 'YYYY-MM-DD'
-     });
-     
-     // DataTables initialisation
-     var table = $('#example1').DataTable({
-            "scrollX": true,
-            "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
-            "language": {
-            url: 'https://cdn.datatables.net/plug-ins/1.12.1/i18n/id.json'
-           },
-            
-            initComplete: function () {
-          this.api()
-              .columns()
-              .every(function () {
-                  var column = this;
-                  var select = $('<select><option value=""></option></select>')
-                      .appendTo($(column.footer()).empty())
-                      .on('change', function () {
-                          var val = $.fn.dataTable.util.escapeRegex($(this).val());
-
-                          column.search(val ? '^' + val + '$' : '', true, false).draw();
-                      });
-
-                  column
-                      .data()
-                      .unique()
-                      .sort()
-                      .each(function (d, j) {
-                          select.append('<option value="' + d + '">' + d + '</option>');
-                      });
-              }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
-      },
-      columnDefs: [
-            {
-                searchable: false,
-                orderable: false,
-                targets: 0,
+  $(document).ready(function () {
+    /* = NOTE : don't add "id" in <table> if not necessary, is added than replace each "id" here = */
+    var table = $(".alumni").DataTable({
+      dom: "Bfrtip",
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
             },
-        ],
-        order: [[1, 'asc']],
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
+        },
+      },
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
     });
- 
-    table.on('order.dt search.dt', function () {
-        let i = 1;
- 
-        table.cells(null, 0, { search: 'applied', order: 'applied' }).every(function (cell) {
-            this.data(i++);
-        });
-        }).buttons().draw();
-  
-     // Refilter the table
-     $('#min, #max').on('change', function () {
-         table.draw();
-     });
- });
+    function filterColumn(i) {
+      $(".alumni")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
+
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+  /* =========================================================================================== */
+  /* ============================ BOOTSTRAP 3/4 EVENT ========================================== */
+  $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
+    $($.fn.dataTable.tables(true))
+      .DataTable()
+      .columns.adjust()
+      .responsive.recalc();
+  });
+  /* =========================================================================================== */
 </script>
 
-<!-- <script>
-    $(function () {
-        $("#example1").DataTable({
-            "scrollX": true,
-            "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"],
-            
-            initComplete: function () {
-          this.api()
-              .columns()
-              .every(function () {
-                  var column = this;
-                  var select = $('<select><option value=""></option></select>')
-                      .appendTo($(column.footer()).empty())
-                      .on('change', function () {
-                          var val = $.fn.dataTable.util.escapeRegex($(this).val());
-
-                          column.search(val ? '^' + val + '$' : '', true, false).draw();
-                      });
-
-                  column
-                      .data()
-                      .unique()
-                      .sort()
-                      .each(function (d, j) {
-                          select.append('<option value="' + d + '">' + d + '</option>');
-                      });
-              });
+<script>
+  $(document).ready(function () {
+    /* = NOTE : don't add "id" in <table> if not necessary, is added than replace each "id" here = */
+    var table = $(".sdm").DataTable({
+      dom: "Bfrtip",
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
+            },
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
+        },
       },
-        }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
     });
-  </script> -->
+    function filterColumn(i) {
+      $(".sdm")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
+
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+  /* =========================================================================================== */
+  /* ============================ BOOTSTRAP 3/4 EVENT ========================================== */
+  $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
+    $($.fn.dataTable.tables(true))
+      .DataTable()
+      .columns.adjust()
+      .responsive.recalc();
+  });
+  /* =========================================================================================== */
+</script>
 
 <script>
-    $(function () {
-      //Initialize Select2 Elements
-      $('.select2').select2()
-  
-      //Initialize Select2 Elements
-      $('.select2bs4').select2({
-        theme: 'bootstrap4'
-      })
-  
-      //Datemask dd/mm/yyyy
-      $('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
-      //Datemask2 mm/dd/yyyy
-      $('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
-      //Money Euro
-      $('[data-mask]').inputmask()
-  
-      //Date picker
-      $('#reservationdate').datetimepicker({
-          format: 'YYYY-MM-DD'
-      });
-  
-      //Date and time picker
-      $('#reservationdatetime').datetimepicker({ icons: { time: 'far fa-clock' } });
-  
-      //Date range picker
-      $('#reservation').daterangepicker({
-        locale: {
-          format: "YYYY-MM-DD"
-        }
-      })
-      //Date range picker with time picker
-      $('#reservationtime').daterangepicker({
-        timePicker: true,
-        timePickerIncrement: 30,
-        locale: {
-          format: 'MM/DD/YYYY hh:mm A'
-        }
-      })
-      //Date range as a button
-      $('#daterange-btn').daterangepicker(
-        {
-          ranges   : {
-            'Today'       : [moment(), moment()],
-            'Yesterday'   : [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
-            'Last 7 Days' : [moment().subtract(6, 'days'), moment()],
-            'Last 30 Days': [moment().subtract(29, 'days'), moment()],
-            'This Month'  : [moment().startOf('month'), moment().endOf('month')],
-            'Last Month'  : [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
-          },
-          startDate: moment().subtract(29, 'days'),
-          endDate  : moment()
+  $(document).ready(function () {
+    /* = NOTE : don't add "id" in <table> if not necessary, is added than replace each "id" here = */
+    var table = $(".ssm").DataTable({
+      dom: "Bfrtip",
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
+            },
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
         },
-        function (start, end) {
-          $('#reportrange span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
-        }
-      )
-  
-      //Timepicker
-      $('#timepicker').datetimepicker({
-        format: 'LT'
-      })
-  
-      //Bootstrap Duallistbox
-      $('.duallistbox').bootstrapDualListbox()
-  
-      //Colorpicker
-      $('.my-colorpicker1').colorpicker()
-      //color picker with addon
-      $('.my-colorpicker2').colorpicker()
-  
-      $('.my-colorpicker2').on('colorpickerChange', function(event) {
-        $('.my-colorpicker2 .fa-square').css('color', event.color.toString());
-      })
-  
-      $("input[data-bootstrap-switch]").each(function(){
-        $(this).bootstrapSwitch('state', $(this).prop('checked'));
-      })
-  
-    })
-   
-  </script>
+      },
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
+    });
+    function filterColumn(i) {
+      $(".ssm")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
 
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+  /* =========================================================================================== */
+  /* ============================ BOOTSTRAP 3/4 EVENT ========================================== */
+  $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
+    $($.fn.dataTable.tables(true))
+      .DataTable()
+      .columns.adjust()
+      .responsive.recalc();
+  });
+  /* =========================================================================================== */
+</script>
+
+<script>
+  $(document).ready(function () {
+    /* = NOTE : don't add "id" in <table> if not necessary, is added than replace each "id" here = */
+    var table = $(".hrm").DataTable({
+      dom: "Bfrtip",
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
+            },
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
+        },
+      },
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
+    });
+    function filterColumn(i) {
+      $(".hrm")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
+
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+  /* =========================================================================================== */
+  /* ============================ BOOTSTRAP 3/4 EVENT ========================================== */
+  $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
+    $($.fn.dataTable.tables(true))
+      .DataTable()
+      .columns.adjust()
+      .responsive.recalc();
+  });
+  /* =========================================================================================== */
+</script>
+
+<script>
+  $(document).ready(function () {
+    /* = NOTE : don't add "id" in <table> if not necessary, is added than replace each "id" here = */
+    var table = $(".inhouse").DataTable({
+      dom: "Bfrtip",
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
+            },
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
+        },
+      },
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
+    });
+    function filterColumn(i) {
+      $(".inhouse")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
+
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+  /* =========================================================================================== */
+  /* ============================ BOOTSTRAP 3/4 EVENT ========================================== */
+  $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
+    $($.fn.dataTable.tables(true))
+      .DataTable()
+      .columns.adjust()
+      .responsive.recalc();
+  });
+  /* =========================================================================================== */
+</script>
+
+<script>
+  var minDate, maxDate;
+
+  // Custom filtering function which will search data in column four between two values
+  $.fn.dataTable.ext.search.push(function (settings, data, dataIndex) {
+    let min = moment($("#min").val()).isValid()
+      ? new Date($("#min").val()).setUTCHours(0, 0, 0, 0)
+      : null;
+    let max = moment($("#max").val()).isValid()
+      ? new Date($("#max").val()).setUTCHours(23, 59, 59, 999)
+      : null;
+    var date = new Date(data[9]);
+
+    if (
+      (min == null && max == null) ||
+      (min == null && date <= max) ||
+      (min <= date && max == null) ||
+      (min <= date && date <= max)
+    ) {
+      return true;
+    }
+    return false;
+  });
+
+  $(document).ready(function () {
+    // Create date inputs
+    minDate = new DateTime($("#min"), {
+      format: "YYYY-MM-DD",
+    });
+    maxDate = new DateTime($("#max"), {
+      format: "YYYY-MM-DD",
+    });
+
+    // DataTables initialisation
+    var table = $("#example1").DataTable({
+      language: {
+        url: "https://cdn.datatables.net/plug-ins/1.12.1/i18n/id.json",
+      },
+      dom: "Bfrtip",
+      buttons: [
+        "copyHtml5",
+        "excelHtml5",
+        "csvHtml5",
+        {
+          extend: "pdfHtml5",
+          orientation: "landscape",
+          pageSize: "4A0",
+        },
+      ],
+      responsive: {
+        details: {
+          display: $.fn.dataTable.Responsive.display.modal({
+            header: function (row) {
+              var data = row.data();
+              return "Details for " + data[0];
+            },
+          }),
+          renderer: $.fn.dataTable.Responsive.renderer.tableAll({
+            tableClass: "table",
+          }),
+        },
+      },
+    });
+
+    // table.on('order.dt search.dt', function () {
+    //     let i = 1;
+
+    //     table.cells(null, 0, { search: 'applied', order: 'applied' }).every(function (cell) {
+    //         this.data(i++);
+    //     });
+    //     }).buttons().draw();
+
+    // Refilter the table
+    $("#min, #max").on("change", function () {
+      table.draw();
+    });
+
+    function filterGlobal() {
+      $("#example1").DataTable().search($("#global_filter").val()).draw();
+    }
+
+    function filterColumn(i) {
+      $("#example1")
+        .DataTable()
+        .column(i)
+        .search("^" + $("#col" + i + "_filter").val() + "$", true, false, true)
+        .draw();
+    }
+    //
+    //
+    //-------------------------------------------------------------------------------
+
+    $("input.column_filter").on("keyup click", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("select.column_filter").on("change", function () {
+      filterColumn($(this).parents("div").attr("data-column"));
+    });
+
+    $("#resetBtn").on("click", function () {
+      table.search("").columns().search("").draw();
+    });
+  });
+</script>
+
+<script>
+  $(function () {
+    //Initialize Select2 Elements
+    $(".select2").select2();
+
+    //Initialize Select2 Elements
+    $(".select2bs4").select2({
+      theme: "bootstrap4",
+    });
+
+    //Datemask dd/mm/yyyy
+    $("#datemask").inputmask("dd/mm/yyyy", { placeholder: "dd/mm/yyyy" });
+    //Datemask2 mm/dd/yyyy
+    $("#datemask2").inputmask("mm/dd/yyyy", { placeholder: "mm/dd/yyyy" });
+    //Money Euro
+    $("[data-mask]").inputmask();
+
+    //Date picker
+    $("#reservationdate").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal Lahir Alumni
+    $("#tglLahir").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal Keikutsertaan
+    $("#tglKeikutsertaan").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal Program
+    $("#tglProgram").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal Ujian
+    $("#tglUjian").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal cetak sertifikat
+    $("#tglCetakSertifikat").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    // Tanggal Akhir berlaku sertifikat
+    $("#tglAkhirBerlakuSertifikat").datetimepicker({
+      format: "YYYY-MM-DD",
+    });
+
+    //Date and time picker
+    $("#reservationdatetime").datetimepicker({
+      icons: { time: "far fa-clock" },
+    });
+
+    //Date range picker
+    $("#reservation").daterangepicker({
+      locale: {
+        format: "YYYY-MM-DD",
+      },
+    });
+    //Date range picker with time picker
+    $("#reservationtime").daterangepicker({
+      timePicker: true,
+      timePickerIncrement: 30,
+      locale: {
+        format: "MM/DD/YYYY hh:mm A",
+      },
+    });
+    //Date range as a button
+    $("#daterange-btn").daterangepicker(
+      {
+        ranges: {
+          Today: [moment(), moment()],
+          Yesterday: [
+            moment().subtract(1, "days"),
+            moment().subtract(1, "days"),
+          ],
+          "Last 7 Days": [moment().subtract(6, "days"), moment()],
+          "Last 30 Days": [moment().subtract(29, "days"), moment()],
+          "This Month": [moment().startOf("month"), moment().endOf("month")],
+          "Last Month": [
+            moment().subtract(1, "month").startOf("month"),
+            moment().subtract(1, "month").endOf("month"),
+          ],
+        },
+        startDate: moment().subtract(29, "days"),
+        endDate: moment(),
+      },
+      function (start, end) {
+        $("#reportrange span").html(
+          start.format("MMMM D, YYYY") + " - " + end.format("MMMM D, YYYY")
+        );
+      }
+    );
+
+    //Timepicker
+    $("#timepicker").datetimepicker({
+      format: "LT",
+    });
+
+    $("input[data-bootstrap-switch]").each(function () {
+      $(this).bootstrapSwitch("state", $(this).prop("checked"));
+    });
+  });
+</script>
 
 <script>
   // Example starter JavaScript for disabling form submissions if there are invalid fields
-  (function() {
-    'use strict';
-    window.addEventListener('load', function() {
-      // Fetch all the forms we want to apply custom Bootstrap validation styles to
-      var forms = document.getElementsByClassName('needs-validation');
-      // Loop over them and prevent submission
-      var validation = Array.prototype.filter.call(forms, function(form) {
-        form.addEventListener('submit', function(event) {
-          if (form.checkValidity() === false) {
-            event.preventDefault();
-            event.stopPropagation();
-          }
-          form.classList.add('was-validated');
-        }, false);
-      });
-    }, false);
+  (function () {
+    "use strict";
+    window.addEventListener(
+      "load",
+      function () {
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.getElementsByClassName("needs-validation");
+        // Loop over them and prevent submission
+        var validation = Array.prototype.filter.call(forms, function (form) {
+          form.addEventListener(
+            "submit",
+            function (event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              form.classList.add("was-validated");
+            },
+            false
+          );
+        });
+      },
+      false
+    );
   })();
-  </script>
+</script>

@@ -6,7 +6,7 @@ module.exports.renderLoginForm = (req, res) => {
 
 module.exports.login = (req, res) => {
     req.flash("success", `Selamat datang, ${req.user.username}`);
-    res.redirect("/datasets");
+    res.redirect("/dashboard");
 };
 
 module.exports.renderRegisterForm = (req, res) => {
@@ -21,7 +21,7 @@ module.exports.register = async(req, res) => {
         req.login(registeredUser, err => {
             if (err) return next(err);
             req.flash("success", "Selamat Datang");
-            res.redirect("/datasets");
+            res.redirect("/dashboard");
         });
     } catch (e) {
         req.flash("error", e.message);

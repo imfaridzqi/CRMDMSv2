@@ -1,0 +1,242 @@
+<% layout("layouts/boilerplate.ejs") %> 
+
+ <!-- Content Wrapper. Contains page content -->
+ <div class="content-wrapper">
+  <!-- Content Header (Page header) -->
+  <section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+          <h1>Edit Data <%= alumni.nama %></h1>
+        </div>
+        <div class="col-sm-6">
+          <ol class="breadcrumb float-sm-right">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item active">Edit Data Alumni</li>
+          </ol>
+        </div>
+      </div>
+    </div><!-- /.container-fluid -->
+  </section>
+
+  <!-- Main content -->
+  <section class="content">
+    <div class="container-fluid">
+      <div class="row">
+        <!-- left column -->
+        <div class="col-md-12">
+          <!-- general form elements -->
+          <div class="card">
+            <div class="card-header">
+                <%- include("../partials/hapusalumni")  %> 
+              </div>
+            <!-- /.card-header -->
+            <!-- form start -->
+            <form action="/alumni/<%= alumni._id %>?_method=PUT" method="POST" class="needs-validation" novalidate>
+              <div class="card-body">
+                <div class="card-body">
+                    <% 
+                        const tglLahir = moment(alumni.tglLahir).format("YYYY-MM-DD");
+                        const tglKeikutsertaan = moment(alumni.tglKeikutsertaan).format("YYYY-MM-DD");
+                        const tglProgram = moment(alumni.tglKeikutsertaan).format("YYYY-MM-DD");
+                        const tglUjian = moment(alumni.tglUjian).format("YYYY-MM-DD");
+                        const tglCetakSertifikat = moment(alumni.tglCetakSertifikat).format("YYYY-MM-DD");
+                        const tglAkhirBerlakuSertifikat = moment(alumni.tglAkhirBerlakuSertifikat).format("YYYY-MM-DD");
+                      %> 
+                    <div class="form-group">
+                        <label for="nama">Nama</label>
+                        <input type="text" class="form-control" id="nama" name="alumni[nama]" placeholder="Masukkan Nama" value="<%= alumni.nama %>" required>
+                        <div class="invalid-feedback">
+                          Nama harus diisi.
+                        </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="gender">Gender</label>
+                        <select class="form-control" id="gender" name="alumni[gender]">
+                            <option>Pilih Gender</option>
+                            <option value="L" <%= alumni.gender === "L" ? "selected" : "" %>>L</option>
+                            <option value="P" <%= alumni.gender === "P" ? "selected" : "" %>>P</option>
+                        </select>
+                      </div>
+                      <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="text" class="form-control" id="email" value="<%= alumni.email %>" name="alumni[email]" placeholder="Masukkan Email">
+                      </div>
+                      <div class="form-group">
+                        <label>Program</label>
+                        <select class="form-control" name="alumni[program]">
+                          <option>Pilih Program</option>
+                            <% for (p of program) {%>
+                                <option value="<%= p.nama %>" <%= alumni.program === p.nama ? "selected" : "" %>><%= p.nama %></option>
+                            <% } %>  
+                        </select>
+                      </div>
+                      <div class="form-group">
+                        <label>Batch Program</label>
+                        <select class="form-control" name="alumni[batch]">
+                          <option>Pilih Batch Program</option>
+                            <% for (let i = 1; i <= 100; i++) {%>
+                                <option value="<%= i %>" <%= alumni.batch == i ? "selected" : "" %>><%= i %></option>
+                            <% } %>  
+                        </select>
+                      </div>
+                      <div class="form-group">
+                        <label for="handphone">Nomor Handphone</label>
+                        <input type="text" class="form-control" id="handphone" name="alumni[handphone]" value="<%= alumni.handphone %>" placeholder="Masukkan Nomor Handphone">
+                      </div>
+                      <div class="form-group">
+                        <label for="tempatLahir">Tempat Lahir</label>
+                        <input type="text" class="form-control" id="tempatLahir" name="alumni[tempatLahir]" value="<%= alumni.tempatLahir %>" placeholder="Masukkan Tempat Lahir">
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Lahir</label>
+                          <div class="input-group date" id="tglLahir" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglLahir" name="alumni[tglLahir]" value="<%= tglLahir %>" placeholder="Masukkan Tanggal Lahir">
+                              <div class="input-group-append" data-target="#tglLahir" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="sertifikatTerkirim">Sertifikat Terkirim</label>
+                        <input type="text" class="form-control" id="sertifikatTerkirim" name="alumni[sertifikatTerkirim]" value="<%= alumni.sertifikatTerkirim %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="alamat">Alamat</label>
+                        <input type="text" class="form-control" id="alamat" name="alumni[alamat]" placeholder="Masukkan Alamat" value="<%= alumni.alamat %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="perusahaan">Perusahaan</label>
+                        <input type="text" class="form-control" id="perusahaan" name="alumni[perusahaan]" placeholder="Masukkan Nama Perusahaan" value="<%= alumni.perusahaan %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="jabatan">Jabatan</label>
+                        <input type="text" class="form-control" id="jabatan" name="alumni[jabatan]" placeholder="Masukkan Jabatan" value="<%= alumni.jabatan %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="status">Status</label>
+                        <input type="text" class="form-control" id="status" name="alumni[status]" placeholder="Masukkan Status" value="<%= alumni.status %>" >
+                      </div>
+                      <div class="form-group">
+                        <label for="pendidikan">Pendidikan Terakhir</label>
+                        <input type="text" class="form-control" id="pendidikan" name="alumni[pendidikan]" placeholder="Masukkan Pendidikan Terakhir" value="<%= alumni.pendidikan %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="jurusan">Jurusan</label>
+                        <input type="text" class="form-control" id="jurusan" name="alumni[jurusan]" placeholder="Masukkan Jurusan" value="<%= alumni.jurusan %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="universitas">Universitas</label>
+                        <input type="text" class="form-control" id="universitas" name="alumni[universitas]" placeholder="Masukkan Universitas" value="<%= alumni.universitas %>">
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Keikutsertaan</label>
+                          <div class="input-group date" id="tglKeikutsertaan" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglKeikutsertaan" name="alumni[tglKeikutsertaan]" placeholder="Masukkan Tanggal" value="<%= tglKeikutsertaan %>">
+                              <div class="input-group-append" data-target="#tglKeikutsertaan" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Program</label>
+                          <div class="input-group date" id="tglProgram" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglProgram" name="alumni[tglProgram]" placeholder="Masukkan Tanggal" value="<%= tglProgram %>">
+                              <div class="input-group-append" data-target="#tglProgram" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="fotoFormal">Foto Formal</label>
+                        <input type="text" class="form-control" id="fotoFormal" name="alumni[fotoFormal]" placeholder="Masukkan Link Foto Formal" value="<%= alumni.fotoFormal %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="fotoNonFormal">Foto Non Formal</label>
+                        <input type="text" class="form-control" id="fotoNonFormal" name="alumni[fotoNonFormal]" placeholder="Masukkan Link Foto Non Formal" value="<%= alumni.fotoNonFormal %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="cv">CV</label>
+                        <input type="text" class="form-control" id="cv" name="alumni[cv]" placeholder="Masukkan Link CV" value="<%= alumni.cv %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="instagram">Instagram</label>
+                        <input type="text" class="form-control" id="instagram" name="alumni[instagram]" placeholder="Masukkan Link Instagram" value="<%= alumni.instagram %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="linkedin">Linked In</label>
+                        <input type="text" class="form-control" id="linkedin" name="alumni[linkedin]" placeholder="Masukkan Link Linked In" value="<%= alumni.linkedin %>">
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Ujian</label>
+                          <div class="input-group date" id="tglUjian" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglUjian" name="alumni[tglUjian]" placeholder="Masukkan Tanggal" value="<%= tglUjian %>">
+                              <div class="input-group-append" data-target="#tglUjian" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="alamatPengiriman">Alamat Pengiriman</label>
+                        <input type="text" class="form-control" id="alamatPengiriman" name="alumni[alamatPengiriman]" placeholder="Masukkan Alamat Pengiriman" value="<%= alumni.alamatPengiriman%>">
+                      </div>
+                      <div class="form-group">
+                        <label for="sertifikatKeikutsertaan">Sertifikat Keikutsertaan</label>
+                        <input type="text" class="form-control" id="sertifikatKeikutsertaan" name="alumni[sertifikatKeikutsertaan]" placeholder="Masukkan Sertifikat Keikutsertaan" 
+                        value="<%= alumni.sertifikatKeikutsertaan %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="nomorSertifikatBNSP">Nomor Sertifikat BNSP</label>
+                        <input type="text" class="form-control" id="nomorSertifikatBNSP" name="alumni[nomorSertifikatBNSP]" placeholder="Masukkan Nomor Sertifikat BNSP" 
+                        value="<%= alumni.nomorSertifikatBNSP %>">
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Cetak Sertifikat</label>
+                          <div class="input-group date" id="tglCetakSertifikat" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglCetakSertifikat" name="alumni[tglCetakSertifikat]" placeholder="Masukkan Tanggal" 
+                              value="<%= tglCetakSertifikat %>">
+                              <div class="input-group-append" data-target="#tglCetakSertifikat" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label>Tanggal Akhir Berlaku Sertifikat</label>
+                          <div class="input-group date" id="tglAkhirBerlakuSertifikat" data-target-input="nearest">
+                              <input type="text" class="form-control datetimepicker-input" data-target="#tglAkhirBerlakuSertifikat" name="alumni[tglAkhirBerlakuSertifikat]" placeholder="Masukkan Tanggal"
+                              value="<%= tglAkhirBerlakuSertifikat %>">
+                              <div class="input-group-append" data-target="#tglAkhirBerlakuSertifikat" data-toggle="datetimepicker">
+                                <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                              </div>
+                          </div>
+                      </div>
+                      <div class="form-group">
+                        <label for="no">No</label>
+                        <input type="text" class="form-control" id="no" name="alumni[no]" placeholder="Masukkan No" value="<%= alumni.no %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="property">Property</label>
+                        <input type="text" class="form-control" id="property" name="alumni[property]" placeholder="Masukkan Property" value="<%= alumni.property %>">
+                      </div>
+                      <div class="form-group">
+                        <label for="daerah">Daerah</label>
+                        <input type="text" class="form-control" id="daerah" name="alumni[daerah]" placeholder="Masukkan Daerah" value="<%= alumni.daerah %>">
+                      </div>
+
+              </div>
+              <!-- /.card-body -->
+              <div class="card-footer">
+                <button type="submit" class="btn btn-primary float-sm-right">Simpan</button>
+              </div>
+            </form>
+          </div>
+          <!-- /.card -->
+        </div>
+        <!--/.col (left) -->
+      </div>
+      <!-- /.row -->
+    </div><!-- /.container-fluid -->
+  </section>
+  <!-- /.content -->
+</div>
+<!-- /.content-wrapper -->

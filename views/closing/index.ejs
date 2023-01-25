@@ -1,0 +1,316 @@
+<% layout("layouts/boilerplate.ejs") %> 
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2">
+          <div class="col-sm-6">
+            <h1>Data Leads Closing</h1>
+          </div>
+          <div class="col-sm-6">
+            <ol class="breadcrumb float-sm-right">
+              <li class="breadcrumb-item"><a href="#">Home</a></li>
+              <li class="breadcrumb-item active">Data Leads Closing</li>
+            </ol>
+          </div>
+        </div>
+      </div><!-- /.container-fluid -->
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12 col-sm-12">
+            <div class="card card-primary card-outline card-outline-tabs">
+              <div class="card-header p-0 border-bottom-0">
+                <ul class="nav nav-tabs" id="custom-tabs-four-tab" role="tablist">
+                  <li class="nav-item">
+                    <a class="nav-link active" id="custom-tabs-four-home-tab" data-toggle="pill" href="#custom-tabs-four-home" role="tab" aria-controls="custom-tabs-four-home" aria-selected="true">Sertifikasi Digital Marketing</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="custom-tabs-four-profile-tab" data-toggle="pill" href="#custom-tabs-four-profile" role="tab" aria-controls="custom-tabs-four-profile" aria-selected="false">Sertifikasi Social Media</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="custom-tabs-four-messages-tab" data-toggle="pill" href="#custom-tabs-four-messages" role="tab" aria-controls="custom-tabs-four-messages" aria-selected="false">Human Resource Manager</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" id="custom-tabs-four-settings-tab" data-toggle="pill" href="#custom-tabs-four-settings" role="tab" aria-controls="custom-tabs-four-settings" aria-selected="false">In House Training</a>
+                  </li>
+                </ul>
+              </div>
+              <div class="card-body">
+                <div class="tab-content" id="custom-tabs-four-tabContent">
+                  <div class="tab-pane fade show active" id="custom-tabs-four-home" role="tabpanel" aria-labelledby="custom-tabs-four-home-tab">
+                    <form class="mb-5">
+                      <div class="form-row">
+                       
+                        <div class="col" id="filter_col5" data-column="5">
+                          <label for="col5_filter">Batch</label>
+                          <select class="form-control column_filter" id="col5_filter">
+                            <option value="">Pilih Batch...</option>
+                            <% for (let i = 1; i < 100; i++) {%>
+                              <option value="<%= i %>"><%= i %></option>
+                            <% } %>  
+                          </select>
+                        </div>
+                        
+                        <div class="col">
+                          <input type="hidden" id="min">
+                        </div>
+                        <div class="col">
+                          <input type="hidden" id="max">
+                        </div>
+                        <div class="col">
+                          <label for="resetBtn">Reset Filter</label>
+                          <button type="button" class="form-control btn btn-danger" id="resetBtn">Reset</button>
+                        </div>
+                      </div>
+                    </form>
+                  
+                  <table id="example2" class="table table-striped table-bordered nowrap" style="width: 100%;">
+                  <thead>
+                  <tr>
+                  <!-- <th>No.</th> -->
+                  <th>Nama</th>
+                  <th>Gender</th>
+                  <th>Email</th>
+                  <th>Handphone</th>
+                  <th>Program</th>
+                  <th>Batch</th>
+                  <th>Perusahaan</th>
+                  <th>Jabatan</th>
+                  <th>Status</th>
+                  <th>Tanggal Input</th>
+                  <th>Atur Jadwal</th>
+                  <th>Concern</th>
+                  <th>Sumber</th>
+                  <th></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <% for (data of dataLeadsSDM) {%>
+                      <tr>
+                          <!-- <td></td> -->
+                          <td><%= data.nama %></td>
+                          <td><%= data.gender %></td>
+                          <td><%= data.email %></td>
+                          <td><%= data.handphone %></td>
+                          <td><%= data.program %></td>
+                          <td><%= data.batch %></td>
+                          <td><%= data.perusahaan %></td>
+                          <td><%= data.jabatan %></td>
+                          <td><%= data.status %></td>
+                          <td><%= moment(data.tglInput).format("YYYY-MM-DD") %></td>
+                          <% if (data.status === "Refollow Up"){%>
+                            <% if (data.tglRefollowUp) {%>
+                              <td><%= moment(data.tglRefollowUp).format("YYYY-MM-DD") %></td>
+                            <% } else if (!data.tglRefollowUp) { %>
+                              <td><a href="/datasets/<%= data._id %>/aturjadwal">Atur Jadwal</a></td>
+                            <% } else {%>
+                              <td></td>
+                            <% } %>    
+                          <% } else  {%>
+                            <td></td>
+                          <% } %>  
+                          <td><%= data.concern %></td>
+                          <td><%= data.sumber %></td>
+                          <td>
+                            <a href="/datasets/<%= data._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+                          </td>
+                      </tr>
+                  <% } %>  
+                  </tbody>
+                  </table>
+                  </div>
+                  <div class="tab-pane fade" id="custom-tabs-four-profile" role="tabpanel" aria-labelledby="custom-tabs-four-profile-tab">
+                    <form class="mb-5">
+                      <div class="form-row">
+                       
+                        <div class="col" id="filter_col5" data-column="5">
+                          <label for="col5_filter">Batch</label>
+                          <select class="form-control column_filter" id="col5_filter">
+                            <option value="">Pilih Batch...</option>
+                            <% for (let i = 1; i < 100; i++) {%>
+                              <option value="<%= i %>"><%= i %></option>
+                            <% } %>  
+                          </select>
+                        </div>
+                        
+                        <div class="col">
+                          <input type="hidden" id="min">
+                        </div>
+                        <div class="col">
+                          <input type="hidden" id="max">
+                        </div>
+                        <div class="col">
+                          <label for="resetBtn">Reset Filter</label>
+                          <button type="button" class="form-control btn btn-danger" id="resetBtn">Reset</button>
+                        </div>
+                      </div>
+                    </form>
+                  
+                  <table id="example3" class="table table-striped table-bordered nowrap" style="width: 100%;">
+                  <thead>
+                  <tr>
+                  <!-- <th>No.</th> -->
+                  <th>Nama</th>
+                  <th>Gender</th>
+                  <th>Email</th>
+                  <th>Handphone</th>
+                  <th>Program</th>
+                  <th>Batch</th>
+                  <th>Perusahaan</th>
+                  <th>Jabatan</th>
+                  <th>Status</th>
+                  <th>Tanggal Input</th>
+                  <th>Atur Jadwal</th>
+                  <th>Concern</th>
+                  <th>Sumber</th>
+                  <th></th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                  <% for (data of dataLeadsSSM) {%>
+                      <tr>
+                          <!-- <td></td> -->
+                          <td><%= data.nama %></td>
+                          <td><%= data.gender %></td>
+                          <td><%= data.email %></td>
+                          <td><%= data.handphone %></td>
+                          <td><%= data.program %></td>
+                          <td><%= data.batch %></td>
+                          <td><%= data.perusahaan %></td>
+                          <td><%= data.jabatan %></td>
+                          <td><%= data.status %></td>
+                          <td><%= moment(data.tglInput).format("YYYY-MM-DD") %></td>
+                          <% if (data.status === "Refollow Up"){%>
+                            <% if (data.tglRefollowUp) {%>
+                              <td><%= moment(data.tglRefollowUp).format("YYYY-MM-DD") %></td>
+                            <% } else if (!data.tglRefollowUp) { %>
+                              <td><a href="/datasets/<%= data._id %>/aturjadwal">Atur Jadwal</a></td>
+                            <% } else {%>
+                              <td></td>
+                            <% } %>    
+                          <% } else  {%>
+                            <td></td>
+                          <% } %>  
+                          <td><%= data.concern %></td>
+                          <td><%= data.sumber %></td>
+                          <td>
+                            <a href="/datasets/<%= data._id %>/edit" class="btn btn-info btn-sm">Edit</a>
+                          </td>
+                      </tr>
+                  <% } %>  
+                  </tbody>
+                  </table>
+                  </div>
+                  <div class="tab-pane fade" id="custom-tabs-four-messages" role="tabpanel" aria-labelledby="custom-tabs-four-messages-tab">
+                     Morbi turpis dolor, vulputate vitae felis non, tincidunt congue mauris. Phasellus volutpat augue id mi placerat mollis. Vivamus faucibus eu massa eget condimentum. Fusce nec hendrerit sem, ac tristique nulla. Integer vestibulum orci odio. Cras nec augue ipsum. Suspendisse ut velit condimentum, mattis urna a, malesuada nunc. Curabitur eleifend facilisis velit finibus tristique. Nam vulputate, eros non luctus efficitur, ipsum odio volutpat massa, sit amet sollicitudin est libero sed ipsum. Nulla lacinia, ex vitae gravida fermentum, lectus ipsum gravida arcu, id fermentum metus arcu vel metus. Curabitur eget sem eu risus tincidunt eleifend ac ornare magna.
+                  </div>
+                  <div class="tab-pane fade" id="custom-tabs-four-settings" role="tabpanel" aria-labelledby="custom-tabs-four-settings-tab">
+                     Pellentesque vestibulum commodo nibh nec blandit. Maecenas neque magna, iaculis tempus turpis ac, ornare sodales tellus. Mauris eget blandit dolor. Quisque tincidunt venenatis vulputate. Morbi euismod molestie tristique. Vestibulum consectetur dolor a vestibulum pharetra. Donec interdum placerat urna nec pharetra. Etiam eget dapibus orci, eget aliquet urna. Nunc at consequat diam. Nunc et felis ut nisl commodo dignissim. In hac habitasse platea dictumst. Praesent imperdiet accumsan ex sit amet facilisis.
+                  </div>
+                </div>
+              </div>
+              <!-- /.card -->
+            </div>
+          </div>
+
+          <div class="col-12">
+            <!-- Custom Tabs -->
+            <div class="card">
+              <div class="card-header d-flex p-0">
+                <ul class="nav nav-pills ml-auto p-2">
+                  <li class="nav-item"><a class="nav-link active" href="#tab_1" data-toggle="tab">Sertifikasi Digital Marketing</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#tab_2" data-toggle="tab">Sertifikasi Social Media</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#tab_3" data-toggle="tab">Human Resource Manager</a></li>
+                  <li class="nav-item"><a class="nav-link" href="#tab_4" data-toggle="tab">In House Training</a></li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+                      Lainnya <span class="caret"></span>
+                    </a>
+                    <div class="dropdown-menu">
+                      <a class="dropdown-item" href="#tab_5" data-toggle="tab">Action</a>
+                      <a class="dropdown-item" tabindex="-1" href="#">Another action</a>
+                      <a class="dropdown-item" tabindex="-1" href="#">Something else here</a>
+                      <div class="dropdown-divider"></div>
+                      <a class="dropdown-item" tabindex="-1" href="#">Separated link</a>
+                    </div>
+                  </li>
+                </ul>
+              </div><!-- /.card-header -->
+              <div class="card-body">
+                <div class="tab-content">
+                  <div class="tab-pane active" id="tab_1">
+                    A wonderful serenity has taken possession of my entire soul,
+                    like these sweet mornings of spring which I enjoy with my whole heart.
+                    I am alone, and feel the charm of existence in this spot,
+                    which was created for the bliss of souls like mine. I am so happy,
+                    my dear friend, so absorbed in the exquisite sense of mere tranquil existence,
+                    that I neglect my talents. I should be incapable of drawing a single stroke
+                    at the present moment; and yet I feel that I never was a greater artist than now.
+                  </div>
+                  <!-- /.tab-pane -->
+                  <div class="tab-pane" id="tab_2">
+                    The European languages are members of the same family. Their separate existence is a myth.
+                    For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ
+                    in their grammar, their pronunciation and their most common words. Everyone realizes why a
+                    new common language would be desirable: one could refuse to pay expensive translators. To
+                    achieve this, it would be necessary to have uniform grammar, pronunciation and more common
+                    words. If several languages coalesce, the grammar of the resulting language is more simple
+                    and regular than that of the individual languages.
+                  </div>
+                  <!-- /.tab-pane -->
+                  <div class="tab-pane" id="tab_3">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    It has survived not only five centuries, but also the leap into electronic typesetting,
+                    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
+                    sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+                    like Aldus PageMaker including versions of Lorem Ipsum.
+                  </div>
+                  <!-- /.tab-pane -->
+                  <div class="tab-pane" id="tab_4">
+                    Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+                    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                    when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    It has survived not only five centuries, but also the leap into electronic typesetting,
+                    remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset
+                    sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+                    like Aldus PageMaker including versions of Lorem Ipsum.
+                  </div>
+                  <!-- /.tab-pane -->
+                  <div class="tab-pane" id="tab_5">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora tempore non aspernatur vel blanditiis nisi corporis incidunt veritatis. Odit blanditiis voluptates perferendis facilis tempore vero nisi maiores deserunt, natus veritatis.
+                    Id, nemo! Laboriosam sed praesentium sunt quasi iusto error tenetur, minus assumenda voluptate saepe vero, quos illum sapiente, molestiae ea. Ut itaque consectetur eligendi illo et fugit eum unde quasi.
+                    Iure, harum commodi iusto ad placeat consequatur sit, veritatis sed omnis non accusamus aperiam optio, voluptatibus quas aliquam. Explicabo perferendis nam enim, delectus incidunt id mollitia consequatur. Veritatis, iure dolore.
+                    At autem corrupti consectetur earum commodi architecto quae nobis molestiae praesentium sequi illum mollitia eligendi aliquid reiciendis non cum vero aut, perferendis obcaecati totam a exercitationem optio eos rerum. Iste.
+                    Iusto dolor optio similique nisi adipisci, modi nulla minima incidunt labore eligendi vel quo sequi dolorum officia eaque ea distinctio amet quod, numquam quisquam suscipit? Qui deserunt odit reiciendis vero.
+                    Cumque pariatur explicabo ratione tempora ut delectus reiciendis tempore repellat rem nobis, similique debitis fugiat labore consequatur. Perferendis, ipsum quod officiis rerum optio hic, corrupti aperiam nostrum blanditiis nisi saepe?
+                    Odit eos et, obcaecati rem repudiandae, incidunt, veritatis iusto tempore nemo vel quas sunt numquam a consequatur est tempora ea voluptas quos facere. Nemo, neque deleniti quos sapiente pariatur facere.
+                    Quaerat, porro, impedit recusandae distinctio minus sapiente eveniet magnam sequi dolore iure ipsum deleniti dicta quasi doloribus reiciendis facere, asperiores maxime rem? Accusamus itaque maxime numquam odit ducimus voluptatibus. Eveniet.
+                    Cum voluptatum mollitia veniam recusandae ab accusantium? Cupiditate ipsum repellat magni, labore laboriosam deserunt, tempore eligendi placeat numquam saepe doloribus iste, atque dolor officia nihil et nesciunt. Laborum, illum sequi?
+                    Cumque aut soluta quaerat minima perspiciatis quos deleniti doloribus eius animi corporis ipsum delectus nam sapiente officia impedit qui, beatae sed et amet autem modi ad consectetur dolor fugiat! Nemo.
+                    Repellat eveniet esse reiciendis labore error aspernatur adipisci quia! Temporibus ipsam veritatis debitis earum cumque maiores, odio excepturi. Autem voluptate dicta, distinctio debitis recusandae culpa repellendus molestiae numquam provident tempora.
+                    Harum, est nobis ipsum dolores voluptatum aperiam similique, quae ipsa et sapiente, iure sunt itaque! Est quam porro ratione, quo repellat quasi vitae. Molestiae reiciendis vero ratione rerum ex. Harum!
+                    Exercitationem libero eveniet natus illum reiciendis distinctio, qui eum fuga aliquid dolores quia quasi dolore saepe voluptatem veritatis magnam suscipit odio facilis perferendis. Rerum laborum perferendis voluptatibus dignissimos sequi distinctio?
+                    Earum, doloribus incidunt perspiciatis quod nisi reiciendis laudantium repellendus odit, obcaecati debitis iusto cumque aperiam officiis quis! Consectetur, recusandae aliquam? Vitae facere, possimus nostrum reprehenderit iure neque facilis nisi sit!
+                    Qui facere totam eveniet maxime dolorum eum earum distinctio minima vitae nam eaque, non pariatur. Maiores atque libero accusamus dolor, molestias laboriosam odit, reiciendis quia saepe natus at, necessitatibus voluptatum.
+                  </div>
+                  <!-- /.tab-pane -->
+                </div>
+                <!-- /.tab-content -->
+              </div><!-- /.card-body -->
+            </div>
+        </div>
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->

@@ -1,5 +1,5 @@
-<!-- Main Sidebar Container -->
-<aside class="main-sidebar sidebar-dark-primary elevation-4">
+   <!-- Main Sidebar Container -->
+   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="/datasets/" class="brand-link">
       <img src="../../dist/img/logo-dms.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
@@ -8,8 +8,8 @@
 
     <!-- Sidebar -->
     <div class="sidebar">
-      <!-- Sidebar user panel (optional) -->
-      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+       <!-- Sidebar user panel (optional) -->
+       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
           <img src="../../dist/img/woman.png" class="img-circle elevation-2" alt="User Image">
         </div>
@@ -33,62 +33,105 @@
           </div>
         </div>
       </div>
-
+      
       <!-- Sidebar Menu -->
       <nav class="mt-2">
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-          <!-- Add icons to the links using the .nav-icon class
-               with font-awesome or any other icon font library -->
-          <li class="nav-header">Leads</li>
           <li class="nav-item">
-            <a href="/datasets" class="nav-link">
-              <i class="nav-icon fas fa-user"></i>
+            <a href="/dashboard/" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Dashboard
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="/datasets/" class="nav-link">
+              <i class="nav-icon fas fa-address-card"></i>
               <p>
                 Data Leads
               </p>
             </a>
           </li>
-        </ul>
-        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+          <li class="nav-item">
+            <a href="/alumni/" class="nav-link">
+              <i class="nav-icon fas fa-user-graduate"></i>
+              <p>
+                Data Alumni
+              </p>
+            </a>
+          </li>
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-header">List</li>
           <li class="nav-item">
-            <a href="/program" class="nav-link">
-              <i class="nav-icon fas fa-book"></i>
+            <a href="#" class="nav-link">
+              <i class="nav-icon fa fa-list-alt"></i>
               <p>
-                List Program
+                List
+                <i class="right fas fa-angle-left"></i>
               </p>
             </a>
-          </li>
-        
-          <li class="nav-item">
-            <a href="/concern" class="nav-link">
-              <i class="nav-icon fas fa-table"></i>
-              <p>
-                List Concern
-              </p>
-            </a>
-          </li>
-       
-          <li class="nav-item">
-            <a href="/status" class="nav-link">
-              <i class="nav-icon fas fa-list"></i>
-              <p>
-                List Status
-              </p>
-            </a>
-          </li>
-       
-          <li class="nav-item">
-            <a href="/sumber" class="nav-link">
-              <i class="nav-icon fas fa-tasks"></i>
-              <p>
-                List Sumber
-              </p>
-            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item menu-open">
+                <a href="/program" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>List Program</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/concern" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>List Concern</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/status" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>List Status</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/sumber" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>List Sumber</p>
+                </a>
+              </li>
+            </ul>
           </li>
 
+          <!-- <li class="nav-item">
+            <a href="/closing" class="nav-link">
+              <i class="nav-icon fas fa-th-list"></i>
+              <p>
+                Closing Table
+              </p>
+            </a>
+          </li> -->
+
+          <!-- <li class="nav-item">
+            <a href="#" class="nav-link">
+              <i class="nav-icon fas fa-chart-line"></i>
+              <p>
+                Chart
+                <i class="right fas fa-angle-left"></i>
+              </p>
+            </a>
+            <ul class="nav nav-treeview">
+              <li class="nav-item">
+                <a href="/chart" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Leads Chart</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/chart/sumber" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Sumber Chart</p>
+                </a>
+              </li>
+            </ul>
+          </li> -->
+          
         </ul>
       </nav>
       <!-- /.sidebar-menu -->

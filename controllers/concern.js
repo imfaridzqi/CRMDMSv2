@@ -2,7 +2,8 @@ const Concern = require("../models/concern");
 
 module.exports.index = async(req, res) => {
     const concern = await Concern.find({});
-    res.render("concern", {concern});
+    const title = "Concern";
+    res.render("concern", {concern, title});
 };
 
 module.exports.createConcern = async(req, res) => {
