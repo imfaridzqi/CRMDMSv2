@@ -221,9 +221,11 @@
                           <td class="text-center">
                             <% if (alumni.gender === "L") {%>
                               <button type="button" class="btn btn-primary btn-sm"><%= alumni.gender %></button>
-                            <% } else { %>
+                            <% } else if (alumni.gender === "P") { %>
                               <button type="button" class="btn btn-default bg-maroon btn-sm"><%= alumni.gender %></button>
-                            <% } %>   
+                            <% } else { %>
+                              <%= alumni.gender %> 
+                            <% } %>    
                           </td>
                           <td>
                             <a href="mailto:<%= alumni.email %>"><%= alumni.email %></a>

@@ -32,7 +32,7 @@ module.exports.showData = async(req, res) => {
     const {id} = req.params;
     const dataset = await Dataset.findById(id);
     if (!dataset) {
-        req.flash("error", "Data tidak ditemukan atau telah dihapus");
+        req.flash("error", "Data lead tidak ditemukan atau telah dihapus");
         return res.redirect("/datasets");
     }
     res.render("datasets/show", {dataset}); 
@@ -46,7 +46,7 @@ module.exports.renderEditForm = async(req, res) => {
     const status = await Status.find({});
     const sumber = await Sumber.find({});
     if (!dataset) {
-        req.flash("error", "Data tidak ditemukan atau telah dihapus");
+        req.flash("error", "Data lead tidak ditemukan atau telah dihapus");
         return res.redirect("/datasets");
     }
     res.render("datasets/edit", {dataset, program, status, concern, sumber});
@@ -55,14 +55,14 @@ module.exports.renderEditForm = async(req, res) => {
 module.exports.editData = async(req, res) => {
     const {id} = req.params;
     const dataset = await Dataset.findByIdAndUpdate(id, {...req.body.datasets});
-    req.flash("success", "Data peserta telah diupdate")
+    req.flash("success", "Data lead telah diupdate")
     res.redirect(`/datasets`);
 };
 
 module.exports.delete = async(req, res) => {
     const {id} = req.params;
     const dataset = await Dataset.findByIdAndDelete(id);
-    req.flash("success", "Data peserta berhasil dihapus")
+    req.flash("success", "Data lead berhasil dihapus")
     res.redirect("/datasets");
 };
 

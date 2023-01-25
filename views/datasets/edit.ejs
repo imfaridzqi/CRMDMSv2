@@ -95,12 +95,14 @@
                         <% } %>  
                     </select>
                   </div>
-
+                    <% 
+                      const tglInput = moment(dataset.tglInput).format("YYYY-MM-DD");
+                    %> 
                   <!-- Tanggal Input -->
                   <div class="form-group">
                     <label>Tanggal Input</label>
                       <div class="input-group date" id="reservationdate" data-target-input="nearest">
-                          <input type="text" class="form-control datetimepicker-input" data-target="#reservationdate" name="datasets[tglInput]" placeholder="Masukkan Tanggal" value="<%= dataset.tglInput.getFullYear() %>-<%= ("0" + (dataset.tglInput.getUTCMonth() + 1)).slice(-2) %>-<%= ("0" + (dataset.tglInput.getDate())).slice(-2) %>">
+                          <input type="text" class="form-control datetimepicker-input" data-target="#reservationdate" name="datasets[tglInput]" placeholder="Masukkan Tanggal" value="<%= tglInput %>">
                           <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
                               <div class="input-group-text"><i class="fa fa-calendar"></i></div>
                           </div>

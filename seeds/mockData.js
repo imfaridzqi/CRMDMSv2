@@ -1,13 +1,12 @@
-module.exports = [
+module.exports =[
         {
-            "nama": "-",
             "email": "-",
             "handphone": "08111116167",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -15,11 +14,11 @@ module.exports = [
             "nama": "082216146343",
             "email": "-",
             "handphone": "082216146343",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/13/22",
+            "tglInput": "2022-09-13",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -27,11 +26,11 @@ module.exports = [
             "nama": "A",
             "email": "-",
             "handphone": "082119978634",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -39,11 +38,11 @@ module.exports = [
             "nama": "A",
             "email": "-",
             "handphone": "081222570287",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/15/22",
+            "tglInput": "2022-09-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -51,11 +50,11 @@ module.exports = [
             "nama": "A. Shiddiq",
             "email": "-",
             "handphone": "082358081903",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -63,11 +62,11 @@ module.exports = [
             "nama": "Aan Nurhasanah",
             "email": "-",
             "handphone": "0813-3020-3378",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/14/22",
+            "tglInput": "2022-10-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -75,43 +74,43 @@ module.exports = [
             "nama": "Ab",
             "email": "-",
             "handphone": "085740924101",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/14/22",
+            "tglInput": "2022-08-14",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "AB",
             "handphone": "0822-9771-9698",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/6/22",
+            "tglInput": "2022-12-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Abdul Fidayan, SE., M.Si",
             "email": "afidayan3@gmail.com",
-            "handphone": "81394252569",
+            "handphone": "081394252569",
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
         },
         {
             "nama": "Abdul Jabbar",
             "email": "jabbar@partipost.com",
             "handphone": "089690072963",
-            "perusahaan": "089690072963",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "089690072963",
             "status": "Refollow Up",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -119,11 +118,11 @@ module.exports = [
             "nama": "Abdul Ridwan",
             "email": "abdulliowrx5@gmail.com",
             "handphone": "0895-2258-2876",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/22/22",
+            "tglInput": "2022-11-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -131,44 +130,68 @@ module.exports = [
             "nama": "Abdullah",
             "email": "-",
             "handphone": "087828136166",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/21/22",
+            "tglInput": "2022-08-21",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Abdulrahman Lufthi",
             "email": "a.lufthi.bastari@gmail.com",
-            "handphone": "8194848887",
+            "handphone": "08194848887",
             "program": "Sertifikasi Social Media",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "3/13/22"
+            "tglInput": "2022-03-13"
         },
         {
             "nama": "Achmad Khafid akbar",
             "email": "-",
             "handphone": "082338375372",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Achmad Rafii Prananda Putra Santoso",
+            "email": "achmadrafiipra@gmail.com",
+            "handphone": "082111195409",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Mahasiswa",
+            "status": "Rapoo",
+            "tglInput": "2022-12-20",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Achmad Rafii Prananda Putra Santoso",
+            "email": "achmadrafiipra@gmail.com",
+            "handphone": "082111195409",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Achmad Supandi",
             "email": "Achmad.supandi@bmkg.go.id",
             "handphone": "081808476618",
-            "perusahaan": "BMKG",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "BMKG",
             "status": "Schedule",
-            "tglInput": "11/4/22",
+            "tglInput": "2022-11-04",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -176,11 +199,11 @@ module.exports = [
             "nama": "Adam",
             "email": "-",
             "handphone": "082288398488",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/21/22",
+            "tglInput": "2022-07-21",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -188,21 +211,21 @@ module.exports = [
             "nama": "Addeva Vihanza",
             "email": "addevav31@gmail.com",
             "handphone": "81393713124",
-            "perusahaan": "Freshgaduate",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Freshgaduate",
             "status": "Closing",
-            "tglInput": "2/7/22"
+            "tglInput": "2022-02-07"
         },
         {
             "nama": "Ade",
             "email": "adecandrawiebowo@gmail.com",
             "handphone": "082120126151",
-            "perusahaan": "GAN Properti",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "GAN Properti",
             "status": "Closing",
-            "tglInput": "7/25/22",
+            "tglInput": "2022-07-25",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -210,11 +233,11 @@ module.exports = [
             "nama": "Ade Agung Kurniawan",
             "email": "Agungpersada@outlook.co.id",
             "handphone": "082280367085",
-            "perusahaan": "PT Teknologi Karir Bangsa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT Teknologi Karir Bangsa",
             "status": "Price",
-            "tglInput": "8/7/22",
+            "tglInput": "2022-08-07",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -222,40 +245,40 @@ module.exports = [
             "nama": "Ade Ardianta Harahap",
             "email": "ade.ardianta@gmail.com",
             "handphone": "8116022852",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ade Bayu Saputra",
             "email": "adebayusaputraa@gmail.com",
             "handphone": "82280895505",
-            "perusahaan": "PT Bina Talenta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "PT Bina Talenta",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ade Kusuma",
             "handphone": "81330424258",
-            "perusahaan": "UPN Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UPN Jatim",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Ade Putri",
             "email": "-",
             "handphone": "081317867657",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/17/22",
+            "tglInput": "2022-08-17",
             "concern": "Service",
             "sumber": "Wordpress"
         },
@@ -263,11 +286,11 @@ module.exports = [
             "nama": "Ade Rama Akbar Alensyah",
             "email": "aderamaakbar1@gmail.com",
             "handphone": "0895393128344",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/13/22",
+            "tglInput": "2022-08-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -275,21 +298,45 @@ module.exports = [
             "nama": "Ade Ristiyawati",
             "email": "aderistiyawati@gmail.com",
             "handphone": "81233988501",
-            "perusahaan": "Risaka",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Risaka",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
+        },
+        {
+            "nama": "Adelia Utomo",
+            "email": "Utomoadelia9@gmail.com",
+            "handphone": "08118168112",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "PT UTOMO UTOMO",
+            "status": "Rapoo",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Adelia Utomo",
+            "email": "Utomoadelia9@gmail.com",
+            "handphone": "08118168112",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Pt utomo utomo",
+            "status": "Schedule",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Adenira Hargianintya",
             "email": "-",
             "handphone": "085694520258",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/15/22",
+            "tglInput": "2022-09-15",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -297,11 +344,11 @@ module.exports = [
             "nama": "Adhitya",
             "email": "-",
             "handphone": "082288293132",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -309,11 +356,11 @@ module.exports = [
             "nama": "Adi",
             "email": "-",
             "handphone": "0811-260-889",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/15/22",
+            "tglInput": "2022-10-15",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -324,39 +371,62 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "adin alfian",
             "email": "-",
             "handphone": "085316018946",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/20/22",
+            "tglInput": "2022-07-20",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Adinda Aulia Zahra",
+            "email": "info_id@cimcwetrans.ltd",
+            "handphone": "081219473181",
+            "program": "Human Resorce Staff",
+            "batch": "25",
+            "perusahaan": "PT CIMC Wetrans Indonesia",
+            "status": "Closing",
+            "tglInput": "2022-12-23",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Adinda Fitri nurkhoridah",
+            "handphone": "081284864500",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "Yayasan Prasetiya Mulya",
+            "status": "Closing",
+            "tglInput": "2022-12-23",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Adisti Handayani",
             "email": "newdistiha@gmail.com",
             "handphone": "81246006003",
-            "perusahaan": "PT JDP INVESTMENTS GROUP",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "PT JDP INVESTMENTS GROUP",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Aditya dyah ayu mayangsari",
             "email": "Aditya.mayangsari@medcoenergi.com",
             "handphone": "087876822533",
-            "perusahaan": "PT Exspan Petrogas Intranusa",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "PT Exspan Petrogas Intranusa",
             "status": "Schedule",
-            "tglInput": "11/9/22",
+            "tglInput": "2022-11-09",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -367,46 +437,46 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Aditya Eka Jaya Whisnu Wardhana",
             "email": "jww.whisnuwardhana@gmail.com",
             "handphone": "81225118324",
-            "perusahaan": "Yayasan Kader Penerus Teknologi",
             "program": "Human Resource Manager",
             "batch": "4",
+            "perusahaan": "Yayasan Kader Penerus Teknologi",
             "status": "Closing",
-            "tglInput": "10/2/21"
+            "tglInput": "2021-10-02"
         },
         {
             "nama": "Aditya Wardana",
             "email": "adit1212aw@gmail.com",
             "handphone": "81390484084",
-            "perusahaan": "PT Swakarya Insan Mandiri",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "PT Swakarya Insan Mandiri",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Adji Karlita Shavira",
             "email": "adjivira@gmail.com",
             "handphone": "811533633",
-            "perusahaan": "PT. Pintu Kemana Saja",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "PT. Pintu Kemana Saja",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Admin",
             "handphone": "81210339745",
-            "perusahaan": "Dinas Pariwisata Kabupaten Karawang",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kabupaten Karawang",
             "status": "Rapoo",
-            "tglInput": "7/13/22",
+            "tglInput": "2022-07-13",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -414,11 +484,11 @@ module.exports = [
             "nama": "Adriansyah P Nugroho",
             "email": "-",
             "handphone": "082137899516",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/11/22",
+            "tglInput": "2022-08-11",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -426,11 +496,11 @@ module.exports = [
             "nama": "Ady",
             "email": "-",
             "handphone": "087889941666",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/16/22",
+            "tglInput": "2022-09-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -441,17 +511,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Adziyah",
             "email": "nia@bpp.co.id",
             "handphone": "081617182025",
-            "perusahaan": "PT.Bangun Putra Pesaka",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "PT.Bangun Putra Pesaka",
             "status": "Closing",
-            "tglInput": "11/2/22",
+            "tglInput": "2022-11-02",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -462,17 +532,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/11/22"
+            "tglInput": "2022-11-11"
         },
         {
             "nama": "Afa",
             "email": "-",
             "handphone": "0812-9223-4386",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -480,11 +550,11 @@ module.exports = [
             "nama": "Afdal",
             "email": "-",
             "handphone": "081276232576",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/17/22",
+            "tglInput": "2022-09-17",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -492,11 +562,11 @@ module.exports = [
             "nama": "Afi",
             "email": "afiifah1212@gmail.com",
             "handphone": "081217050679",
-            "perusahaan": "Storevty",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Storevty",
             "status": "Rapoo",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -504,11 +574,11 @@ module.exports = [
             "nama": "Afif",
             "email": "-",
             "handphone": "081332811597",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -516,11 +586,11 @@ module.exports = [
             "nama": "Afif Mifta Khoiriza",
             "email": "afifmifta19@gmail.com",
             "handphone": "82110988980",
-            "perusahaan": "Ditjen Anggaran, Kemenkeu",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Ditjen Anggaran, Kemenkeu",
             "status": "Closing",
-            "tglInput": "9/29/21"
+            "tglInput": "2021-09-29"
         },
         {
             "nama": "Afifi Marzuki Muslim",
@@ -529,17 +599,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Agistt",
             "email": "-",
             "handphone": "082127426629",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -547,11 +617,11 @@ module.exports = [
             "nama": "Agna Apsadifia",
             "email": "-",
             "handphone": "08978162945",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -559,11 +629,11 @@ module.exports = [
             "nama": "Agnes Kristika Setianing Handyani",
             "email": "Agnesksh7@gmail.com",
             "handphone": "82137151001",
-            "perusahaan": "Proverri Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "Proverri Indonesia",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Agnes Putu Kezia Hanada",
@@ -572,17 +642,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/3/22"
+            "tglInput": "2022-09-03"
         },
         {
             "nama": "Agung Dwi Putra",
             "email": "-",
             "handphone": "0812-8313-3549",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -590,21 +660,21 @@ module.exports = [
             "nama": "Agung Sapto Utomo",
             "email": "sayagung@gmail.com",
             "handphone": "81222052923",
-            "perusahaan": "Galaksi Grafis",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "Galaksi Grafis",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Agus Riyanto",
             "email": "-",
             "handphone": "081328393038",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -612,21 +682,21 @@ module.exports = [
             "nama": "Agus sudarwanto",
             "email": "agussudarwanto7491@gmail.com",
             "handphone": "82231391243",
-            "perusahaan": "PT. Wahyu Barokah Reje",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "PT. Wahyu Barokah Reje",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Agus Suryo Prayogi",
             "email": "-",
             "handphone": "087786575587",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -634,32 +704,32 @@ module.exports = [
             "nama": "Agus Tri Waluyo",
             "email": "-",
             "handphone": "081352762649",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/26/22",
+            "tglInput": "2022-09-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Agustina",
             "handphone": "0857-8170-3870",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/29/22",
+            "tglInput": "2022-11-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ahmad",
-            "perusahaan": "Dinas Pariwisata Kab. Garut",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kab. Garut",
             "status": "Rapoo",
-            "tglInput": "7/15/22",
+            "tglInput": "2022-07-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -667,23 +737,35 @@ module.exports = [
             "nama": "Ahmad",
             "email": "-",
             "handphone": "0851-0325-1642",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/29/22",
+            "tglInput": "2022-10-29",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ahmad",
+            "email": "ahmadkhanza74@gmail.com",
+            "handphone": "08161359388",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "RS permata Mufidah group",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ahmad Adlan Hamid",
             "email": "-",
             "handphone": "085231801873",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -691,31 +773,31 @@ module.exports = [
             "nama": "Ahmad Alin Alamsyah",
             "email": "alinalamsyah9@gmail.com",
             "handphone": "87825806901",
-            "perusahaan": "Cervo",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Cervo",
             "status": "Closing",
-            "tglInput": "6/14/22"
+            "tglInput": "2022-06-14"
         },
         {
             "nama": "Ahmad Fawwas Robi' Pradana",
             "email": "kakrobi37@gmail.com",
             "handphone": "85156094343",
-            "perusahaan": "ITS",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "ITS",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
         },
         {
             "nama": "Ahmad Hafizd",
             "email": "ahmadhafizd96@gmail.com",
             "handphone": "081366729194",
-            "perusahaan": "CV. Lingka Kreatif Media",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "CV. Lingka Kreatif Media",
             "status": "Rapoo",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -723,31 +805,31 @@ module.exports = [
             "nama": "Ahmad Mahfuzan",
             "email": "amahfuzan@gmail.com",
             "handphone": "082353368155",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "Pilih Batch Program",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/19/22",
+            "tglInput": "2022-11-19",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "AHMAD PARUHUMAN",
             "handphone": "81212756095",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "AHMAD PARUHUMAN",
             "handphone": "0812-1275-6095",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Ahmad Rayhan Yunus Rangkuti",
@@ -756,7 +838,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ahmad Sultan Hakim, S. Kom",
@@ -764,28 +846,28 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "Ahmad Syarofi",
             "email": "-",
             "handphone": "085316464009",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "aile",
             "handphone": "0821-7685-2041",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
-            "batch": "15",
+            "batch": "16",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -793,33 +875,44 @@ module.exports = [
             "nama": "Aisha Vidyasari",
             "email": "aisha@nocola.co.id",
             "handphone": "85711320934",
-            "perusahaan": "Nocola IoT Solution",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "Nocola IoT Solution",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Aisyatir radiah mukhlis",
             "email": "-",
             "handphone": "082213888988",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Aji Rifqi Rawadani",
+            "handphone": "0858-9527-6439",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Schedule",
+            "tglInput": "2023-01-11",
+            "concern": "Delivery",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Akbar Mohamad Khutbi",
             "email": "abaikhutbi@gmail.com",
             "handphone": "+251 966117738",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/30/22",
+            "tglInput": "2022-11-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -827,32 +920,32 @@ module.exports = [
             "nama": "Akhmad Nushoir Mubaroki",
             "email": "an@mubaroki.com",
             "handphone": "88809990444",
-            "perusahaan": "PT RAZEN TEKNOLOGI INDONESIA (Razen Studio)",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "PT RAZEN TEKNOLOGI INDONESIA (Razen Studio)",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Akhmad Saifuddin",
             "email": "akhmadsf12@gmail.com",
             "handphone": "081226564884",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/17/22",
+            "tglInput": "2022-10-17",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Akmal Dyandra",
             "handphone": "0822-1366-2297",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/12/22",
+            "tglInput": "2022-11-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -863,17 +956,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Akpar Tasik",
             "email": "-",
             "handphone": "082117685596",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/19/22",
+            "tglInput": "2022-08-19",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -881,11 +974,11 @@ module.exports = [
             "nama": "Al Aini Al Mardhiah",
             "email": "alainialmardhiah26@gmail.com",
             "handphone": "082210999717",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -893,11 +986,11 @@ module.exports = [
             "nama": "al-fitrah",
             "email": "-",
             "handphone": "0813-9229-5678",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/2/22",
+            "tglInput": "2022-10-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -905,33 +998,33 @@ module.exports = [
             "nama": "al-hanaan",
             "email": "alhanaan@gmail.com",
             "handphone": "082237733674",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/14/22",
+            "tglInput": "2022-07-14",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
         {
             "nama": "Alan",
             "handphone": "0812-3559-4547",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
-            "batch": "24",
+            "batch": "25",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/22/22",
+            "tglInput": "2022-11-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Albert Wijaya Yuwono",
             "handphone": "0821-3224-5433",
-            "perusahaan": "AURA",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "AURA",
             "status": "Closing",
-            "tglInput": "12/9/22",
+            "tglInput": "2022-12-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -939,11 +1032,11 @@ module.exports = [
             "nama": "Aldi",
             "email": "-",
             "handphone": "082187199444",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/28/22",
+            "tglInput": "2022-07-28",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -951,23 +1044,35 @@ module.exports = [
             "nama": "Aldi",
             "email": "-",
             "handphone": "0895613387768",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/27/22",
+            "tglInput": "2022-08-27",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Alexander D",
+            "email": "ex_and@yahoo.com",
+            "handphone": "08126612345",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-09",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Alfan Yudhatama",
             "email": "itama83@gmail.com",
             "handphone": "8111987757",
-            "perusahaan": "Telkomsel",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "Telkomsel",
             "status": "Closing",
-            "tglInput": "9/22/21"
+            "tglInput": "2021-09-22"
         },
         {
             "nama": "Alfarrel Daffa Hasan",
@@ -976,17 +1081,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "3/11/22"
+            "tglInput": "2022-03-11"
         },
         {
             "nama": "Alfi Rochmah Yanti",
             "email": "alfirochmah79@gmail.com",
             "handphone": "085731899206",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -994,11 +1099,11 @@ module.exports = [
             "nama": "Alfian Pradana",
             "email": "al.l.pradana07@gmail.com",
             "handphone": "81350005233",
-            "perusahaan": "PT. Jasa Angkasa Semesta, Tbk",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Jasa Angkasa Semesta, Tbk",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "ALFIN REZA SYAHPUTRA",
@@ -1007,17 +1112,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/6/22"
+            "tglInput": "2022-11-06"
         },
         {
             "nama": "Alfonsa Rina Sari",
             "email": "alfonsarinasari@gmail.com",
             "handphone": "081311430186",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1025,11 +1130,11 @@ module.exports = [
             "nama": "ALFONSA RINA SARI",
             "email": "-",
             "handphone": "081311430186",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/7/22",
+            "tglInput": "2022-09-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1037,21 +1142,21 @@ module.exports = [
             "nama": "ALFONSA RINA SARI",
             "email": "ALFONSARINASARI@GMAIL.COM",
             "handphone": "81311430186",
-            "perusahaan": "JERINDO",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "JERINDO",
             "status": "Closing",
-            "tglInput": "9/7/22"
+            "tglInput": "2022-09-07"
         },
         {
             "nama": "Ali R",
             "email": "-",
             "handphone": "081315159938",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1059,11 +1164,11 @@ module.exports = [
             "nama": "Ali Wahyu Purnama",
             "email": "-",
             "handphone": "0811280048",
-            "perusahaan": "Telkomsel",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Telkomsel",
             "status": "Schedule",
-            "tglInput": "8/16/22",
+            "tglInput": "2022-08-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1071,53 +1176,65 @@ module.exports = [
             "nama": "Alief Sukma Nuryawan",
             "email": "aliephsoekma@gmail.com",
             "handphone": "85237579588",
-            "perusahaan": "Mercury",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Mercury",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Alkmar",
             "email": "-",
             "handphone": "081281254656",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Alyus Taufiq",
+            "email": "tcikdin@gmail.com",
+            "handphone": "081373434386",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT. TRAKA",
+            "status": "Price",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Amadea Ajeng",
             "email": "amadea.21520007@mahasiswa.unikom.ac.id",
             "handphone": "85956689988",
-            "perusahaan": "UNIKOM",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "UNIKOM",
             "status": "Closing",
-            "tglInput": "4/7/22"
+            "tglInput": "2022-04-07"
         },
         {
             "nama": "Amallia Husnuts Tsawaab",
             "email": "amalia_husnuts@sbm-itb.ac.id",
             "handphone": "81216293838",
-            "perusahaan": "ITB",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "ITB",
             "status": "Closing",
-            "tglInput": "6/26/22"
+            "tglInput": "2022-06-26"
         },
         {
             "nama": "Ambar Ari Wibowo, SE,M.Ak",
             "email": "awo.share@gmail.com",
             "handphone": "087789022023",
-            "perusahaan": "PT. Demka Sakti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. Demka Sakti",
             "status": "Closing",
-            "tglInput": "8/26/22",
+            "tglInput": "2022-08-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1125,11 +1242,11 @@ module.exports = [
             "nama": "Ambar Ari Wibowo, SE,M.Ak",
             "email": "awo.share@gmail.com",
             "handphone": "87789022023",
-            "perusahaan": "PT. Demka Sakti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. Demka Sakti",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Amelia Santika Dewi S",
@@ -1138,39 +1255,51 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ami",
             "handphone": "0812-7000-069",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/18/22",
+            "tglInput": "2022-11-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ami",
             "handphone": "0812-7000-069",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/3/22",
+            "tglInput": "2022-11-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Amillea ZH Ramadhani Damanik",
+            "email": "amillea311@gmail.com",
+            "handphone": "081252335805",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2023-01-18",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Amira Arviani",
             "email": "amira.arviani@gmail.com",
             "handphone": "81398462996",
-            "perusahaan": "PT Quadrant Utama",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "PT Quadrant Utama",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Amira Salma Salsabila",
@@ -1179,16 +1308,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "An",
             "handphone": "0817-0797-027",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/26/22",
+            "tglInput": "2022-11-26",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -1196,11 +1325,11 @@ module.exports = [
             "nama": "Ananda Kinanti",
             "email": "-",
             "handphone": "0813-7960-3325",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/5/22",
+            "tglInput": "2022-10-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1211,37 +1340,37 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Ananda Syahlan Pratama",
             "email": "anandasyahlanp@gmail.com",
             "handphone": "85157282448",
-            "perusahaan": "Realizm Eighty Seven",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Realizm Eighty Seven",
             "status": "Closing",
-            "tglInput": "7/5/22"
+            "tglInput": "2022-07-05"
         },
         {
             "nama": "Andhara Early astrawinata",
             "email": "bubuearly1109@gmail.com",
             "handphone": "81808001109",
-            "perusahaan": "Ninja Express",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Ninja Express",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Andhika Muhibat Isl C.Ht",
             "email": "-",
             "handphone": "085704361997",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/19/22",
+            "tglInput": "2022-07-19",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1249,11 +1378,11 @@ module.exports = [
             "nama": "Andi Harwandi",
             "email": "harwandi@elleair.co.id",
             "handphone": "81212789007",
-            "perusahaan": "PT. Elleir International Trading Indonesia",
             "program": "Human Resource Manager",
             "batch": "4",
+            "perusahaan": "PT. Elleir International Trading Indonesia",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "ANDI MUJAHIDIN",
@@ -1262,27 +1391,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/6/22"
+            "tglInput": "2022-11-06"
         },
         {
             "nama": "Andi Sugandi",
             "email": "sdm@lpp.co.id",
             "handphone": "8112837735",
-            "perusahaan": "PT LPP Agro Nusantara",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT LPP Agro Nusantara",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Andi Sulfikram",
             "email": "andisukfikram@gmail.com",
             "handphone": "085295466450",
-            "perusahaan": "Elkaafi Digital",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Elkaafi Digital",
             "status": "Rapoo",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1290,11 +1419,11 @@ module.exports = [
             "nama": "Andika Hadi Saputra",
             "email": "andika@fastmart.id",
             "handphone": "81218416684",
-            "perusahaan": "PT. Fastrata Buana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "PT. Fastrata Buana",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "ANDIKA Nur Irawan",
@@ -1303,17 +1432,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Andika Sukma Febryan",
             "email": "bryanandika@gmail.com",
             "handphone": "0813-1345-9228",
-            "perusahaan": "Ardan Group",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Ardan Group",
             "status": "Closing",
-            "tglInput": "12/7/22",
+            "tglInput": "2022-12-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1321,11 +1450,11 @@ module.exports = [
             "nama": "Andre Arifandi",
             "email": "andrearifandi0@gmail.com",
             "handphone": "082282896370",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1333,22 +1462,33 @@ module.exports = [
             "nama": "Andre Saputra",
             "email": "-",
             "handphone": "081291432006",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/9/22",
+            "tglInput": "2022-08-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Andreadi Bayu Rivascha",
             "handphone": "8179237018",
-            "perusahaan": "PT Bukaka",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT Bukaka",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
+        },
+        {
+            "nama": "Andreas",
+            "handphone": "0813-9213-2636",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Andreas Djorgi",
@@ -1357,28 +1497,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Andreas Eko Soponyono",
             "email": "andreasekosoponyono@gmail.com",
             "handphone": "085893544243",
-            "perusahaan": "Global Prestasi School",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Global Prestasi School",
             "status": "Rapoo",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
         {
             "nama": "Andri Abu Aisyah",
             "handphone": "0812-9991-2071",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "12/1/22",
+            "tglInput": "2022-12-01",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -1386,41 +1526,41 @@ module.exports = [
             "nama": "Andri Hariyanto",
             "email": "andrihariyanto842@gmail.com",
             "handphone": "81359511779",
-            "perusahaan": "Fakultas Teknologi Maju dan Multidisiplin, Universitas Airlangga",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Fakultas Teknologi Maju dan Multidisiplin, Universitas Airlangga",
             "status": "Closing",
-            "tglInput": "8/4/22"
+            "tglInput": "2022-08-04"
         },
         {
             "nama": "Andri Hariyanto",
             "email": "andrihariyanto842@gmail.com",
             "handphone": "81359511779",
-            "perusahaan": "Fakultas Teknologi Maju dan Multidisiplin, Universitas Airlangga",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Fakultas Teknologi Maju dan Multidisiplin, Universitas Airlangga",
             "status": "Closing",
-            "tglInput": "8/4/22"
+            "tglInput": "2022-08-04"
         },
         {
             "nama": "Andri Iswandi",
             "email": "andriiswandi4@gmail.com",
             "handphone": "85161130508",
-            "perusahaan": "PT Agung Automall",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "PT Agung Automall",
             "status": "Closing",
-            "tglInput": "9/20/21"
+            "tglInput": "2021-09-20"
         },
         {
             "nama": "Andri S",
             "email": "andri@gmail.com",
             "handphone": "082112098837",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -1431,17 +1571,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Andy",
             "email": "ongfuren@gmail.com",
             "handphone": "083198601668",
-            "perusahaan": "-",
             "program": "Subsidi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1449,11 +1589,11 @@ module.exports = [
             "nama": "Anes (Digital Marketing Manager)",
             "email": "unmutegroup@gmail.com",
             "handphone": "081772873461",
-            "perusahaan": "PT Unmute Visual Indonesia",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Unmute Visual Indonesia",
             "status": "Refollow Up",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -1461,11 +1601,11 @@ module.exports = [
             "nama": "Angel Valencia",
             "email": "-",
             "handphone": "0851-7220-0720",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/6/22",
+            "tglInput": "2022-10-06",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1473,11 +1613,11 @@ module.exports = [
             "nama": "Angga",
             "email": "-",
             "handphone": "0812-1824-9072",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/6/22",
+            "tglInput": "2022-10-06",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1485,11 +1625,11 @@ module.exports = [
             "nama": "angga permana",
             "email": "Anggapermana898@gmail.com",
             "handphone": "085298491412",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1497,21 +1637,21 @@ module.exports = [
             "nama": "Angga Pratama",
             "email": "pratamaputraangga2021@gmail.com",
             "handphone": "85331974094",
-            "perusahaan": "PT Dipantara Inovasi Teknologi",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "PT Dipantara Inovasi Teknologi",
             "status": "Closing",
-            "tglInput": "3/30/22"
+            "tglInput": "2022-03-30"
         },
         {
             "nama": "Anggi ajeng amboro",
             "email": "anggiajengamboro@gmail.com",
             "handphone": "087805463798",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1519,11 +1659,11 @@ module.exports = [
             "nama": "Anggi Rantau Patintingan",
             "email": "-",
             "handphone": "085298805569",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/21/22",
+            "tglInput": "2022-09-21",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1531,22 +1671,22 @@ module.exports = [
             "nama": "Anggie Sonia",
             "email": "-",
             "handphone": "081277000270",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Anggit triputro",
             "handphone": "0821-3809-2894",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1554,11 +1694,11 @@ module.exports = [
             "nama": "anggita dewi chintyawati",
             "email": "anggitachintya98@gmail.com",
             "handphone": "081232335251",
-            "perusahaan": "PT Indraco Purnama Group",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT Indraco Purnama Group",
             "status": "Refollow Up",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1569,7 +1709,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Anindita Dwi Putri",
@@ -1578,7 +1718,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Anindya Puri Kartika",
@@ -1587,27 +1727,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Anisa Ega Maharani",
             "email": "maharanianisaega@gmail.com",
             "handphone": "81294953945",
-            "perusahaan": "RS Jakarta (PT. Jakarta Sentra Medika Sejahtera)",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "RS Jakarta (PT. Jakarta Sentra Medika Sejahtera)",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "anisa fujawati",
             "email": "anisafjw14@gmail.com",
             "handphone": "085382979061",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/25/22",
+            "tglInput": "2022-11-25",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1615,11 +1755,11 @@ module.exports = [
             "nama": "Anita Andiani",
             "email": "anita.andiani@thejakartapost.com",
             "handphone": "85777887617",
-            "perusahaan": "Digital Marketing Staff",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Digital Marketing Staff",
             "status": "Closing",
-            "tglInput": "5/18/22"
+            "tglInput": "2022-05-18"
         },
         {
             "nama": "Anna Yovanka",
@@ -1628,17 +1768,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "9/21/22"
+            "tglInput": "2022-09-21"
         },
         {
             "nama": "ANNISA ILIANA",
             "email": "Annisailiana11@gmail.com",
             "handphone": "085866162602",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/13/22",
+            "tglInput": "2022-10-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1649,7 +1789,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "1",
             "status": "Refollow Up",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1657,21 +1797,21 @@ module.exports = [
             "nama": "Anri Kun Syah Pradana",
             "email": "anri_kun@sbm-itb.ac.id",
             "handphone": "81240868004",
-            "perusahaan": "FG ITB",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "FG ITB",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "Ansa alfath",
             "email": "ansaalfath@gmail.com",
             "handphone": "081286863139",
-            "perusahaan": "Brilian akademi",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Brilian akademi",
             "status": "Rapoo",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1679,11 +1819,11 @@ module.exports = [
             "nama": "Anto",
             "email": "-",
             "handphone": "081283351438",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1691,11 +1831,11 @@ module.exports = [
             "nama": "antri",
             "email": "-",
             "handphone": "0811406677",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/17/22",
+            "tglInput": "2022-07-17",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1703,11 +1843,23 @@ module.exports = [
             "nama": "Anwar Lutfi Hafiz",
             "email": "hafizuan13@gmail.com",
             "handphone": "081211795118",
-            "perusahaan": "Yayasan Sepakat Mandiri Tahurhalang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Yayasan Sepakat Mandiri Tahurhalang",
             "status": "Price",
-            "tglInput": "8/14/22",
+            "tglInput": "2022-08-14",
+            "concern": "Cost",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "anzar anugrah",
+            "email": "sukasukaanzar@gmail.com",
+            "handphone": "085856905702",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "verom",
+            "status": "Price",
+            "tglInput": "2023-01-25",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -1715,11 +1867,11 @@ module.exports = [
             "nama": "Aprilyanti Supriyadi",
             "email": "-",
             "handphone": "081296820331",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/31/22",
+            "tglInput": "2022-07-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1727,11 +1879,11 @@ module.exports = [
             "nama": "Ardhian Agung Yulianto",
             "email": "ardhian.indonesia@gmail.com",
             "handphone": "81336866282",
-            "perusahaan": "Universitas Andalas",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "Universitas Andalas",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Ardi",
@@ -1739,7 +1891,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "15",
             "status": "Refollow Up",
-            "tglInput": "12/4/22",
+            "tglInput": "2022-12-04",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1750,9 +1902,20 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "1",
             "status": "Program",
-            "tglInput": "8/17/22",
+            "tglInput": "2022-08-17",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Aretaa",
+            "handphone": "0813-4658-6322",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-16",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "ARI ARISMAN",
@@ -1761,27 +1924,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ari Pandu Witantra, M.I.Kom",
             "email": "ari.pandu@untirta.ac.id",
             "handphone": "81717222220",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Ari Pranata Jaya",
             "email": "aripranatajaya@gmail.com",
             "handphone": "08111999487",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1789,43 +1952,55 @@ module.exports = [
             "nama": "Ari Pranata Jaya",
             "email": "aripranatajaya@gmail.com",
             "handphone": "8111999487",
-            "perusahaan": "Freelance",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Freelance",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Ari Pranata Jaya",
             "email": "aripranatajaya@gmail.com",
             "handphone": "8111999487",
-            "perusahaan": "Freelance",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Freelance",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Ari Trias Setiadi",
             "email": "-",
             "handphone": "0812-9545-6133",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/30/22",
+            "tglInput": "2022-10-30",
             "concern": "Delivery",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ariawan Wibowo Suharno",
+            "email": "ariawan.wibowo@gmail.com",
+            "handphone": "081322029050",
+            "program": "Human Resource Manager",
+            "batch": "7",
+            "perusahaan": "PT Daya Adicipta Motora",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Arief Buddyman",
             "email": "-",
             "handphone": "0857-9300-0381",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1833,21 +2008,21 @@ module.exports = [
             "nama": "Arief Priyono",
             "email": "riefpriyono@gmail.com",
             "handphone": "85259556687",
-            "perusahaan": "SK Coffee Lab.",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "SK Coffee Lab.",
             "status": "Closing",
-            "tglInput": "12/22/21"
+            "tglInput": "2021-12-22"
         },
         {
             "nama": "Arif Kaimuddin",
             "email": "-",
             "handphone": "085783808380",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/19/22",
+            "tglInput": "2022-07-19",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1855,11 +2030,11 @@ module.exports = [
             "nama": "Arif wibowo",
             "email": "kedaikopibanyuireng@gmail.com",
             "handphone": "085811488084",
-            "perusahaan": "Mitra jaya persada",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Mitra jaya persada",
             "status": "Program",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -1867,21 +2042,32 @@ module.exports = [
             "nama": "Arif Wicaksono",
             "email": "instingmarketing@gmail.com",
             "handphone": "81331216668",
-            "perusahaan": "Insting Marketing",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Insting Marketing",
             "status": "Closing",
-            "tglInput": "10/23/21"
+            "tglInput": "2021-10-23"
+        },
+        {
+            "nama": "Arifin",
+            "handphone": "0838-0675-8149",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-22",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Aripakbar",
             "email": "-",
             "handphone": "083822187393",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1889,11 +2075,11 @@ module.exports = [
             "nama": "Arletta Aulia Rashieka Subagja",
             "email": "-",
             "handphone": "08112032005",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/19/22",
+            "tglInput": "2022-08-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1901,21 +2087,21 @@ module.exports = [
             "nama": "Armani Aisyah",
             "email": "dwardhanie@gmail.com",
             "handphone": "8567884753",
-            "perusahaan": "Zenius Education",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "Zenius Education",
             "status": "Closing",
-            "tglInput": "9/18/21"
+            "tglInput": "2021-09-18"
         },
         {
             "nama": "Arnetha Riseliana",
             "email": "riselianaarnetha@gmail.com",
             "handphone": "082117221711",
-            "perusahaan": "UNIKOM",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "UNIKOM",
             "status": "Rapoo",
-            "tglInput": "9/30/22",
+            "tglInput": "2022-09-30",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1923,11 +2109,11 @@ module.exports = [
             "nama": "Aron",
             "email": "aron.philips@gmail.com",
             "handphone": "087878076001",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/26/22",
+            "tglInput": "2022-09-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -1938,17 +2124,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Art",
             "email": "-",
             "handphone": "082336290688",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/5/22",
+            "tglInput": "2022-08-05",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -1956,11 +2142,11 @@ module.exports = [
             "nama": "Arthalia Cahyaning Sri",
             "email": "Arthaliacahyani@gmail.com",
             "handphone": "85215113468",
-            "perusahaan": "Hits unikom Radio",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Hits unikom Radio",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Arvel Giffary Muhammad",
@@ -1969,26 +2155,26 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Aryo D Kusumo",
             "email": "aryodkusumo@gmail.com",
             "handphone": "81259017789",
-            "perusahaan": "RSKGMP Universitas Airlangga",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "RSKGMP Universitas Airlangga",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Asep",
             "handphone": "85966101037",
-            "perusahaan": "Dinas Pariwisata Kota Bekasi",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kota Bekasi",
             "status": "Rapoo",
-            "tglInput": "7/15/22",
+            "tglInput": "2022-07-15",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -1996,11 +2182,11 @@ module.exports = [
             "nama": "Asnan Khomis",
             "email": "asnankhomisar@gmail.com",
             "handphone": "0823 8594 1672",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/26/22",
+            "tglInput": "2022-09-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2008,11 +2194,11 @@ module.exports = [
             "nama": "Aspriyanto",
             "email": "aspriyanto@gmail.com",
             "handphone": "082142420018",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2020,20 +2206,32 @@ module.exports = [
             "nama": "Asri Suryani",
             "email": "azri.zuryani@gmail.com",
             "handphone": "82285588878",
-            "perusahaan": "MNC Radio Network",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "MNC Radio Network",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
+        },
+        {
+            "nama": "Asri Wulandari",
+            "email": "wulandari.edu@gmail.com",
+            "handphone": "081212266816",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Aurumway Foundation",
+            "status": "Closing",
+            "tglInput": "2022-12-27",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Asrul Jaya",
             "handphone": "0852-9955-9111",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/12/22",
+            "tglInput": "2022-11-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2041,11 +2239,11 @@ module.exports = [
             "nama": "Asti Fistasari",
             "email": "-",
             "handphone": "0857-4502-6865",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/27/22",
+            "tglInput": "2022-10-27",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2056,7 +2254,31 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Astri Sri Wijayanti",
+            "email": "astrisriwijayantii@gmai.com",
+            "handphone": "089688947465",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "CARA Florist",
+            "status": "Closing",
+            "tglInput": "2023-01-01",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Astri Sri Wijayanti",
+            "email": "astrisriwijayantii@gmai.com",
+            "handphone": "089688947465",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "CARA Florist",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Athandyko Rafif",
@@ -2065,27 +2287,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "3/11/22"
+            "tglInput": "2022-03-11"
         },
         {
             "nama": "Atiqa Khaneef Harahap",
             "email": "atiqakhaneef07@gmail.com",
             "handphone": "85275450012",
-            "perusahaan": "Depok",
             "program": "Sertifikasi Social Media",
             "batch": "8",
+            "perusahaan": "Depok",
             "status": "Closing",
-            "tglInput": "5/12/22"
+            "tglInput": "2022-05-12"
         },
         {
             "nama": "Auberta Farica",
             "email": "-",
             "handphone": "0856-9714-1251",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/3/22",
+            "tglInput": "2022-10-03",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -2093,11 +2315,11 @@ module.exports = [
             "nama": "Aulia",
             "email": "-",
             "handphone": "085959238307",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/1/22",
+            "tglInput": "2022-08-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2105,11 +2327,11 @@ module.exports = [
             "nama": "Aulia Berlian imani",
             "email": "auliabi97@gmail.com",
             "handphone": "081383135819",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2119,39 +2341,74 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "10/4/22"
+            "tglInput": "2022-10-04"
         },
         {
             "nama": "Aulya Uswatu Hassana",
             "email": "aulyahassana@gmail.com",
             "handphone": "87770497036",
-            "perusahaan": "Bekasi",
             "program": "Sertifikasi Social Media",
             "batch": "8",
+            "perusahaan": "Bekasi",
             "status": "Closing",
-            "tglInput": "5/23/22"
+            "tglInput": "2022-05-23"
+        },
+        {
+            "nama": "AY MODELS & AES",
+            "handphone": "0895-3385-20507",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "AY MODELS & AES",
+            "status": "Rapoo",
+            "tglInput": "2022-12-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Ayu",
             "email": "-",
             "handphone": "0857-3099-6688",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ayu Lakhsmi",
+            "email": "ayu.lakhsmi@gmail.com",
+            "handphone": "081342314270",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "Trans Media Sosial (TMS)",
+            "status": "Closing",
+            "tglInput": "2023-01-18",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ayu Nurhayati",
+            "email": "nayu280@gmail.com",
+            "handphone": "085959417369",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ayu Purnamasari",
             "email": "ayupurnamas1806@gmail.com",
             "handphone": "0822-8961-8780",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2159,20 +2416,20 @@ module.exports = [
             "nama": "Ayu Risa Oktora",
             "email": "ayu.oktora@bni-life.co.id",
             "handphone": "81911071159",
-            "perusahaan": "PT. BNI Life Insurance",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "PT. BNI Life Insurance",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ayu Tia Maulani",
             "handphone": "0816800987",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2180,54 +2437,76 @@ module.exports = [
             "nama": "Ayu Utami",
             "email": "-",
             "handphone": "085701216158",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/22/22",
+            "tglInput": "2022-08-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Azam",
             "handphone": "0822-8965-9110",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/14/22",
+            "tglInput": "2022-11-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Azis Mu'min",
+            "email": "azis18001@mail.unpad.ac.id",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "status": "Program",
+            "tglInput": "2022-12-25",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Azis Mu'min",
+            "email": "azis18001@mail.unpad.ac.id",
+            "handphone": "082317028254",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-22",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Aziz Aminudin",
             "email": "neutron.aziz@gmail.com",
             "handphone": "81573856333",
-            "perusahaan": "Paku Payung Corp.",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "Paku Payung Corp.",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Aziz Hakim Astqolani",
             "email": "azizhakimastqolani15@gmail.com",
             "handphone": "85334558256",
-            "perusahaan": "ITS",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "ITS",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
         },
         {
             "nama": "Azmi",
             "email": "-",
             "handphone": "081332027153",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2235,22 +2514,22 @@ module.exports = [
             "nama": "B",
             "email": "-",
             "handphone": "085930050600",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/1/22",
+            "tglInput": "2022-08-01",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "B",
             "handphone": "0857-5149-3019",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/3/22",
+            "tglInput": "2022-11-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2258,11 +2537,11 @@ module.exports = [
             "nama": "Bagas Eko Priyantoro",
             "email": "-",
             "handphone": "081413445297",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2273,16 +2552,16 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "2/4/22"
+            "tglInput": "2022-02-04"
         },
         {
             "nama": "Bahalwan Apriyansyah, S.T., MBA",
             "handphone": "85748540520",
-            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "baharuddin",
@@ -2291,7 +2570,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Rapoo",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2299,11 +2578,11 @@ module.exports = [
             "nama": "Bbc",
             "email": "-",
             "handphone": "081293313045",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -2311,11 +2590,11 @@ module.exports = [
             "nama": "Belaaa",
             "email": "-",
             "handphone": "087888753999",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/7/22",
+            "tglInput": "2022-08-07",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -2323,11 +2602,11 @@ module.exports = [
             "nama": "Belief",
             "email": "-",
             "handphone": "0878-8888-4422",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -2338,7 +2617,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Benedict Gian",
@@ -2347,17 +2626,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "7/19/22"
+            "tglInput": "2022-07-19"
         },
         {
             "nama": "Benedicta Adriela",
             "email": "fuujiaeon@gmail.com",
             "handphone": "81321009910",
-            "perusahaan": "Unikom Kreasi Media",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Unikom Kreasi Media",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Bernadetta Nurani Prima Dwiratri",
@@ -2366,48 +2645,48 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Berry",
             "email": "-",
             "handphone": "0877-7360-5102",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Berto Mulia Wibawa, S.Pi., M.M",
             "handphone": "8118250288",
-            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "Bhakti Purwanda",
             "email": "wirawanbhakti@gmail.com",
             "handphone": "82118180022",
-            "perusahaan": "Bekasi",
             "program": "Sertifikasi Social Media",
             "batch": "8",
+            "perusahaan": "Bekasi",
             "status": "Closing",
-            "tglInput": "5/23/22"
+            "tglInput": "2022-05-23"
         },
         {
             "nama": "Bhenar Hafiz",
             "email": "-",
             "handphone": "082260347384",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2415,11 +2694,11 @@ module.exports = [
             "nama": "Bimo",
             "email": "-",
             "handphone": "0897-0449-223",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/13/22",
+            "tglInput": "2022-10-13",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -2430,17 +2709,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Bintang Mahardhika",
+            "handphone": "0821-1870-3686",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-18",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Bintoro",
             "email": "bintorobagus@ekonomi.untan.ac.id",
             "handphone": "081254345140",
-            "perusahaan": "Universitas TanjungPura",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universitas TanjungPura",
             "status": "Closing",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2448,42 +2738,53 @@ module.exports = [
             "nama": "Bintoro Bagus Purmono, S.E., M.Si.",
             "email": "bintorobagus@ekonomi.untan.ac.id",
             "handphone": "81254345140",
-            "perusahaan": "Universitas Tanjungpura",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "Universitas Tanjungpura",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Bobi Kurniawan",
             "email": "Bobi@email.unikom.ac.id",
             "handphone": "85222637335",
-            "perusahaan": "Hits UNIKOM Radio",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Hits UNIKOM Radio",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Boi Hariyadi",
             "handphone": "0838-9025-6093",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/6/22",
+            "tglInput": "2022-11-06",
             "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Bonny",
+            "handphone": "0818-0483-3168",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-15",
+            "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Budhy",
             "email": "budsumar@gmail.com",
             "handphone": "81808222888",
-            "perusahaan": "GCL",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "GCL",
             "status": "Closing",
-            "tglInput": "6/17/22"
+            "tglInput": "2022-06-17"
         },
         {
             "nama": "Budi Abdiriva",
@@ -2492,35 +2793,35 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "BUDI APRIANDA",
             "handphone": "83898844454",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "BUDI APRIANDA",
             "handphone": "0838-9884-4454",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Budiman",
             "email": "budipav@yahoo.com",
             "handphone": "0811249062",
-            "perusahaan": "Dago Vision Care",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dago Vision Care",
             "status": "Refollow Up",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2531,17 +2832,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Bunga Triandolla",
             "email": "-",
             "handphone": "083180738041",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2549,11 +2850,11 @@ module.exports = [
             "nama": "C",
             "email": "-",
             "handphone": "085330276385",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2561,11 +2862,11 @@ module.exports = [
             "nama": "Cahya Septiyanti",
             "email": "cahyaseptiyanti.life@gmail.com",
             "handphone": "085890568475",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2576,17 +2877,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Cak Wisnu Ponco",
             "email": "-",
             "handphone": "085330276385",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2594,23 +2895,34 @@ module.exports = [
             "nama": "can",
             "email": "-",
             "handphone": "081354381567",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Candra",
+            "handphone": "0852-5991-9998",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Schedule",
+            "tglInput": "2023-01-11",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Candra kirana",
             "email": "candrakirana.smkim4@gmail.com",
             "handphone": "082119090289",
-            "perusahaan": "SMK Istiqomah Muhammadiyah 4 Samarinda",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "SMK Istiqomah Muhammadiyah 4 Samarinda",
             "status": "Price",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -2618,11 +2930,11 @@ module.exports = [
             "nama": "Caroline Andrea Windah",
             "email": "carolinewindah@gmail.com",
             "handphone": "081322357611",
-            "perusahaan": "Universitas Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Universitas Indonesia",
             "status": "Rapoo",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -2630,23 +2942,34 @@ module.exports = [
             "nama": "Carollina Anastasya",
             "email": "anastasyacarollina00@gmail.com",
             "handphone": "087843006083",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Catur joyo supeno",
+            "email": "Caturjoyo72@gmail.com",
+            "handphone": "085782336139",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "status": "Schedule",
+            "tglInput": "2022-12-21",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Chadijah Rachman",
             "email": "Chadijahr@gmail.com",
             "handphone": "082192988580",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2654,12 +2977,35 @@ module.exports = [
             "nama": "Chaerani Noor Savitri",
             "email": "chaeranisavitri7@gmail.com",
             "handphone": "089669983686",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/21/22",
+            "tglInput": "2022-11-21",
             "concern": "Cost",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Chelya Bella Pretty Audy",
+            "email": "chelyabella9@gmail.com",
+            "handphone": "085851247487",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "status": "Rapoo",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Chelya Bella Pretty Audy",
+            "email": "chelyabella9@gmail.com",
+            "handphone": "085851247487",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-30",
+            "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
@@ -2669,17 +3015,29 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Chiko",
+            "email": "fudjan078@gmail.com",
+            "handphone": "081240060765",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "kontraktor",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-12",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "christabel annora paramita parung",
             "email": "-",
             "handphone": "081330536022",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2687,21 +3045,21 @@ module.exports = [
             "nama": "christabel annora paramita parung",
             "email": "christabelapp@gmail.com",
             "handphone": "81330536022",
-            "perusahaan": "Universitas Surabaya",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Universitas Surabaya",
             "status": "Closing",
-            "tglInput": "9/9/22"
+            "tglInput": "2022-09-09"
         },
         {
             "nama": "Christian Ady Kartiko",
             "email": "Christianadyk@staff.ubaya.ac.id",
             "handphone": "82331598957",
-            "perusahaan": "Universitas Surabaya",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "Universitas Surabaya",
             "status": "Closing",
-            "tglInput": "1/3/22"
+            "tglInput": "2022-01-03"
         },
         {
             "nama": "Christina Ingelin Latuwael",
@@ -2710,17 +3068,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/16/22"
+            "tglInput": "2022-11-16"
         },
         {
             "nama": "Christine Anglina",
             "email": "christine.anglina@capital.com",
             "handphone": "85745090309",
-            "perusahaan": "CAPITAL COM INVESTMENTS LIMITED",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "CAPITAL COM INVESTMENTS LIMITED",
             "status": "Closing",
-            "tglInput": "3/11/22"
+            "tglInput": "2022-03-11"
         },
         {
             "nama": "Christiyono Wijoyo",
@@ -2729,17 +3087,41 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Christopher Lumbantobing",
+            "email": "Christopher.L.Tobing@gmail.com",
+            "handphone": "081902852738",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "USU",
+            "status": "Schedule",
+            "tglInput": "2022-12-28",
+            "concern": "Delivery",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Christopher Lumbantobing",
+            "email": "Christopher.L.Tobing@gmail.com",
+            "handphone": "081902852738",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "USU",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-21",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Cicilia",
             "email": "-",
             "handphone": "0822-7566-3273",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/23/22",
+            "tglInput": "2022-10-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2750,17 +3132,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Clara Sintha",
             "email": "clarasinthaaa@gmail.com",
             "handphone": "085249104116",
-            "perusahaan": "Universitas Lambung Mangkurat",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Universitas Lambung Mangkurat",
             "status": "Rapoo",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2768,21 +3150,21 @@ module.exports = [
             "nama": "Clarissa Nathania",
             "email": "clarissanavia03@gmail.com",
             "handphone": "81310865066",
-            "perusahaan": "Hotel Amaroossa Grande",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Hotel Amaroossa Grande",
             "status": "Closing",
-            "tglInput": "10/14/21"
+            "tglInput": "2021-10-14"
         },
         {
             "nama": "Claudya Lara Rengga",
             "email": "-",
             "handphone": "081267151002",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2790,22 +3172,22 @@ module.exports = [
             "nama": "Claudya Lara Rengga",
             "email": "-",
             "handphone": "081267151002",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Coba",
             "handphone": "08123",
-            "perusahaan": "PT. XYZ",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "PT. XYZ",
             "status": "Closing",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2814,17 +3196,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Cyn",
             "email": "-",
             "handphone": "0811-2348-774",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/2/22",
+            "tglInput": "2022-11-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2832,11 +3214,11 @@ module.exports = [
             "nama": "Cynthia Lauren",
             "email": "cynthialauren.2298@gmail.com",
             "handphone": "089612210023",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/4/22",
+            "tglInput": "2022-09-04",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -2847,17 +3229,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Cynthia Yulistin",
             "email": "-",
             "handphone": "081932606884",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/22/22",
+            "tglInput": "2022-09-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2865,31 +3247,43 @@ module.exports = [
             "nama": "Daffa Naufal",
             "email": "daffanaufaalnr@gmail.com",
             "handphone": "82143392365",
-            "perusahaan": "UPN V Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "UPN V Jatim",
             "status": "Closing",
-            "tglInput": "1/28/22"
+            "tglInput": "2022-01-28"
         },
         {
             "nama": "Daghista Putri Prawestri",
             "email": "ghistaputri@gmail.com",
             "handphone": "81362376105",
-            "perusahaan": "Mr. Bob Kampung Inggris",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "Mr. Bob Kampung Inggris",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
+        },
+        {
+            "nama": "Dana Budiman Juara",
+            "email": "dana.budiman@nusaputra.ac.id",
+            "handphone": "081316158009",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Univ. NUSA PUTRA",
+            "status": "Closing",
+            "tglInput": "2023-01-04",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Danella Dhiastari",
             "email": "ddhiastarii@gmail.com",
             "handphone": "859106806109",
-            "perusahaan": "WMW Interior",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "WMW Interior",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Dania June",
@@ -2898,28 +3292,28 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/14/22"
+            "tglInput": "2022-11-14"
         },
         {
             "nama": "Daniel",
             "email": "danielthio79@gmail.com",
             "handphone": "081312182168",
-            "perusahaan": "Mamiji",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Mamiji",
             "status": "Price",
-            "tglInput": "8/7/22",
+            "tglInput": "2022-08-07",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Daniel",
             "handphone": "0821-4346-8888",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/17/22",
+            "tglInput": "2022-11-17",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -2930,27 +3324,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Dany Preistian",
             "email": "dany.preistian@pelindomarines.com",
             "handphone": "82333826765",
-            "perusahaan": "PT Pelindo Marine Service",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT Pelindo Marine Service",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Darul Akbar",
             "email": "darulakbar2016@gmail.com",
             "handphone": "085789477932",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/23/22",
+            "tglInput": "2022-09-23",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -2958,11 +3352,11 @@ module.exports = [
             "nama": "darul ihsan",
             "email": "darulknafm@gmail.com",
             "handphone": "081224962011",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -2972,7 +3366,7 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -2983,17 +3377,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/14/22"
+            "tglInput": "2022-11-14"
         },
         {
             "nama": "Darwis Sagita, M.I.Kom",
             "email": "darwis@untirta.ac.id",
             "handphone": "8176399246",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "David Yandi Setiawan",
@@ -3002,7 +3396,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Dea Sunarwan",
@@ -3011,7 +3405,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Deasy Novianti",
@@ -3020,17 +3414,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Deci Hastuti",
             "email": "decihastuti77@gmail.com",
             "handphone": "082116352868",
-            "perusahaan": "PT Alco Sarijaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT Alco Sarijaya",
             "status": "Program",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3038,22 +3432,22 @@ module.exports = [
             "nama": "Deddy",
             "email": "-",
             "handphone": "085363396755",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/30/22",
+            "tglInput": "2022-07-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Dedi",
             "handphone": "89618771688",
-            "perusahaan": "PT. Bukaka",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT. Bukaka",
             "status": "Closing",
-            "tglInput": "4/4/22",
+            "tglInput": "2022-04-04",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3061,11 +3455,11 @@ module.exports = [
             "nama": "Dela Karlina",
             "email": "-",
             "handphone": "082269472357",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/26/22",
+            "tglInput": "2022-07-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3073,11 +3467,11 @@ module.exports = [
             "nama": "Delia Yuniar",
             "email": "deliayuniar21@gmail.con",
             "handphone": "081390888809",
-            "perusahaan": "batik smile nusantara semarang",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "batik smile nusantara semarang",
             "status": "Closing",
-            "tglInput": "7/19/22",
+            "tglInput": "2022-07-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3085,11 +3479,11 @@ module.exports = [
             "nama": "Delia Yuniar",
             "email": "deliayuniar21@gmail.con",
             "handphone": "81390888809",
-            "perusahaan": "batik smile nusantara semarang",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "batik smile nusantara semarang",
             "status": "Closing",
-            "tglInput": "7/19/22"
+            "tglInput": "2022-07-19"
         },
         {
             "nama": "Dendy (DM Reguler)",
@@ -3097,7 +3491,7 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Price",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3105,11 +3499,11 @@ module.exports = [
             "nama": "Deni Faris Kurniawan",
             "email": "denifariskurniawan@gmail.com",
             "handphone": "081383860436",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/17/22",
+            "tglInput": "2022-10-17",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3120,17 +3514,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Deni Zulpan Haerin",
             "email": "denyzulpan82848@gmail.com",
             "handphone": "085253341652",
-            "perusahaan": "Tour & Travel",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Tour & Travel",
             "status": "Schedule",
-            "tglInput": "10/5/22",
+            "tglInput": "2022-10-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3138,21 +3532,21 @@ module.exports = [
             "nama": "Denny Kustono",
             "email": "denny_k@telkom.co.id",
             "handphone": "81394046589",
-            "perusahaan": "PT Telkom",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "PT Telkom",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Derian",
             "email": "-",
             "handphone": "0877-7360-5102",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/21/22",
+            "tglInput": "2022-10-21",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3163,7 +3557,7 @@ module.exports = [
             "program": "Subsidi Social Media",
             "batch": "13",
             "status": "Rapoo",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3171,11 +3565,11 @@ module.exports = [
             "nama": "Desica Isabeth Sibarani",
             "email": "desicasibarani23@gmail.com",
             "handphone": "0895363113716",
-            "perusahaan": "Bisnis.com",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Bisnis.com",
             "status": "Rapoo",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3183,11 +3577,11 @@ module.exports = [
             "nama": "Design Win Star",
             "email": "-",
             "handphone": "0821-6297-0092",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3195,22 +3589,22 @@ module.exports = [
             "nama": "Desli",
             "email": "-",
             "handphone": "08111588816",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Desmawati Sihombing",
             "handphone": "+62 821-6009-6273",
-            "perusahaan": "Dinas Koperasi & UMKM",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Koperasi & UMKM",
             "status": "Refollow Up",
-            "tglInput": "9/19/22",
+            "tglInput": "2022-09-19",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -3218,43 +3612,54 @@ module.exports = [
             "nama": "Desmawati Sihombing",
             "email": "mirachel_modeon@yahoo.com",
             "handphone": "82160096273",
-            "perusahaan": "Dinas Koperasi & UKM Provinsi Sumatera Utara",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Dinas Koperasi & UKM Provinsi Sumatera Utara",
             "status": "Closing",
-            "tglInput": "1/31/22"
+            "tglInput": "2022-01-31"
         },
         {
             "nama": "Dessie Wulandari",
             "email": "-",
             "handphone": "08127652265",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/22/22",
+            "tglInput": "2022-08-22",
             "concern": "Delivery",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Dessy",
+            "handphone": "0812-1286-7988",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2023-01-25",
+            "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Dessy Kurnia Sari, PhD",
             "handphone": "0812-8748-7575",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
-            "batch": "24",
+            "batch": "25",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/25/22",
+            "tglInput": "2022-11-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Desy",
             "handphone": "0821-3154-1998",
-            "perusahaan": "Sosis Keju",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Sosis Keju",
             "status": "Refollow Up",
-            "tglInput": "12/14/22",
+            "tglInput": "2022-12-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3262,11 +3667,11 @@ module.exports = [
             "nama": "DESY FAURINA",
             "email": "faurina13@gmail.com",
             "handphone": "085349256713",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3277,56 +3682,56 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "Desy Resdiana Elizabeth",
             "email": "desyresdiana.imgc@gmail.com",
             "handphone": "81217226523",
-            "perusahaan": "PT Morula IVF Surabaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "PT Morula IVF Surabaya",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Desy Victoria",
             "email": "desyvictoria18@gmail.com",
             "handphone": "89652197753",
-            "perusahaan": "Universitas President",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Universitas President",
             "status": "Closing",
-            "tglInput": "6/12/22"
+            "tglInput": "2022-06-12"
         },
         {
             "nama": "Devi Ratnasari",
             "handphone": "82112633211",
-            "perusahaan": "Cervo",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Cervo",
             "status": "Closing",
-            "tglInput": "6/14/22"
+            "tglInput": "2022-06-14"
         },
         {
             "nama": "Deviani Setyorini, M.CMS",
             "email": "deviani.setyorini@untirta.ac.id",
             "handphone": "81287370923",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Dewa Ag Krishna A P",
             "email": "-",
             "handphone": "085792150870",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/4/22",
+            "tglInput": "2022-08-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3334,51 +3739,75 @@ module.exports = [
             "nama": "DEWA AGUNG KRISHNA ARIMBAWA",
             "email": "dewagung.krishna@gmail.com",
             "handphone": "85792150870",
-            "perusahaan": "ANANTA WIDYA BUSINESS SCHOOL",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "ANANTA WIDYA BUSINESS SCHOOL",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Dewi Arini Tarakania",
             "email": "dtarakania@gmail.com",
             "handphone": "82116956677",
-            "perusahaan": "PT ASABRI (persero)",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "PT ASABRI (persero)",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
+        },
+        {
+            "nama": "Dewi Intan Savrylia",
+            "email": "dewiintansav@gmail.com",
+            "handphone": "081214480131",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-18",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Dewi Kurniasih",
             "email": "dewi.kurniasih@email.unikom.ac.id",
             "handphone": "8122390598",
-            "perusahaan": "Inkubator bisnis dan KUMKM Unikom (Inbiskom)",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Inkubator bisnis dan KUMKM Unikom (Inbiskom)",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Dewi Sartika",
+            "email": "ds106@umkt.ac.id",
+            "handphone": "082271101684",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Universitas Muhammadiyah Kalimantan Timur",
+            "status": "Closing",
+            "tglInput": "2023-01-09",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Dewi Setianingsih",
             "handphone": "81312313317",
-            "perusahaan": "Dinas Pariwisata Kota Tasikmalaya",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kota Tasikmalaya",
             "status": "Rapoo",
-            "tglInput": "7/13/22",
+            "tglInput": "2022-07-13",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Dhanty",
             "handphone": "0851-5513-6995",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "15",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/5/22",
+            "tglInput": "2022-12-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3386,41 +3815,41 @@ module.exports = [
             "nama": "Dhea Salsabila",
             "email": "dheazsbila@gmail.com",
             "handphone": "83856750310",
-            "perusahaan": "Wolacom",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Wolacom",
             "status": "Closing",
-            "tglInput": "2/12/22"
+            "tglInput": "2022-02-12"
         },
         {
             "nama": "Dhien Yanuar",
             "email": "dhienyanuar@gmail.com",
             "handphone": "81399832722",
-            "perusahaan": "PT. Putra surya internusa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "PT. Putra surya internusa",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "DHIKA RAMADHANNY PUTRA",
             "email": "dhika.r.putra@gmail.com",
             "handphone": "82257661331",
-            "perusahaan": "PT. Pelindo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Pelindo",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Dhiva Syahwa G.",
             "email": "-",
             "handphone": "081338315262",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3431,16 +3860,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Dian",
             "handphone": "0896-6581-5777",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
-            "batch": "15",
+            "batch": "16",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Dian Eka Permatasari",
+            "handphone": "0811-9768-987",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3448,11 +3888,11 @@ module.exports = [
             "nama": "dian prianka",
             "email": "-",
             "handphone": "081931500007",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3460,41 +3900,41 @@ module.exports = [
             "nama": "Dian prianka",
             "email": "dianprianka@staff.ubaya.ac.id",
             "handphone": "81931500007",
-            "perusahaan": "Universitas Surabaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Universitas Surabaya",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Dian Prianka",
             "email": "dianprianka@staff.ubaya.ac.id",
             "handphone": "81931500007",
-            "perusahaan": "Universitas Surabaya",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Universitas Surabaya",
             "status": "Closing",
-            "tglInput": "9/9/22"
+            "tglInput": "2022-09-09"
         },
         {
             "nama": "Dian Septiana",
             "email": "dianvio@gmail.com",
             "handphone": "81283134288",
-            "perusahaan": "PT Nutrifood Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "PT Nutrifood Indonesia",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Diana",
             "email": "amwatour@yahoo.co.uk",
             "handphone": "+62 815-6160-725",
-            "perusahaan": "PT. Amanah Mulia Wisata",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT. Amanah Mulia Wisata",
             "status": "Refollow Up",
-            "tglInput": "8/15/22",
+            "tglInput": "2022-08-15",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -3502,11 +3942,11 @@ module.exports = [
             "nama": "Diana Amaliasari",
             "email": "-",
             "handphone": "08111116167",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3514,11 +3954,11 @@ module.exports = [
             "nama": "Diana Amaliasari",
             "email": "-",
             "handphone": "08111116167",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3526,21 +3966,21 @@ module.exports = [
             "nama": "Diana Amaliasari",
             "email": "d.amaliasari@gmail.com",
             "handphone": "8111116167",
-            "perusahaan": "Universitas Pakuan Bogor",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Universitas Pakuan Bogor",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Diana Tajuddin",
             "email": "-",
             "handphone": "0818869385",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3548,11 +3988,11 @@ module.exports = [
             "nama": "Diana Wulandari",
             "email": "dianawulandari0312@gmail.com",
             "handphone": "085861947397",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/19/22",
+            "tglInput": "2022-11-19",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3560,11 +4000,11 @@ module.exports = [
             "nama": "Diandini",
             "email": "-",
             "handphone": "081294525934",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/19/22",
+            "tglInput": "2022-09-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3572,11 +4012,11 @@ module.exports = [
             "nama": "Dicky Agung Wijaya",
             "email": "-",
             "handphone": "082131989323",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3587,27 +4027,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/6/21"
+            "tglInput": "2021-08-06"
         },
         {
             "nama": "Dida Indrahat",
             "email": "dindrajat@gmail.com",
             "handphone": "085921720746/ 0816628784",
-            "perusahaan": "Pribadi",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Pribadi",
             "status": "Closing",
-            "tglInput": "9/6/22"
+            "tglInput": "2022-09-06"
         },
         {
             "nama": "Dida indrajat",
             "email": "dindrajat@gmail.com",
             "handphone": "085921720746",
-            "perusahaan": "Waroengqu",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Waroengqu",
             "status": "Closing",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3615,11 +4055,11 @@ module.exports = [
             "nama": "Didik Prasetyo",
             "email": "-",
             "handphone": "082261565677",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3627,11 +4067,11 @@ module.exports = [
             "nama": "Dihan Muhammad Khaydar",
             "email": "khaydardihan@gmail.com",
             "handphone": "081329505099",
-            "perusahaan": "Insititut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Insititut Teknologi Sepuluh Nopember",
             "status": "Price",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3639,11 +4079,11 @@ module.exports = [
             "nama": "Dihan Muhammad Khaydar",
             "email": "khaydardihan@gmail.com",
             "handphone": "081329505099",
-            "perusahaan": "Insititut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Insititut Teknologi Sepuluh Nopember",
             "status": "Price",
-            "tglInput": "9/21/22",
+            "tglInput": "2022-09-21",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -3651,44 +4091,80 @@ module.exports = [
             "nama": "Dika Prawita",
             "email": "dikaprawita@gmail.com",
             "handphone": "8122728896",
-            "perusahaan": "Universitas Sarjanawiyata Tamansiswa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "Universitas Sarjanawiyata Tamansiswa",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Dil",
             "email": "-",
             "handphone": "089513033058",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Cost",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Dimas Tri Bagus Cahya",
+            "email": "dtribaguscahya@gmail.com",
+            "handphone": "081379563023",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Dimas Wahyu Pribadi",
             "email": "dhimass14@gmail.com",
             "handphone": "085155395225",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/20/22",
+            "tglInput": "2022-08-20",
             "concern": "Service",
             "sumber": "Wordpress"
         },
         {
             "nama": "Dina",
             "handphone": "0895-0298-9319",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/13/22",
+            "tglInput": "2022-11-13",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Dina Ayu Tifani",
+            "email": "dinaayu.private@gmail.com",
+            "handphone": "081770639505",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Dina Ayu Tifani",
+            "email": "dinaayu.private@gmail.com",
+            "handphone": "081770639505",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3696,11 +4172,11 @@ module.exports = [
             "nama": "Dina Diniatul Fitri",
             "email": "dinuldina531@gmail.com",
             "handphone": "089674058507",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3708,21 +4184,21 @@ module.exports = [
             "nama": "DINA HERDANINGRUM",
             "email": "Dina.Herdaningrum@pelindo.co.id",
             "handphone": "81327137250",
-            "perusahaan": "PT. Pelindo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Pelindo",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Dinar Setiawan S.Kom",
             "email": "dinar.setiawan164@gmail.com",
             "handphone": "085865876487",
-            "perusahaan": "SMA Nusaputera Semarang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "SMA Nusaputera Semarang",
             "status": "Schedule",
-            "tglInput": "10/6/22",
+            "tglInput": "2022-10-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3730,11 +4206,11 @@ module.exports = [
             "nama": "DINI MARYANI",
             "email": "Maryanidini1984@gmail.com",
             "handphone": "083806341253",
-            "perusahaan": "Mamake",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Mamake",
             "status": "Rapoo",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3742,21 +4218,21 @@ module.exports = [
             "nama": "Dinie Shofarotul Awwali",
             "email": "awwalidinie@gmail.com",
             "handphone": "81243383033",
-            "perusahaan": "PT. Tribun Digital Gorontalo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "PT. Tribun Digital Gorontalo",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Dinlprjct",
             "email": "-",
             "handphone": "083869553113",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3767,17 +4243,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
+        },
+        {
+            "nama": "DM",
+            "handphone": "0812-9753-0961",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-03",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Doni Wihartika",
             "email": "-",
             "handphone": "0818-402-000",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/1/22",
+            "tglInput": "2022-10-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3785,11 +4272,11 @@ module.exports = [
             "nama": "Donna",
             "email": "-",
             "handphone": "081231542344",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/23/22",
+            "tglInput": "2022-09-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3797,11 +4284,11 @@ module.exports = [
             "nama": "Dr dr Renni Yuniati SpKK",
             "email": "-",
             "handphone": "08122847008",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3809,11 +4296,11 @@ module.exports = [
             "nama": "Dr. Barkah, S.E., M.Si.",
             "email": "barkah@ekonomi.untan.ac.id",
             "handphone": "85386558670",
-            "perusahaan": "Universitas Tanjungpura",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "Universitas Tanjungpura",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Dr. Drs. Ony Djogo, SH., MM., M.Ap",
@@ -3822,7 +4309,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
         },
         {
             "nama": "Dr. H. R. Ricky Agusiady, SE., MM., Ak., CFrA",
@@ -3831,7 +4318,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
         },
         {
             "nama": "Dr. Hj. Dety Mulyanti, M.Pd",
@@ -3840,27 +4327,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
         },
         {
             "nama": "Dr. Idi Dimyati,M.I.Kom",
             "email": "idi.dimyati@untirta.ac.id",
             "handphone": "81384167435",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Dr. Mia Dwianna W",
             "email": "mia.dwiana@untirta.ac.id",
             "handphone": "87832743759",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Dr. Ni Wayan Widhiasthini, S.Sos., M.Si.",
@@ -3869,7 +4356,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Dr. Nyoman Sri Subawa, S.T., S.Sos., M.M.",
@@ -3878,7 +4365,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "DR. Rr. Ida Nuraida, SE,MM",
@@ -3887,7 +4374,19 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
+        },
+        {
+            "nama": "Dr. Syamsuriansyah,MM.,M.Kes",
+            "email": "sam_bptk@yahoo.com",
+            "handphone": "081805711121",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Politeknik Medica Farma Husada Mataram",
+            "status": "Closing",
+            "tglInput": "2023-01-09",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Drizka Ramadhia",
@@ -3896,16 +4395,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Dulfa",
             "handphone": "87822536936",
-            "perusahaan": "Dinas Pariwisata Kab. Sukabumi",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kab. Sukabumi",
             "status": "Rapoo",
-            "tglInput": "7/13/22",
+            "tglInput": "2022-07-13",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3913,11 +4412,11 @@ module.exports = [
             "nama": "DWI AYU NURFA'IZAH",
             "email": "nurfaizahdwiayu20@gmail.com",
             "handphone": "085859948940",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/11/22",
+            "tglInput": "2022-12-11",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3925,11 +4424,11 @@ module.exports = [
             "nama": "Dwi Martha",
             "email": "-",
             "handphone": "0819-9931-8380",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/14/22",
+            "tglInput": "2022-10-14",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -3937,11 +4436,11 @@ module.exports = [
             "nama": "Dwi Puji",
             "email": "dwiee_sr@yahoo.com",
             "handphone": "082142916867",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/4/22",
+            "tglInput": "2022-09-04",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -3949,20 +4448,20 @@ module.exports = [
             "nama": "Dwitriana Ulfi R",
             "email": "dwitrianaulfirizqiningsih@gmail.com",
             "handphone": "82291764950",
-            "perusahaan": "Gosocial & Telkom Indonesia Regional VII",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Gosocial & Telkom Indonesia Regional VII",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Dzaky",
             "handphone": "082115954230",
-            "perusahaan": "Dinas Pariwisata Kab. Kuningan",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kab. Kuningan",
             "status": "Rapoo",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3973,17 +4472,40 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "1/22/22"
+            "tglInput": "2022-01-22"
+        },
+        {
+            "nama": "Dzuhairi",
+            "handphone": "0812-7052-4440",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-23",
+            "concern": "Cost",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Eamar",
             "email": "-",
             "handphone": "0857-5576-7208",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Eddy Kintono",
+            "email": "berhancv@gmail.com",
+            "handphone": "081513578268",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "CV.Berhan",
+            "status": "Closing",
+            "tglInput": "2022-12-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -3993,7 +4515,7 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Rapoo",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4001,33 +4523,44 @@ module.exports = [
             "nama": "Edi Nurwahyu",
             "email": "glowedy@gmail.com",
             "handphone": "8995353269",
-            "perusahaan": "Universitas Semarang",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "Universitas Semarang",
             "status": "Closing",
-            "tglInput": "3/9/22"
+            "tglInput": "2022-03-09"
         },
         {
             "nama": "Edi Purwanto",
             "email": "-",
             "handphone": "0852-1083-2769",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/20/22",
+            "tglInput": "2022-10-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Edkint95",
+            "handphone": "0811-954-848",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Edra",
             "email": "-",
             "handphone": "081233332127",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/25/22",
+            "tglInput": "2022-07-25",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -4035,11 +4568,11 @@ module.exports = [
             "nama": "Education",
             "email": "-",
             "handphone": "08112837735",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/11/22",
+            "tglInput": "2022-08-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4047,11 +4580,11 @@ module.exports = [
             "nama": "Efrida",
             "email": "-",
             "handphone": "081370325035",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4059,11 +4592,11 @@ module.exports = [
             "nama": "Efrida",
             "email": "Efridahayani@gmail.com",
             "handphone": "081370325035",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -4071,11 +4604,11 @@ module.exports = [
             "nama": "Egi Rahayu Sopyan",
             "email": "egi.rahayu18@gmail.com",
             "handphone": "83827848635",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Eka Lutfi",
@@ -4084,17 +4617,29 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Eka Meliyana Hartati",
+            "email": "mellyana9212@gmail.com",
+            "handphone": "085722373837",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-17",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Eko Esti Santoso",
             "email": "-",
             "handphone": "081237233366",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/23/22",
+            "tglInput": "2022-07-23",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -4102,39 +4647,39 @@ module.exports = [
             "nama": "Eko Nugroho",
             "email": "enugrohojkta@gmail.com",
             "handphone": "811881155",
-            "perusahaan": "PT Bumi Nusantara Gemahripah",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "PT Bumi Nusantara Gemahripah",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "EKO SURYO ATMOJO",
             "handphone": "81291666240",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "EKO SURYO ATMOJO",
             "handphone": "0812-9166-6240",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Elan",
             "email": "-",
             "handphone": "0822-1340-1471",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4145,17 +4690,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "10/29/22"
+            "tglInput": "2022-10-29"
         },
         {
             "nama": "Elda Arista F",
             "email": "eldaaristaf@gmail.com",
             "handphone": "081325279001",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4163,41 +4708,41 @@ module.exports = [
             "nama": "Elfan Muhib Danil Islam",
             "email": "elfan17001@gmail.com",
             "handphone": "81322565662",
-            "perusahaan": "Rumah Amal Salman",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Rumah Amal Salman",
             "status": "Closing",
-            "tglInput": "1/25/22"
+            "tglInput": "2022-01-25"
         },
         {
             "nama": "elfara rafida zahra",
             "email": "elfararafidazahra@gmail.com",
             "handphone": "81338993558",
-            "perusahaan": "universitas terbuka",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "universitas terbuka",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Elisa Christian Adhie Ernanto",
             "email": "elisachristian65@gmail.com",
             "handphone": "81231404075",
-            "perusahaan": "PT Adijaya Wahana Satwa",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT Adijaya Wahana Satwa",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "Eliza Khristina Dumalang",
             "email": "cacaeliza@gmail.com",
             "handphone": "081931721994",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4208,7 +4753,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "8/6/22"
+            "tglInput": "2022-08-06"
         },
         {
             "nama": "Eliza Khristina Dumalang",
@@ -4217,16 +4762,16 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "8/6/22"
+            "tglInput": "2022-08-06"
         },
         {
             "nama": "Ella Shariati",
             "handphone": "0822-1612-4885",
-            "perusahaan": "Butuh Pelatihan SEO",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Butuh Pelatihan SEO",
             "status": "Refollow Up",
-            "tglInput": "11/17/22",
+            "tglInput": "2022-11-17",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4237,17 +4782,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Elsya Regita",
             "email": "-",
             "handphone": "087786500013",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -4255,11 +4800,11 @@ module.exports = [
             "nama": "Elvira rafika",
             "email": "elvira@gmail.com",
             "handphone": "08111863001",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -4267,11 +4812,11 @@ module.exports = [
             "nama": "Enggo Putrajaya",
             "email": "3toilet@gmail.com",
             "handphone": "085861803868",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/6/22",
+            "tglInput": "2022-10-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4279,11 +4824,11 @@ module.exports = [
             "nama": "Eni Rahmawati",
             "email": "-",
             "handphone": "087748002861",
-            "perusahaan": "-",
             "program": "Subsidi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4294,17 +4839,41 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/1/22"
+            "tglInput": "2022-09-01"
+        },
+        {
+            "nama": "Eqi Prananda Saputra",
+            "email": "eqprananda97@gmail.com",
+            "handphone": "0895387660752",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-29",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Erfan Tri Yoedianto",
+            "email": "erfanyudianto71@gmail.com",
+            "handphone": "082140371929",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Rs Mitra Medika Bondowoso",
+            "status": "Closing",
+            "tglInput": "2023-01-10",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Erick M Yusuf",
             "email": "-",
             "handphone": "0812-9833-3687",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -4312,11 +4881,11 @@ module.exports = [
             "nama": "Erlinda Dwi Marthasari",
             "email": "-",
             "handphone": "088217988219",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -4324,11 +4893,11 @@ module.exports = [
             "nama": "Erlinda Dwi Marthasari",
             "email": "-",
             "handphone": "088217988219",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -4336,34 +4905,46 @@ module.exports = [
             "nama": "Erlinda Dwi Marthasari",
             "email": "-",
             "handphone": "088217988219",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Erna",
             "handphone": "+1 (818) 900-1926",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/6/22",
+            "tglInput": "2022-12-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ernawati Sibarani",
+            "email": "eruna.watari08@gmail.com",
+            "handphone": "082260636134",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-17",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Erry Sahputra",
             "email": "-",
             "handphone": "085765423968",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4371,11 +4952,11 @@ module.exports = [
             "nama": "Ervan Roynaldo Situmorang",
             "email": "ervanroynaldo@gmail.com",
             "handphone": "82273371348",
-            "perusahaan": "PT Sicepat Ekspress",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "PT Sicepat Ekspress",
             "status": "Closing",
-            "tglInput": "6/10/22"
+            "tglInput": "2022-06-10"
         },
         {
             "nama": "Erwin Wijaya",
@@ -4384,17 +4965,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Esta Kania",
             "email": "drrahmat19@gmail.com",
             "handphone": "081316286373",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4405,27 +4986,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "9/20/22"
+            "tglInput": "2022-09-20"
         },
         {
             "nama": "Eunike Ariella Jahja",
             "email": "eunikeariella04@gmail.com",
             "handphone": "81519315557",
-            "perusahaan": "Belum bekerja",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "Belum bekerja",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Evant Danamaya Liekas",
             "email": "-",
             "handphone": "0895335137700",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -4433,31 +5014,31 @@ module.exports = [
             "nama": "Evelyn Wiryani Purwa",
             "email": "tanuwijaya.evelyn@gmail.com",
             "handphone": "87881813340",
-            "perusahaan": "Edlink + ConneX",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Edlink + ConneX",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Faadillah Mursid Alansori",
             "email": "operatorgenju1@gmail.com",
             "handphone": "85624005876",
-            "perusahaan": "Generasi Juara Corp",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Generasi Juara Corp",
             "status": "Closing",
-            "tglInput": "6/29/22"
+            "tglInput": "2022-06-29"
         },
         {
             "nama": "Fachri",
             "email": "fachridroid69@gmail.com",
             "handphone": "081511170193",
-            "perusahaan": "PT. Estetika Pro International",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT. Estetika Pro International",
             "status": "Program",
-            "tglInput": "6/29/22",
+            "tglInput": "2022-06-29",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -4468,17 +5049,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Fachrizal Maulana",
             "email": "fachrizalmaulana158@gmail.com",
             "handphone": "085347510308",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4486,11 +5067,11 @@ module.exports = [
             "nama": "Fachrul Ramadhan",
             "email": "cibocupu454@gmail.com",
             "handphone": "085333454018",
-            "perusahaan": "RS. Khusus THT-BEDAH KL PROKLAMASI",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "RS. Khusus THT-BEDAH KL PROKLAMASI",
             "status": "Closing",
-            "tglInput": "11/19/22",
+            "tglInput": "2022-11-19",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4501,7 +5082,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Fachruzi",
@@ -4510,37 +5091,61 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "fadel mohammad kurniawan",
+            "email": "fadelmk20@gmail.com",
+            "handphone": "089521650022",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Fahdul Baar Wibowo Putra",
+            "email": "fahdulbaar97@gmail.com",
+            "handphone": "082117127923",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Telkom Indonesia",
+            "status": "Closing",
+            "tglInput": "2023-01-07",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Fahru Roji",
             "email": "fahruroji.51919161@mahasiswa.unikom.ac.id",
             "handphone": "81221703736",
-            "perusahaan": "Subang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Subang",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Fahzy Nuansyah Ilham",
             "email": "ajifahzy123@gmail.com",
             "handphone": "85771895035",
-            "perusahaan": "UPI",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "UPI",
             "status": "Closing",
-            "tglInput": "7/5/22"
+            "tglInput": "2022-07-05"
         },
         {
             "nama": "Faiz firmansyah",
             "email": "ffrinsyh@gmail.com",
             "handphone": "082134180786",
-            "perusahaan": "PT. TECHPACK ASIA ALBEA GROUP",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "PT. TECHPACK ASIA ALBEA GROUP",
             "status": "Program",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4550,19 +5155,42 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Price",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Fajar Abdul Manaf",
+            "email": "jarmanaf@gmail.com",
+            "handphone": "085820492618",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-21",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Fajar Abdul Manaf",
+            "email": "jarmanaf@gmail.com",
+            "handphone": "085820492618",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-20",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Fajar PT Wijayadigitalgroup",
             "email": "-",
             "handphone": "081268800544",
-            "perusahaan": "PT Wijayadigitalgroup",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT Wijayadigitalgroup",
             "status": "Price",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4570,11 +5198,11 @@ module.exports = [
             "nama": "Fakhmi Rahmadi",
             "email": "rahmadifakhmi@gamil.com",
             "handphone": "6287789670561",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4582,11 +5210,11 @@ module.exports = [
             "nama": "Fakhri Adi A",
             "email": "fakhriadiq@gmail.com",
             "handphone": "085959848225",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/14/22",
+            "tglInput": "2022-09-14",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4594,11 +5222,11 @@ module.exports = [
             "nama": "Fani Setiana",
             "email": "-",
             "handphone": "082150866890",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/16/22",
+            "tglInput": "2022-08-16",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -4606,11 +5234,11 @@ module.exports = [
             "nama": "Fanny",
             "email": "-",
             "handphone": "0818889635",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/1/22",
+            "tglInput": "2022-11-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4618,11 +5246,11 @@ module.exports = [
             "nama": "Fanny Francisca",
             "email": "fanny.francisca@kanaan.sch.id",
             "handphone": "0818889635",
-            "perusahaan": "Yayasan Kanaan",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Yayasan Kanaan",
             "status": "Closing",
-            "tglInput": "11/8/22",
+            "tglInput": "2022-11-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4633,16 +5261,16 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/1/22"
+            "tglInput": "2022-11-01"
         },
         {
             "nama": "Faqih",
             "handphone": "0852-9131-0517",
-            "perusahaan": "-",
             "program": "Digital Entrepreneur Class Practitioner",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "12/15/22",
+            "tglInput": "2022-12-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4650,11 +5278,11 @@ module.exports = [
             "nama": "Farhan Fadhlillah",
             "email": "farhanfadhlillah26@gmail.com",
             "handphone": "81382327978",
-            "perusahaan": "IMERI FKUI",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "IMERI FKUI",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Farhan Suharto",
@@ -4663,17 +5291,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "5/14/22"
+            "tglInput": "2022-05-14"
         },
         {
             "nama": "Farida",
             "email": "-",
             "handphone": "08124003191",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -4681,22 +5309,22 @@ module.exports = [
             "nama": "Farida",
             "email": "-",
             "handphone": "08124003191",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
         },
         {
             "nama": "Farida (Reguler SM)",
             "handphone": "+62 877-2585-9156",
-            "perusahaan": "Universitas Respati Yogyakarta",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universitas Respati Yogyakarta",
             "status": "Closing",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4704,42 +5332,54 @@ module.exports = [
             "nama": "Farida Nur Aini",
             "email": "faridaunriyo@gmail.com",
             "handphone": "087725859156",
-            "perusahaan": "universitas respati yogyakarta",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "universitas respati yogyakarta",
             "status": "Closing",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Farida Nur Aini",
             "handphone": "87725859156",
-            "perusahaan": "universitas respati yogyakarta",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "universitas respati yogyakarta",
             "status": "Closing",
-            "tglInput": "8/31/22"
+            "tglInput": "2022-08-31"
         },
         {
             "nama": "Fariz Mirza",
             "email": "farizmirza.fm@gmail.com",
             "handphone": "81246841981",
-            "perusahaan": "Kemenag Bangli",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "Kemenag Bangli",
             "status": "Closing",
-            "tglInput": "2/28/22"
+            "tglInput": "2022-02-28"
+        },
+        {
+            "nama": "farrah",
+            "email": "fitrianny.farrah@gmail.com",
+            "handphone": "081295959819",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "beautinesia media network",
+            "status": "Schedule",
+            "tglInput": "2023-01-01",
+            "concern": "Delivery",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Farros Fahmi Mubarok",
             "email": "fahmi17081999@gmail.com",
             "handphone": "0895634615853",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4750,27 +5390,38 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Fatmalia Nur Kholifa",
+            "handphone": "0857-1762-3707",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-10",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Fatmawati Hadawiyah",
             "email": "hadawif@gmail.com",
             "handphone": "81290875455",
-            "perusahaan": "Adas Labs",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Adas Labs",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Fatmi rosella",
             "email": "-",
             "handphone": "089522295553",
-            "perusahaan": "Aybe Cosmetics",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Aybe Cosmetics",
             "status": "Program",
-            "tglInput": "9/15/22",
+            "tglInput": "2022-09-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4778,11 +5429,11 @@ module.exports = [
             "nama": "Fatmi rosella",
             "email": "fatmirosellabat@gmail.com",
             "handphone": "089522295553",
-            "perusahaan": "Aybe Cosmetics",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Aybe Cosmetics",
             "status": "Price",
-            "tglInput": "9/16/22",
+            "tglInput": "2022-09-16",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -4790,11 +5441,11 @@ module.exports = [
             "nama": "Faul",
             "email": "-",
             "handphone": "0897-6277-757",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -4802,11 +5453,11 @@ module.exports = [
             "nama": "Fauzy Aulia",
             "email": "Fauzyaulia86@gmail.com",
             "handphone": "082295318121",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "3/3/21",
+            "tglInput": "2021-03-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4817,17 +5468,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Fawwaz",
             "email": "-",
             "handphone": "085866506912",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/5/22",
+            "tglInput": "2022-08-05",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -4835,11 +5486,11 @@ module.exports = [
             "nama": "Febi Amifani",
             "email": "-",
             "handphone": "088286321532",
-            "perusahaan": "UIN Raden Intan Lampung",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UIN Raden Intan Lampung",
             "status": "Rapoo",
-            "tglInput": "7/26/22",
+            "tglInput": "2022-07-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4847,30 +5498,30 @@ module.exports = [
             "nama": "febry ramadhani",
             "email": "febry@danamart.id",
             "handphone": "81283915401",
-            "perusahaan": "danamart (PT Dana Aguna Nusantara)",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "danamart (PT Dana Aguna Nusantara)",
             "status": "Closing",
-            "tglInput": "1/25/22"
+            "tglInput": "2022-01-25"
         },
         {
             "nama": "FEBY CHRISTIAN PARRANGAN DATU LEMBAN",
             "handphone": "81326058639",
-            "perusahaan": "PT. PELINDO",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. PELINDO",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Febyana Sidabutar",
             "email": "-",
             "handphone": "085958923585",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/13/22",
+            "tglInput": "2022-08-13",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -4878,11 +5529,11 @@ module.exports = [
             "nama": "Felix Fernando Delavega",
             "email": "-",
             "handphone": "082197755910",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4890,31 +5541,31 @@ module.exports = [
             "nama": "Fenia Novinda Putri",
             "email": "fenianovindaaa@gmail.com / fenianovinda@katakanlah.id",
             "handphone": "82374800098",
-            "perusahaan": "Katakanlah",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Katakanlah",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Fenny",
             "email": "minibob239@gmail.com",
             "handphone": "82124564623",
-            "perusahaan": "Philiipines, Makati",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Philiipines, Makati",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Fennycia",
             "email": "-",
             "handphone": "081219496888",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -4922,20 +5573,20 @@ module.exports = [
             "nama": "Fennycia fransisca",
             "email": "fennyciafransisca@gmail.com",
             "handphone": "81219496888",
-            "perusahaan": "Toko Elshadai",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Toko Elshadai",
             "status": "Closing",
-            "tglInput": "9/2/22"
+            "tglInput": "2022-09-02"
         },
         {
             "nama": "Ferdi",
             "handphone": "82110807110",
-            "perusahaan": "Universitas Bunda Mulia",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universitas Bunda Mulia",
             "status": "Program",
-            "tglInput": "3/21/22",
+            "tglInput": "2022-03-21",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -4943,11 +5594,11 @@ module.exports = [
             "nama": "Ferdian Arifandy Faisal",
             "email": "ferdianaf18@gmail.com",
             "handphone": "085233133983",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/17/22",
+            "tglInput": "2022-11-17",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4955,11 +5606,11 @@ module.exports = [
             "nama": "Ferdian Arifandy Faisal",
             "email": "ferdianaf18@gmail.com",
             "handphone": "085233133983",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -4967,31 +5618,31 @@ module.exports = [
             "nama": "Ferina Yolanda",
             "email": "f.yolanda@scisi.com",
             "handphone": "82180878307",
-            "perusahaan": "KSO Sucofindo Surveyor Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "KSO Sucofindo Surveyor Indonesia",
             "status": "Closing",
-            "tglInput": "10/7/22"
+            "tglInput": "2022-10-07"
         },
         {
             "nama": "Fery Pratama",
             "email": "ferytama@gmail.com",
             "handphone": "81322075222",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Fia Nurfianti",
             "email": "fia.nurfianti@ptjas.co.id",
             "handphone": "816292791",
-            "perusahaan": "PT. Jasa Angkasa Semesta, Tbk",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Jasa Angkasa Semesta, Tbk",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Fiadine Tisadinda",
@@ -5000,7 +5651,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "9/17/21"
+            "tglInput": "2021-09-17"
         },
         {
             "nama": "Fibria Indriati",
@@ -5009,7 +5660,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Fibria Indriati",
@@ -5018,7 +5669,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Fica Lestary",
@@ -5027,7 +5678,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Fida Nafisah",
@@ -5036,17 +5687,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Fidella",
             "email": "delladelvano@gmail.com",
             "handphone": "082391687115",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -5054,11 +5705,11 @@ module.exports = [
             "nama": "Figar Alif Gifari",
             "email": "figar.alif@gmail.com",
             "handphone": "087875040631",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5066,21 +5717,21 @@ module.exports = [
             "nama": "Fikri Febrian Abdurrahman",
             "email": "fikri.frans228@gmail.com",
             "handphone": "87836296122",
-            "perusahaan": "Pangkalan Gas Lpg 3kg",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Pangkalan Gas Lpg 3kg",
             "status": "Closing",
-            "tglInput": "7/4/22"
+            "tglInput": "2022-07-04"
         },
         {
             "nama": "Fikri Kharis Asyihab",
             "email": "-",
             "handphone": "081138811121",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/26/22",
+            "tglInput": "2022-08-26",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5088,11 +5739,11 @@ module.exports = [
             "nama": "Fikri rohim",
             "email": "-",
             "handphone": "082182686403",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5103,7 +5754,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Fina farhana",
@@ -5112,27 +5763,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Finka Ayu Ananda Silvy",
             "email": "finka.ayu@maranatha.edu",
             "handphone": "82274749776",
-            "perusahaan": "Universitas Kristen Maranatha",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Universitas Kristen Maranatha",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "FIRMAN HIDAYAT",
             "email": "-",
             "handphone": "085747455155",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5140,21 +5791,21 @@ module.exports = [
             "nama": "Firsya Rahmadhalni",
             "email": "firsya.rahmadhalni@gmail.com",
             "handphone": "87777224515",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Firya",
             "email": "-",
             "handphone": "08115039479",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5162,11 +5813,11 @@ module.exports = [
             "nama": "Fithri Wulandari",
             "email": "-",
             "handphone": "0811-9592-737",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/21/22",
+            "tglInput": "2022-10-21",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5174,11 +5825,11 @@ module.exports = [
             "nama": "Fitrah Aritama",
             "email": "fitraharitama70860@gmail.com",
             "handphone": "085242437122",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -5186,21 +5837,21 @@ module.exports = [
             "nama": "Fitri Lolanda",
             "email": "flolandag@gmail.com",
             "handphone": "81218854688",
-            "perusahaan": "PT Allianz Life Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
+            "perusahaan": "PT Allianz Life Indonesia",
             "status": "Closing",
-            "tglInput": "11/22/21"
+            "tglInput": "2021-11-22"
         },
         {
             "nama": "Fitri Yeni Gunasari",
             "email": "fitriyenigunasari@gmail.com",
             "handphone": "085769029535",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/19/22",
+            "tglInput": "2022-11-19",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5208,11 +5859,11 @@ module.exports = [
             "nama": "Fitria",
             "email": "-",
             "handphone": "085659151969",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5223,51 +5874,63 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/4/22"
+            "tglInput": "2022-09-04"
         },
         {
             "nama": "Fiza",
             "email": "-",
             "handphone": "081377216215",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Cost",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Franky Go",
+            "email": "frankygo1978@gmail.com",
+            "handphone": "082111119437",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Arete Learning Academy",
+            "status": "Program",
+            "tglInput": "2023-01-10",
+            "concern": "Quality",
+            "sumber": "Kontak"
         },
         {
             "nama": "Fransisca Paramitha",
             "email": "cicafransisca@gmail.com",
             "handphone": "089644721995",
-            "perusahaan": "Akademi Televisi Indonesia ( ATVI )",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Akademi Televisi Indonesia ( ATVI )",
             "status": "Refollow Up",
-            "tglInput": "11/22/22",
+            "tglInput": "2022-11-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Fransiska",
             "handphone": "0812-5627-2298",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/4/22",
+            "tglInput": "2022-11-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Fransiska",
             "handphone": "0812-5627-2298",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/4/22",
+            "tglInput": "2022-11-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5275,11 +5938,11 @@ module.exports = [
             "nama": "Fritz",
             "email": "mail2fritz@gmail.com",
             "handphone": "81380042015",
-            "perusahaan": "Citra Swarna Group",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Citra Swarna Group",
             "status": "Price",
-            "tglInput": "8/16/22",
+            "tglInput": "2022-08-16",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -5287,11 +5950,11 @@ module.exports = [
             "nama": "Friwanson siburian",
             "email": "Friwanson_smart@yahoo.co.id",
             "handphone": "081317285798",
-            "perusahaan": "Pt sumber food ingredient",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "Pt sumber food ingredient",
             "status": "Refollow Up",
-            "tglInput": "7/28/22",
+            "tglInput": "2022-07-28",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -5299,21 +5962,21 @@ module.exports = [
             "nama": "Fuad Adi Pradana",
             "email": "fuad.pradana@gmail.com",
             "handphone": "85238077641",
-            "perusahaan": "CV MDMH",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "CV MDMH",
             "status": "Closing",
-            "tglInput": "1/28/22"
+            "tglInput": "2022-01-28"
         },
         {
             "nama": "Fuad Mutashimp",
             "email": "fuadmutashim3@gmail.com",
             "handphone": "081395094947",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5321,11 +5984,11 @@ module.exports = [
             "nama": "Gabby",
             "email": "-",
             "handphone": "082231917535",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5333,31 +5996,31 @@ module.exports = [
             "nama": "Gabriel Naomi Aglieshanty",
             "email": "gabrielnaomi.ag@gmail.com",
             "handphone": "82231917535",
-            "perusahaan": "Sidodadi Eggtray",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Sidodadi Eggtray",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Gabriel Naomi Aglieshanty",
             "email": "gabrielnaomi.ag@gmail.com",
             "handphone": "82231917535",
-            "perusahaan": "Sidodadi Eggtray",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Sidodadi Eggtray",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Galih Dwi Santoso",
             "email": "galihdwisantos04@gmail.com",
             "handphone": "081273048667",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "12/10/22",
+            "tglInput": "2022-12-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -5365,11 +6028,11 @@ module.exports = [
             "nama": "Galih Nur Maulana",
             "email": "galihnurmaulana6@gmail.com",
             "handphone": "088233057201",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -5377,11 +6040,11 @@ module.exports = [
             "nama": "Galih Nur Maulana",
             "email": "galihnurmaulana6@gmail.com",
             "handphone": "088233057201",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5389,11 +6052,11 @@ module.exports = [
             "nama": "Galih Setiyo Aji",
             "email": "galihsetiyoa@gmail.com",
             "handphone": "0831-1009-1502",
-            "perusahaan": "Universitas Jember",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Universitas Jember",
             "status": "Rapoo",
-            "tglInput": "11/23/22",
+            "tglInput": "2022-11-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5401,11 +6064,11 @@ module.exports = [
             "nama": "Gama Anom Multi Riyadi",
             "email": "gamaanom1@gmail.com",
             "handphone": "085163079849",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/30/22",
+            "tglInput": "2022-10-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5416,7 +6079,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Gandhi Surya Buana",
@@ -5425,17 +6088,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Gangsar Yusuf Prastoto",
             "email": "-",
             "handphone": "0856-9287-4207",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5446,16 +6109,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ganjar",
             "handphone": "81290206537",
-            "perusahaan": "PUSYANTEK BRIN",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PUSYANTEK BRIN",
             "status": "Closing",
-            "tglInput": "6/13/22",
+            "tglInput": "2022-06-13",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5464,16 +6127,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Gason",
             "handphone": "0812-6833-1874",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/2/22",
+            "tglInput": "2022-11-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5481,11 +6144,11 @@ module.exports = [
             "nama": "Gatra Baskoroputra",
             "email": "gatrafaisal1997@gmail.com",
             "handphone": "81291358423",
-            "perusahaan": "Catur elang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Catur elang",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Gendys Adesta",
@@ -5494,16 +6157,39 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
             "status": "Closing",
-            "tglInput": "1/17/22"
+            "tglInput": "2022-01-17"
         },
         {
             "nama": "GesitMI",
             "handphone": "0881-7860-759",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/28/22",
+            "tglInput": "2022-11-28",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ghaida Aziz Isyanto",
+            "email": "ghaida.ziza98@gmail.com",
+            "handphone": "0812-2625-8162",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "status": "Closing",
+            "tglInput": "2022-12-29",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ghaida Aziz Isyanto",
+            "email": "ghaida.ziza98@gmail.com",
+            "handphone": "0812-2625-8162",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2022-12-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5511,20 +6197,20 @@ module.exports = [
             "nama": "Ghia Subagja",
             "email": "ghiasubagja.mmunila@gmail.com",
             "handphone": "82280431712",
-            "perusahaan": "Universitas Lampung",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Lampung",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Ghina",
             "handphone": "81281411755",
-            "perusahaan": "Labmania",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Labmania",
             "status": "Schedule",
-            "tglInput": "5/25/22",
+            "tglInput": "2022-05-25",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -5535,7 +6221,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ghyna Satya Anugrah",
@@ -5544,36 +6230,72 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
+        },
+        {
+            "nama": "Gita febriandini",
+            "email": "gita.febriandini@yahoo.com",
+            "handphone": "08118753386",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Gita febriandini",
+            "email": "gita.febriandini@yahoo.com",
+            "handphone": "08118753386",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-22",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Gita Widi Bhawika, S.ST., M.MT",
             "handphone": "81808004880",
-            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "Githa",
-            "perusahaan": "Jabar Future Leaders",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Jabar Future Leaders",
             "status": "Program",
-            "tglInput": "2/25/22",
+            "tglInput": "2022-02-25",
             "concern": "Cost",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Glausul Fiqriah",
+            "email": "Glausulfiq09@gmail.com",
+            "handphone": "088238468116",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "PT. Trawlbens Teknologi Anak Indonesia",
+            "status": "Rapoo",
+            "tglInput": "2022-12-23",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Glorya Fransisca Petrus Ly",
             "email": "glryly28@gmail.com",
             "handphone": "081238303809",
-            "perusahaan": "Mahasiswa Undana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Mahasiswa Undana",
             "status": "Program",
-            "tglInput": "8/26/22",
+            "tglInput": "2022-08-26",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5584,27 +6306,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/3/21"
+            "tglInput": "2021-08-03"
         },
         {
             "nama": "Grace Veronica Kalalo",
             "email": "grace.veronica@brilife.co.id",
             "handphone": "8124180456",
-            "perusahaan": "PT.Asuransi BRIlife",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "PT.Asuransi BRIlife",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Gracia Stefani",
             "email": "geofani.1990@gmail.com",
             "handphone": "0895322758566",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/5/22",
+            "tglInput": "2022-08-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5612,22 +6334,22 @@ module.exports = [
             "nama": "Gresyandi",
             "email": "-",
             "handphone": "087771800486",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Service",
             "sumber": "WhatsApp"
         },
         {
             "nama": "greta risa",
             "handphone": "0895-6074-56599",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/25/22",
+            "tglInput": "2022-11-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5635,21 +6357,32 @@ module.exports = [
             "nama": "Guntur",
             "email": "gunturdeltamedia@gmail.com",
             "handphone": "8114092712",
-            "perusahaan": "Deltamedia Wakatobi",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "Deltamedia Wakatobi",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
+        },
+        {
+            "nama": "HA",
+            "handphone": "0822-7593-4136",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-25",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Hadi Aupa",
             "email": "Haditheby59@gmail.vom",
             "handphone": "085216460808",
-            "perusahaan": "SeMoment Official",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "SeMoment Official",
             "status": "Rapoo",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -5657,11 +6390,11 @@ module.exports = [
             "nama": "Hadi Suryawan",
             "email": "-",
             "handphone": "087880464149",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "7/25/22",
+            "tglInput": "2022-07-25",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -5669,11 +6402,11 @@ module.exports = [
             "nama": "HAFIDZ NOVALSYAH",
             "email": "hafidz.novalsyah@pelindo.co.id",
             "handphone": "81390333555",
-            "perusahaan": "PT. Pelindo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Pelindo",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Hafiza Elvira Nofitariani",
@@ -5682,7 +6415,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Hafizha Azka",
@@ -5691,27 +6424,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Haifaninda Istifaroh",
             "email": "haifanindaaa@gmail.com",
             "handphone": "85729908245",
-            "perusahaan": "Digital Amoeba",
             "program": "Sertifikasi Digital Marketing",
             "batch": "13",
+            "perusahaan": "Digital Amoeba",
             "status": "Closing",
-            "tglInput": "12/6/21"
+            "tglInput": "2021-12-06"
         },
         {
             "nama": "Hajrawati Syawalina",
             "email": "-",
             "handphone": "08127541942",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -5719,23 +6452,35 @@ module.exports = [
             "nama": "Hali Sultan Muhmmad",
             "email": "-",
             "handphone": "081916000667",
-            "perusahaan": "Politeknik Pariwisata Lombok",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Politeknik Pariwisata Lombok",
             "status": "Refollow Up",
-            "tglInput": "8/22/22",
+            "tglInput": "2022-08-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Hamim Junaidi",
+            "email": "hamim.junaidi80@gmail.com",
+            "handphone": "081253908794",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Putra Tanjung Pura",
+            "status": "Program",
+            "tglInput": "2022-12-30",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Hamini Mini",
             "email": "-",
             "handphone": "085974444029",
-            "perusahaan": "-",
             "program": "Subsidi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/17/22",
+            "tglInput": "2022-08-17",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5743,11 +6488,11 @@ module.exports = [
             "nama": "Han",
             "email": "-",
             "handphone": "085774481293",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5755,21 +6500,21 @@ module.exports = [
             "nama": "Hana louisita",
             "email": "hana.meidil@gmail.com",
             "handphone": "85927322891",
-            "perusahaan": "inbox indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "inbox indonesia",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Handita Gumilar",
             "email": "Handitagumilar633@gmail.com",
             "handphone": "88218309076",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/31/22"
+            "tglInput": "2022-05-31"
         },
         {
             "nama": "Hanif Abdul Aziz",
@@ -5778,36 +6523,36 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Hanna Nurhaqiqi",
             "handphone": "895327226878",
-            "perusahaan": "UPN Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UPN Jatim",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Hanna Nusawarga",
             "email": "hnusawarga@gmail.com",
             "handphone": "85161812802",
-            "perusahaan": "OCBC NISP Ventura",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "OCBC NISP Ventura",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Hannyda Islahiah",
             "email": "hannidahislah@gmail.com",
             "handphone": "81362375343",
-            "perusahaan": "Tatadana Integra Consultindo",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Tatadana Integra Consultindo",
             "status": "Closing",
-            "tglInput": "9/2/22"
+            "tglInput": "2022-09-02"
         },
         {
             "nama": "Hany Wulandari",
@@ -5816,27 +6561,39 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Happy Pilas",
+            "email": "happypilasnew@gmail.com",
+            "handphone": "081239339547",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "PT Prodia Widyahusada Tbk Cabang Ternate",
+            "status": "Closing",
+            "tglInput": "2023-01-09",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Haqiqi Muhammad Nu'man",
             "email": "Tuanmudacopler27@gmail.com",
             "handphone": "859175727578",
-            "perusahaan": "Gresik",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Gresik",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Hardhika Putra Pramudya",
             "email": "mahardhika145@gmail.com",
             "handphone": "082300156206",
-            "perusahaan": "Universitas Sebelas Maret",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Universitas Sebelas Maret",
             "status": "Rapoo",
-            "tglInput": "12/9/22",
+            "tglInput": "2022-12-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5844,11 +6601,11 @@ module.exports = [
             "nama": "Hardhika Putra Pramudya",
             "email": "mahardhika145@gmail.com",
             "handphone": "082300156206",
-            "perusahaan": "Universitas Sebelas Maret",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Universitas Sebelas Maret",
             "status": "Rapoo",
-            "tglInput": "12/9/22",
+            "tglInput": "2022-12-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -5856,11 +6613,11 @@ module.exports = [
             "nama": "Hardianto agil prastiaji",
             "email": "agilprastiaji@gmail.com",
             "handphone": "081222789987",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -5871,17 +6628,29 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
         },
         {
             "nama": "Harun",
             "email": "-",
             "handphone": "0877-7260-8095",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/2/22",
+            "tglInput": "2022-10-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Haryaman Justisia Sulaiman",
+            "email": "justisia.sh@gmail.com",
+            "handphone": "082240247879",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5889,11 +6658,11 @@ module.exports = [
             "nama": "Hasan Nashir",
             "email": "-",
             "handphone": "085868680923",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5901,11 +6670,11 @@ module.exports = [
             "nama": "Hayyin Aulia",
             "email": "-",
             "handphone": "085331548191",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/4/22",
+            "tglInput": "2022-08-04",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -5913,11 +6682,11 @@ module.exports = [
             "nama": "Hel",
             "email": "-",
             "handphone": "08111150844",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -5925,11 +6694,11 @@ module.exports = [
             "nama": "Helin Nia",
             "email": "helin.nia90@gmail.com",
             "handphone": "081806211848",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/16/22",
+            "tglInput": "2022-09-16",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -5940,7 +6709,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "Hendra Sebastian",
@@ -5949,17 +6718,28 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "10/25/21"
+            "tglInput": "2021-10-25"
+        },
+        {
+            "nama": "Hendra Triple Outdoor",
+            "handphone": "0852-2042-7826",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-24",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Hendri",
             "email": "-",
             "handphone": "082281115757",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -5970,7 +6750,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Hendrik Heri Sandi",
@@ -5979,38 +6759,62 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Henoch",
             "email": "heno58888@gmail.com",
             "handphone": "087734684255",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/26/22",
+            "tglInput": "2022-09-26",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Henrie Yunianto",
+            "email": "Henrie.yunianto@live.com",
+            "handphone": "08122354885",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Henrie Yunianto",
+            "email": "Henrie.yunianto@live.com",
+            "handphone": "08122354885",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "HERI FITRIANTO",
             "email": "heri.fitrianto@yahoo.co.id",
             "handphone": "82285821402",
-            "perusahaan": "Bank Nagari",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Bank Nagari",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Herlin",
             "handphone": "+62 812-7062-9999",
-            "perusahaan": "Bank Nagari",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Bank Nagari",
             "status": "Refollow Up",
-            "tglInput": "6/17/22",
+            "tglInput": "2022-06-17",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -6018,11 +6822,11 @@ module.exports = [
             "nama": "Herman Ginanjar",
             "email": "hermanbam82@gmail.com",
             "handphone": "081295367549",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -6030,22 +6834,22 @@ module.exports = [
             "nama": "Heru trianto",
             "email": "herutrian92@gmail.com",
             "handphone": "085161376559",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
         {
             "nama": "hesti nur afifah",
             "handphone": "0858-0722-6477",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
-            "batch": "15",
+            "batch": "16",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/5/22",
+            "tglInput": "2022-12-21",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6053,22 +6857,34 @@ module.exports = [
             "nama": "Hidayanti",
             "email": "hidyaaant@gmail.com",
             "handphone": "083839084775",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Hiero",
             "handphone": "0838-9638-1816",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Hieronymus Kopong Bali",
+            "email": "contact.nymus@gmail.com",
+            "handphone": "0838-9638-1816",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Relasi Corp",
+            "status": "Closing",
+            "tglInput": "2022-12-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6076,11 +6892,11 @@ module.exports = [
             "nama": "Hilma Suyana",
             "email": "hilmasuyana@gmail.com",
             "handphone": "082110369367",
-            "perusahaan": "Universitas YARSI",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Universitas YARSI",
             "status": "Refollow Up",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6088,11 +6904,11 @@ module.exports = [
             "nama": "Hilma Suyana",
             "email": "hilmasuyana@gmail.com",
             "handphone": "082110369367",
-            "perusahaan": "Universitas YARSI",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Universitas YARSI",
             "status": "Refollow Up",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6103,17 +6919,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Hiva Ravellia",
             "email": "hivaravellia@gmail.com",
             "handphone": "085795571596",
-            "perusahaan": "Mahasiswa",
             "program": "Sertifikasi Social Media",
             "batch": "19",
+            "perusahaan": "Mahasiswa",
             "status": "Program",
-            "tglInput": "7/12/22",
+            "tglInput": "2022-07-12",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6121,11 +6937,11 @@ module.exports = [
             "nama": "hrfirmansyah",
             "email": "-",
             "handphone": "0831-1168-8551",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/14/22",
+            "tglInput": "2022-10-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6133,22 +6949,22 @@ module.exports = [
             "nama": "Husen Nasrudin Firdaus",
             "email": "emailhnfirdaus@gmail.com",
             "handphone": "087885755353",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "I Gede Budiwijaya",
             "handphone": "081916666626",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/7/22",
+            "tglInput": "2022-11-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6159,17 +6975,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "I Made Wirya Adiguna",
             "email": "-",
             "handphone": "081353848110",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6177,11 +6993,11 @@ module.exports = [
             "nama": "I Putu Ditya Prayanto",
             "email": "ditya.thiditz@gmail.com",
             "handphone": "85792111475",
-            "perusahaan": "Ditya Home Therapy",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Ditya Home Therapy",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "IB Raka Suardana",
@@ -6190,17 +7006,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ibnu latif",
             "email": "ibnulatif323@gmail.com",
             "handphone": "087828291808",
-            "perusahaan": "PT. PUTRA BUANASANTOSA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "PT. PUTRA BUANASANTOSA",
             "status": "Rapoo",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6208,22 +7024,34 @@ module.exports = [
             "nama": "Ibrena putri teresa",
             "email": "ibrenateresa@gmail.com",
             "handphone": "081287174426",
-            "perusahaan": "Kino",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Kino",
             "status": "Rapoo",
-            "tglInput": "8/13/22",
+            "tglInput": "2022-08-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Ica",
             "handphone": "0821-7586-7890",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/5/22",
+            "tglInput": "2022-11-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ichwan Altarans",
+            "email": "business.ichwanaltarans@gmail.com",
+            "handphone": "082216651873",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2022-12-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6231,22 +7059,22 @@ module.exports = [
             "nama": "ifan iskandar",
             "email": "-",
             "handphone": "0813-9229-5678",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/23/22",
+            "tglInput": "2022-10-23",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ihsan",
             "handphone": "85312259820",
-            "perusahaan": "PFN",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PFN",
             "status": "Program",
-            "tglInput": "6/2/22",
+            "tglInput": "2022-06-02",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -6254,11 +7082,11 @@ module.exports = [
             "nama": "ihsan amaly",
             "email": "ihsanamaly@gmail.com",
             "handphone": "082215176543",
-            "perusahaan": "PT. HENDARSYAH SURYA PUTRA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT. HENDARSYAH SURYA PUTRA",
             "status": "Schedule",
-            "tglInput": "12/4/22",
+            "tglInput": "2022-12-04",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6266,11 +7094,11 @@ module.exports = [
             "nama": "iis sumarni",
             "email": "-",
             "handphone": "081210383848",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -6281,7 +7109,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/12/22"
+            "tglInput": "2022-11-12"
         },
         {
             "nama": "Ika vaouziah",
@@ -6290,7 +7118,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ikbar Naufal Z",
@@ -6299,16 +7127,16 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "6/21/22"
+            "tglInput": "2022-06-21"
         },
         {
             "nama": "IKhamdani",
             "handphone": "0882-1326-5183",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/17/22",
+            "tglInput": "2022-11-17",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6316,21 +7144,21 @@ module.exports = [
             "nama": "Ikhsan Ahmad, M.Si",
             "email": "ikhsanjaban@gmail.com",
             "handphone": "81218596108",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Ilfa Luthfia",
             "email": "-",
             "handphone": "089518515401",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/14/22",
+            "tglInput": "2022-08-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6338,11 +7166,11 @@ module.exports = [
             "nama": "Ilham Hidayatullah",
             "email": "ilhamhidayatullah69@gmail.com",
             "handphone": "087798020517",
-            "perusahaan": "PT. Internasional bussines futures",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "PT. Internasional bussines futures",
             "status": "Price",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -6350,11 +7178,11 @@ module.exports = [
             "nama": "illboyy",
             "email": "-",
             "handphone": "085643968150",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/4/22",
+            "tglInput": "2022-09-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6362,33 +7190,45 @@ module.exports = [
             "nama": "ilma aziza",
             "email": "ilmaazziza@gmail.com",
             "handphone": "85794454447",
-            "perusahaan": "The Kharma Villas",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "The Kharma Villas",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ilvi Yohana",
             "email": "ilviyhn01@gmail.com",
             "handphone": "085171042103",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/17/22",
+            "tglInput": "2022-09-17",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Imam Purwantono",
+            "email": "imam.purwantono@gmail.com",
+            "handphone": "081330096158",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Indah",
             "email": "-",
             "handphone": "081273660301",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6396,11 +7236,11 @@ module.exports = [
             "nama": "Indah",
             "email": "-",
             "handphone": "0812-9829-3950",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6408,11 +7248,11 @@ module.exports = [
             "nama": "Indah Kurniasari",
             "email": "-",
             "handphone": "081282288284",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/26/22",
+            "tglInput": "2022-08-26",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -6420,11 +7260,11 @@ module.exports = [
             "nama": "Indah Retno Ningsih",
             "email": "indahretnono@gmail.com",
             "handphone": "85813419356",
-            "perusahaan": "Indonesian Language Buddy",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "Indonesian Language Buddy",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Indira Savitri",
@@ -6433,7 +7273,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/29/21"
+            "tglInput": "2021-06-29"
         },
         {
             "nama": "Indira Savitri",
@@ -6442,37 +7282,84 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/29/21"
+            "tglInput": "2021-06-29"
+        },
+        {
+            "nama": "Indra Aditya",
+            "handphone": "0813-2042-9973",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-14",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "indra anugrah halid",
+            "email": "indrahalid@hotmail.com",
+            "handphone": "082259223742",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "rsud hasri ainun habibie",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-16",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "indra anugrah halid",
+            "email": "indrahalidd@gmail.com",
+            "handphone": "082259223742",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "RS Ainun habibie gorontalo",
+            "status": "Closing",
+            "tglInput": "2022-12-19",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Indra Permanajaya Djalip",
             "email": "indra.pd@maranatha.edu",
             "handphone": "81394737879",
-            "perusahaan": "Universitas Kristen Maranatha",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Universitas Kristen Maranatha",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
+        },
+        {
+            "nama": "Indrawan Alamsyah Putra",
+            "email": "indrawan_aputra@yahoo.com",
+            "handphone": "082180290904",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT.DARA Indonesia",
+            "status": "Program",
+            "tglInput": "2022-12-30",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Indri",
             "handphone": "82111771680",
-            "perusahaan": "Universitas Indonesia",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universitas Indonesia",
             "status": "Closing",
-            "tglInput": "3/7/22",
+            "tglInput": "2022-03-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Indri",
             "handphone": "82111771680",
-            "perusahaan": "Universitas Indonesia",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "Universitas Indonesia",
             "status": "Closing",
-            "tglInput": "3/7/22",
+            "tglInput": "2022-03-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6483,7 +7370,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Inggri Kusuma Berliani",
@@ -6492,7 +7379,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Insan Purwarisya L. Tobing",
@@ -6501,27 +7388,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "7/30/21"
+            "tglInput": "2021-07-30"
         },
         {
             "nama": "Intan",
             "handphone": "813227251111",
-            "perusahaan": "Linxbrain",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Linxbrain",
             "status": "Closing",
-            "tglInput": "6/16/22",
+            "tglInput": "2022-06-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Intan (DSS)",
             "handphone": "+62 889-0115-8125",
-            "perusahaan": "Baby Sultan",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Baby Sultan",
             "status": "Closing",
-            "tglInput": "9/7/22",
+            "tglInput": "2022-09-07",
             "concern": "Service",
             "sumber": "WhatsApp"
         },
@@ -6529,11 +7416,11 @@ module.exports = [
             "nama": "Intan Permatasari",
             "email": "intan.permatasarii355@gmail.com",
             "handphone": "085848740709",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -6541,11 +7428,11 @@ module.exports = [
             "nama": "Intan Permatasari",
             "email": "intan.permatasarii355@gmail.com",
             "handphone": "085848740709",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6556,17 +7443,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "IRENE CHRISTINA S",
+            "handphone": "0813-8408-2426",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-10",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "irfan",
             "email": "Irfansarip6@gmail.com",
             "handphone": "085156735635",
-            "perusahaan": "Suree Nature",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Suree Nature",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6574,31 +7472,31 @@ module.exports = [
             "nama": "Irfan Bagastyo",
             "email": "bagastyooo@gmail.com",
             "handphone": "81314689809",
-            "perusahaan": "Perbanas",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "Perbanas",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "irfan Fachriza",
             "email": "ir.fachriza75@gmail.com",
             "handphone": "81210393159",
-            "perusahaan": "RKS Property",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "RKS Property",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Irma RG Barus",
             "email": "irmabarus@apps.ipb.ac.id",
             "handphone": "821253053620",
-            "perusahaan": "Sekolah Vokasi IPB",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "Sekolah Vokasi IPB",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Irma Rismayanty",
@@ -6607,7 +7505,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Irna Handayani",
@@ -6616,37 +7514,37 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/2/22"
+            "tglInput": "2022-09-02"
         },
         {
             "nama": "Irsad fahrireza",
             "email": "irsadfahri@gmail.com",
             "handphone": "08996432276",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/23/22",
+            "tglInput": "2022-09-23",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "IRWAN ABDI ESA",
             "handphone": "816261603",
-            "perusahaan": "PT. PELINDO",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. PELINDO",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Irwan Dwi Arianto",
             "handphone": "85850197788",
-            "perusahaan": "UPN Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UPN Jatim",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Irwan Efendi",
@@ -6655,48 +7553,48 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Irwanto",
             "email": "ittosuryokusumo@gmail.com",
             "handphone": "811978475",
-            "perusahaan": "Telkomsel",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Telkomsel",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Isfan Alfathan",
             "email": "ispanputra@gmail.com",
             "handphone": "81320587003",
-            "perusahaan": "Tasik Malaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "Tasik Malaya",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "Isman Fauzi Al Afghani",
             "email": "ismanfauzialafghani15@gmail.com",
             "handphone": "081386250317",
-            "perusahaan": "Bimbel Calon TNI/POLRI",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Bimbel Calon TNI/POLRI",
             "status": "Refollow Up",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Istas Pratomo",
             "email": "istas.manalu@del.ac.id",
-            "perusahaan": "Institut Teknologi Del",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Institut Teknologi Del",
             "status": "Rapoo",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -6704,11 +7602,11 @@ module.exports = [
             "nama": "Isti",
             "email": "-",
             "handphone": "081286448913",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/31/22",
+            "tglInput": "2022-07-31",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -6716,20 +7614,20 @@ module.exports = [
             "nama": "Isya Nuf Kahfi",
             "email": "inkahfi@gmail.com",
             "handphone": "87825445625",
-            "perusahaan": "Ndysain corp",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "Ndysain corp",
             "status": "Closing",
-            "tglInput": "11/11/21"
+            "tglInput": "2021-11-11"
         },
         {
             "nama": "Isyfi Anny Azmi Al Rozi",
             "handphone": "0812-9453-2052",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/23/22",
+            "tglInput": "2022-11-23",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -6739,18 +7637,18 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Ivan",
             "handphone": "0812-4100-0889",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/26/22",
+            "tglInput": "2022-11-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6758,11 +7656,11 @@ module.exports = [
             "nama": "Ivan Cedha Ramadhan",
             "email": "ivancedharamadhan@gmail.com",
             "handphone": "085326666690",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "12/13/22",
+            "tglInput": "2022-12-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6770,11 +7668,11 @@ module.exports = [
             "nama": "Ivan Nugraha",
             "email": "ivan@yagk.or.id",
             "handphone": "81220905767",
-            "perusahaan": "Yayasan adhi guna kencana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Yayasan adhi guna kencana",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Ivan Rifaldy",
@@ -6783,17 +7681,40 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Ivata Putri",
+            "email": "ivataputrihanan16@gmail.com",
+            "handphone": "085321407090",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "status": "Rapoo",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Ivata Putri",
+            "email": "ivataputrihanan16@gmail.com",
+            "handphone": "085321407090",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-27",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "J D Prasetyono",
             "email": "-",
             "handphone": "0852-3046-3291",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/15/22",
+            "tglInput": "2022-10-15",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -6801,22 +7722,22 @@ module.exports = [
             "nama": "Jabbar",
             "email": "jabbar@partipost.com",
             "handphone": "089690072963",
-            "perusahaan": "PT Partipost Kreasi Global Pratama",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Partipost Kreasi Global Pratama",
             "status": "Refollow Up",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Java EXOTIC",
             "handphone": "0812-2713-386",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/7/22",
+            "tglInput": "2022-12-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6827,17 +7748,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Jayadi Alam",
             "email": "-",
             "handphone": "081222246072",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/7/22",
+            "tglInput": "2022-09-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -6845,31 +7766,31 @@ module.exports = [
             "nama": "Jayadi Alam",
             "email": "Jayadialam35@gmail.com",
             "handphone": "81222246072",
-            "perusahaan": "PO Bus Pariwisata Gagak Rimang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PO Bus Pariwisata Gagak Rimang",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "JEANE KRYSTI NIRAHUA",
             "email": "jaene-k@ecampus.ut.ac.id",
             "handphone": "82234070723",
-            "perusahaan": "UNIVERSITAS TERBUKA AMBON",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "UNIVERSITAS TERBUKA AMBON",
             "status": "Closing",
-            "tglInput": "4/5/22"
+            "tglInput": "2022-04-05"
         },
         {
             "nama": "Jennila F. Reredy",
             "email": "-",
             "handphone": "0858-8555-1029",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/29/22",
+            "tglInput": "2022-10-29",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -6877,11 +7798,11 @@ module.exports = [
             "nama": "Jeri brusli",
             "email": "jeribrusli@gmail.com",
             "handphone": "081285370239",
-            "perusahaan": "PT FIF GROUP",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT FIF GROUP",
             "status": "Rapoo",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6889,11 +7810,11 @@ module.exports = [
             "nama": "Jesika Ansella",
             "email": "jesikaansella@gmail.com",
             "handphone": "081311951179",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6904,7 +7825,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/20/22"
+            "tglInput": "2022-11-20"
         },
         {
             "nama": "jessica suwandi",
@@ -6913,27 +7834,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "10/27/22"
+            "tglInput": "2022-10-27"
         },
         {
             "nama": "jessica victory",
             "email": "jetojeve@gmail.com",
             "handphone": "81334611529",
-            "perusahaan": "Jakarta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Jakarta",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "jessica vysma",
             "email": "wahyoejeremie2710@gmail.com",
             "handphone": "85741475449",
-            "perusahaan": "cergas kreatif konsultindo",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "cergas kreatif konsultindo",
             "status": "Closing",
-            "tglInput": "1/24/22"
+            "tglInput": "2022-01-24"
         },
         {
             "nama": "Jesslyn Aprilia",
@@ -6942,17 +7863,41 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "jhonson",
+            "email": "jho.ivana@gmail.com",
+            "handphone": "081233328916",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "epic grup",
+            "status": "Program",
+            "tglInput": "2023-01-17",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Jihan Agna Faiha",
             "email": "jihanagnaf@gmail.com",
             "handphone": "085869578753",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/27/22",
+            "tglInput": "2022-07-27",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Jimmi bunna patana",
+            "email": "jimmi.patana@gmail.com",
+            "handphone": "082353100849",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT. Rizky Berkat Persada",
+            "status": "Program",
+            "tglInput": "2023-01-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6963,27 +7908,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Johanes Billy Kurniawan",
             "email": "kurniawanbilly306@gmail.com",
             "handphone": "8988173888",
-            "perusahaan": "The Piano Institute",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "The Piano Institute",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Johni Eka Putra",
             "email": "johniekaputra01@gmail.com",
             "handphone": "081265420000",
-            "perusahaan": "PT Pos Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT Pos Indonesia",
             "status": "Closing",
-            "tglInput": "9/17/22",
+            "tglInput": "2022-09-17",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -6991,21 +7936,21 @@ module.exports = [
             "nama": "Johni Eka Putra",
             "email": "johniekaputra01@gmail.com",
             "handphone": "81265420000",
-            "perusahaan": "PT Pos Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT Pos Indonesia",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "johni eka putra",
             "email": "johniekaputra01@gmail.com",
             "handphone": "81265420000",
-            "perusahaan": "Executive Account Manager",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Executive Account Manager",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "johni eka putra",
@@ -7014,27 +7959,39 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "9/18/22"
+            "tglInput": "2022-09-18"
         },
         {
             "nama": "Jonathan Edwin Handoko",
             "email": "edwinhandoko94@gmail.com",
             "handphone": "818288251",
-            "perusahaan": "Universitas Kristen Maranatha",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Universitas Kristen Maranatha",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
+        },
+        {
+            "nama": "Jonathan Prasetyo",
+            "email": "jonathan.prasetyo92@gmail.com",
+            "handphone": "088210452942",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "Freelance",
+            "status": "Closing",
+            "tglInput": "2022-12-21",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Juanda Mahendra",
             "email": "juanda.mahendra@gmail.com",
             "handphone": "087886834473",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7042,11 +7999,11 @@ module.exports = [
             "nama": "Juliet",
             "email": "-",
             "handphone": "0812-4692-4220",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Service",
             "sumber": "WhatsApp"
         },
@@ -7054,11 +8011,11 @@ module.exports = [
             "nama": "Juliet Regina Woda",
             "email": "-",
             "handphone": "081246924220",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7069,17 +8026,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Junaidy B. Sanger",
             "email": "junsanger@gmail.com",
             "handphone": "85255562806",
-            "perusahaan": "jbs Immagine, (Shopee Maryjo.id_Manado)",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "jbs Immagine, (Shopee Maryjo.id_Manado)",
             "status": "Closing",
-            "tglInput": "4/1/22"
+            "tglInput": "2022-04-01"
         },
         {
             "nama": "Jundi Al Muthiya",
@@ -7088,16 +8045,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Kamal Ameena",
             "handphone": "0813-9370-7780",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/12/22",
+            "tglInput": "2022-12-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7105,11 +8062,11 @@ module.exports = [
             "nama": "Kang Anwar",
             "email": "-",
             "handphone": "081211795118",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/14/22",
+            "tglInput": "2022-08-14",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -7117,11 +8074,11 @@ module.exports = [
             "nama": "Karima Nur Alitha",
             "email": "kn.alitha@gmail.com",
             "handphone": "087838647338",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/22/22",
+            "tglInput": "2022-09-22",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7132,28 +8089,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Kd. Mumpuni",
             "email": "-",
             "handphone": "081288603967",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/7/22",
+            "tglInput": "2022-08-07",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Kevin",
             "handphone": "85370721942",
-            "perusahaan": "Bank Danamon",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Bank Danamon",
             "status": "Refollow Up",
-            "tglInput": "6/29/22",
+            "tglInput": "2022-06-29",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -7161,11 +8118,11 @@ module.exports = [
             "nama": "Kevin",
             "email": "-",
             "handphone": "0859-5469-4505",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/15/22",
+            "tglInput": "2022-10-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7176,28 +8133,50 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/13/22"
+            "tglInput": "2022-09-13"
+        },
+        {
+            "nama": "Keyza",
+            "handphone": "0812-1628-1384",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "status": "Price",
+            "tglInput": "2023-01-11",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Kezia Hanada",
             "email": "-",
             "handphone": "085792983843",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Kezia Priscilla",
             "handphone": "0822-1746-5914",
-            "perusahaan": "-",
             "program": "Tiktok Ads",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "khaidir",
+            "email": "khaidirjunaid2023@gmail.com",
+            "handphone": "081348375627",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Loto_stor741",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7205,11 +8184,11 @@ module.exports = [
             "nama": "Khairul Huda",
             "email": "khairulhuda0714@gmail.com",
             "handphone": "81284606114",
-            "perusahaan": "Bekasi",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Bekasi",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Khalid Fathi Akmal",
@@ -7218,17 +8197,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "2/7/22"
+            "tglInput": "2022-02-07"
         },
         {
             "nama": "Khoiril Nafis",
             "email": "nafiskhoiril@gmail.com",
             "handphone": "08970750627",
-            "perusahaan": "Abu Arkan properti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Abu Arkan properti",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7236,11 +8215,11 @@ module.exports = [
             "nama": "Khoridah Nurul Ain",
             "email": "ridaain655@gmail.com",
             "handphone": "082253683422",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/28/22",
+            "tglInput": "2022-09-28",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7248,11 +8227,11 @@ module.exports = [
             "nama": "Kiki",
             "email": "-",
             "handphone": "0877-5999-6777",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7260,11 +8239,11 @@ module.exports = [
             "nama": "Kiki aji nugroho",
             "email": "kiki.al.buchori@gmail.com",
             "handphone": "087735039436",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7272,11 +8251,11 @@ module.exports = [
             "nama": "Kiki aji nugroho",
             "email": "kiki.al.buchori@gmail.com",
             "handphone": "087735039436",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7284,31 +8263,31 @@ module.exports = [
             "nama": "Kiki Handriyani",
             "email": "kide.11@gmail.com",
             "handphone": "81514186383",
-            "perusahaan": "PT. Inovasi Data Mandiri",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "PT. Inovasi Data Mandiri",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Kinanti Larasati",
             "email": "kinanlrs@gmail.com",
             "handphone": "81906167891",
-            "perusahaan": "PT. Harapan Maju Indah",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "PT. Harapan Maju Indah",
             "status": "Closing",
-            "tglInput": "3/10/22"
+            "tglInput": "2022-03-10"
         },
         {
             "nama": "Kl",
             "email": "-",
             "handphone": "0895-2476-5713",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -7316,11 +8295,23 @@ module.exports = [
             "nama": "Kobex",
             "email": "-",
             "handphone": "081251823355",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Komala",
+            "email": "Komala.soemardi@gmail.com",
+            "handphone": "082310107441",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-18",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7331,28 +8322,39 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Komang Triatmadi",
             "handphone": "0821-4750-4071",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/25/22",
+            "tglInput": "2022-11-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Kurnia Yoga",
+            "handphone": "0877-9480-9968",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-25",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Laila Ayudia Safira",
             "email": "lailaayudiasafira@gmail.com",
             "handphone": "085104458081",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/30/22",
+            "tglInput": "2022-08-30",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7360,11 +8362,11 @@ module.exports = [
             "nama": "Laila Ayudia Safira",
             "email": "-",
             "handphone": "085104458081",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/1/22",
+            "tglInput": "2022-08-01",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7372,41 +8374,41 @@ module.exports = [
             "nama": "Lailani zhulmi",
             "email": "lailanizhulmi94@gmail.com",
             "handphone": "81315114491",
-            "perusahaan": "Bank Sahabat Sampoerna",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "Bank Sahabat Sampoerna",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Larasati Nurul Iman",
             "email": "larasatinurul2008@gmail.com",
             "handphone": "81283896148",
-            "perusahaan": "Marketing",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Marketing",
             "status": "Closing",
-            "tglInput": "9/25/22"
+            "tglInput": "2022-09-25"
         },
         {
             "nama": "Laurensia",
             "email": "laurensialiu.83@gmail.com",
             "handphone": "8989999992",
-            "perusahaan": "Aimee Sleepwear",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "Aimee Sleepwear",
             "status": "Closing",
-            "tglInput": "4/8/22"
+            "tglInput": "2022-04-08"
         },
         {
             "nama": "Laurensia Anindya Karina",
             "email": "-",
             "handphone": "085640689993",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/16/22",
+            "tglInput": "2022-09-16",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7414,23 +8416,57 @@ module.exports = [
             "nama": "Laziz",
             "email": "-",
             "handphone": "082135506800",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Lebrina",
+            "handphone": "0815-9005-090",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-20",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Leli",
+            "handphone": "0897-3365-186",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-22",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Leli Indrayanti",
+            "email": "lelyindray@gmail.com",
+            "handphone": "08973365186",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-22",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Leonardus",
             "email": "-",
             "handphone": "087788866555",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "7/17/22",
+            "tglInput": "2022-07-17",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -7441,7 +8477,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Lesmawati",
@@ -7450,27 +8486,63 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Lia Angelina",
             "handphone": "0878-8999-7930",
-            "perusahaan": "-",
             "program": "Online Course",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
+            "nama": "Lia Nurbayani",
+            "email": "lialayeuh@gmail.com",
+            "handphone": "081573226025",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT. Daya Adicipta Motora",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Lia Ristiyana",
+            "email": "liafashionpianist@gmail.com",
+            "handphone": "082276849769",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "Gift You Joy",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Lidia Putri Mardiana",
+            "email": "lidiaputrimardiana8@gmail.com",
+            "handphone": "087815008556",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Sidharta",
+            "status": "Rapoo",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
             "nama": "Lidya",
             "handphone": "0838-0458-7708",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/12/22",
+            "tglInput": "2022-11-12",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -7478,11 +8550,11 @@ module.exports = [
             "nama": "Lindy",
             "email": "budsumar@gmail.com",
             "handphone": "81990251182",
-            "perusahaan": "GCL",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "GCL",
             "status": "Closing",
-            "tglInput": "6/17/22"
+            "tglInput": "2022-06-17"
         },
         {
             "nama": "Lisa ADRIANI",
@@ -7491,29 +8563,41 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "12/16/21"
+            "tglInput": "2021-12-16"
         },
         {
             "nama": "Lisa Rosalina",
             "email": "-",
             "handphone": "087712121993",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Listra Br Sembiring",
+            "email": "liys.industry@gmail.com",
+            "handphone": "081263034048",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT. Wirakarya Sakti",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Lita Hilda Kaban",
             "email": "-",
             "handphone": "089506053477",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7521,11 +8605,11 @@ module.exports = [
             "nama": "Liza Djohan",
             "email": "-",
             "handphone": "081510868585",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "7/28/22",
+            "tglInput": "2022-07-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7533,11 +8617,11 @@ module.exports = [
             "nama": "Lonita Lorensa",
             "email": "-",
             "handphone": "087809066685",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "7/17/22",
+            "tglInput": "2022-07-17",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -7545,11 +8629,11 @@ module.exports = [
             "nama": "Lucky Casano",
             "email": "-",
             "handphone": "082358040231",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/13/22",
+            "tglInput": "2022-09-13",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7557,11 +8641,11 @@ module.exports = [
             "nama": "Lulu Wulandari",
             "email": "lulu.wulandari@gmail.com",
             "handphone": "081556553771",
-            "perusahaan": "-",
             "program": "Online Course",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/17/22",
+            "tglInput": "2022-11-17",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7569,23 +8653,47 @@ module.exports = [
             "nama": "Luqman",
             "email": "-",
             "handphone": "082323833893",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Luqman",
+            "email": "luqman16597@gmail.com",
+            "handphone": "082323833893",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Luqman",
+            "email": "luqman16597@gmail.com",
+            "handphone": "0823 2383 3893",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Lusty",
             "email": "-",
             "handphone": "085892117708",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/14/22",
+            "tglInput": "2022-09-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7593,11 +8701,11 @@ module.exports = [
             "nama": "Luthfi Fajri",
             "email": "-",
             "handphone": "081809004372",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7605,11 +8713,11 @@ module.exports = [
             "nama": "luthfia rahma",
             "email": "luthfiarahmadhanti@gmail.com",
             "handphone": "085314392221",
-            "perusahaan": "petik merah cafe and roastery",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "petik merah cafe and roastery",
             "status": "Rapoo",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7617,11 +8725,11 @@ module.exports = [
             "nama": "M Amin Akbar",
             "email": "-",
             "handphone": "087838374358",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -7629,11 +8737,11 @@ module.exports = [
             "nama": "M Habib",
             "email": "-",
             "handphone": "0896-9055-9690",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/5/22",
+            "tglInput": "2022-10-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7644,27 +8752,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "M Rafli Lutful Aziz",
             "email": "muhammadrafli.me@gmail.com",
             "handphone": "87808331295",
-            "perusahaan": "UNIKOM",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "UNIKOM",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "M Reza Fahlevi",
             "email": "k.m.azer21@gmail.com",
             "handphone": "8999800144",
-            "perusahaan": "Happy Friends",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "Happy Friends",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "M. Ananta",
@@ -7673,17 +8781,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "M. Ariza Eka Yusendra",
             "email": "-",
             "handphone": "081368344671",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7691,31 +8799,31 @@ module.exports = [
             "nama": "M. Ariza Eka Yusendra",
             "email": "arizaeka@darmajaya.ac.id",
             "handphone": "81368344671",
-            "perusahaan": "Institut Informatika dan Bisnis Darmajaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Institut Informatika dan Bisnis Darmajaya",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "M. Ariza Eka Yusendra",
             "email": "arizaeka@darmajaya.ac.id",
             "handphone": "81368344671",
-            "perusahaan": "Darmajaya",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Darmajaya",
             "status": "Closing",
-            "tglInput": "9/8/22"
+            "tglInput": "2022-09-08"
         },
         {
             "nama": "M. Riefki Imran Ramadhan",
             "email": "riefkimuhammad22@gmail.com",
             "handphone": "085759397995",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7723,11 +8831,11 @@ module.exports = [
             "nama": "M. Rizky Antasari",
             "email": "rizky.antasari@gmail.com",
             "handphone": "8568048881",
-            "perusahaan": "PT. Mediatama Binakreasi",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "PT. Mediatama Binakreasi",
             "status": "Closing",
-            "tglInput": "1/6/22"
+            "tglInput": "2022-01-06"
         },
         {
             "nama": "M. Roby Satriawan",
@@ -7736,17 +8844,29 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/9/22"
+            "tglInput": "2022-11-09"
+        },
+        {
+            "nama": "M. Rozi",
+            "email": "rozzn9@gmail.com",
+            "handphone": "081228449119",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "M. Tadzkirotul a'la",
             "email": "m.tadzkirotul@gmail.com",
             "handphone": "08155044542",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7754,11 +8874,11 @@ module.exports = [
             "nama": "M. Ulinnuha",
             "email": "mulinnuha102@gmail.com",
             "handphone": "085201535069",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "12/15/22",
+            "tglInput": "2022-12-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7769,29 +8889,53 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "M.Darmawan",
             "email": "muhammaddarmawan016@gmail.com",
             "handphone": "081281332580",
-            "perusahaan": "GOLDEN KING PROPERTY",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "GOLDEN KING PROPERTY",
             "status": "Refollow Up",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "M.Wildan Hidayah",
+            "email": "Hidayahwildan07@gmail.com",
+            "handphone": "081277351772",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "MTSN 3 kota Pekanbaru",
+            "status": "Price",
+            "tglInput": "2022-12-28",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "M.Wildan Hidayah",
+            "email": "Hidayahwildan07@gmail.com",
+            "handphone": "081277351772",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2021-12-23",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Ma'ruf Saragih",
             "email": "maruf.saragih@gmail.com",
             "handphone": "81269144196",
-            "perusahaan": "Telkom",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Telkom",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Maha Berlina Putri",
@@ -7800,7 +8944,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/24/21"
+            "tglInput": "2021-06-24"
         },
         {
             "nama": "Maha Berlina Putri",
@@ -7809,17 +8953,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/24/21"
+            "tglInput": "2021-06-24"
         },
         {
             "nama": "Mahdi الحامد",
             "email": "-",
             "handphone": "081332609351",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/27/22",
+            "tglInput": "2022-07-27",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -7830,17 +8974,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Mamiji Finance",
             "email": "-",
             "handphone": "081321589683",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -7848,11 +8992,11 @@ module.exports = [
             "nama": "Manesa Raditya",
             "email": "hey.manesar@gmail.com",
             "handphone": "85715300012",
-            "perusahaan": "PT. Inovasi Terdepan Nusantara",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "PT. Inovasi Terdepan Nusantara",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Marcellino Prasdianto",
@@ -7861,7 +9005,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Marco Madison Loekito",
@@ -7870,17 +9014,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/13/22"
+            "tglInput": "2022-09-13"
         },
         {
             "nama": "Marhasak Reinardo Sinaga (Edho)",
             "email": "Reinardosinaga87@gmail.com",
             "handphone": "85650823400",
-            "perusahaan": "Perkumpulan Gemawan",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Perkumpulan Gemawan",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Maria Tanti",
@@ -7889,7 +9033,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "4/11/22"
+            "tglInput": "2022-04-11"
         },
         {
             "nama": "Maria Tanti J",
@@ -7898,17 +9042,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "Maria Ulpah",
             "email": "-",
             "handphone": "0818583228",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "7/14/22",
+            "tglInput": "2022-07-14",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -7919,7 +9063,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "6/19/22"
+            "tglInput": "2022-06-19"
         },
         {
             "nama": "Marisa",
@@ -7927,7 +9071,19 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Rapoo",
-            "tglInput": "9/29/22",
+            "tglInput": "2022-09-29",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Markus Lamiyo",
+            "email": "marks2009mr@gmail.com",
+            "handphone": "08127270024",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -7935,11 +9091,11 @@ module.exports = [
             "nama": "Marselina",
             "email": "marselinacj7@gmail.com",
             "handphone": "082139842518",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/11/22",
+            "tglInput": "2022-08-11",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -7947,11 +9103,11 @@ module.exports = [
             "nama": "Marten Lende Ngongo",
             "email": "-",
             "handphone": "081237006059",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -7962,37 +9118,72 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Maryani",
             "email": "maryani.maryam@gmail.com",
             "handphone": "87886907687",
-            "perusahaan": "Chandira WO",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Chandira WO",
             "status": "Closing",
-            "tglInput": "7/21/22"
+            "tglInput": "2022-07-21"
         },
         {
             "nama": "Marzuki Asikin",
             "email": "marzuki.asikin@gmail.com",
             "handphone": "8111732956",
-            "perusahaan": "PT Petrosea",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "PT Petrosea",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
+        },
+        {
+            "nama": "Mas Rolland Skandinavia",
+            "email": "rskandinavians@gmail.com",
+            "handphone": "08112221507",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Craff Solusi Indonesia",
+            "status": "Closing",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Mas Rolland Skandinavia",
+            "email": "rskandinavians@gmail.com",
+            "handphone": "08112221507",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Craff Solusi Indonesia",
+            "status": "Closing",
+            "tglInput": "2023-01-06",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Mas Tin",
             "email": "-",
             "handphone": "085743338922",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Maserati",
+            "handphone": "0811-1527-575",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8000,11 +9191,11 @@ module.exports = [
             "nama": "Masita Fardini Akbarina",
             "email": "-",
             "handphone": "971567844157",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/16/22",
+            "tglInput": "2022-08-16",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -8012,42 +9203,42 @@ module.exports = [
             "nama": "Masytha Mutiara",
             "email": "masythamj@gmail.com",
             "handphone": "81296994899",
-            "perusahaan": "Epsilon Bimbel",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Epsilon Bimbel",
             "status": "Closing",
-            "tglInput": "10/14/21"
+            "tglInput": "2021-10-14"
         },
         {
             "nama": "Maulana Agung Pratama",
             "email": "maulanaagungp77@gmail.com",
             "handphone": "81333504650",
-            "perusahaan": "Universitas Lampung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "Universitas Lampung",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "maulana azuma",
             "email": "rossivale213@gmail.com",
             "handphone": "081269561636",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/7/22",
+            "tglInput": "2022-08-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Maulida",
             "handphone": "81233764606",
-            "perusahaan": "DLI UNIV MALANG",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "DLI UNIV MALANG",
             "status": "Program",
-            "tglInput": "5/16/22",
+            "tglInput": "2022-05-16",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -8055,11 +9246,11 @@ module.exports = [
             "nama": "Maulida Isti'anah",
             "email": "-",
             "handphone": "08561976671",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8067,11 +9258,11 @@ module.exports = [
             "nama": "Maulina Riski",
             "email": "maulina.riski.mr@gmail.com",
             "handphone": "081226548652",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/21/22",
+            "tglInput": "2022-11-21",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8079,21 +9270,21 @@ module.exports = [
             "nama": "Maulita Nahdiyah",
             "email": "maulitanahdiyah@gmail.com",
             "handphone": "81331072323",
-            "perusahaan": "ITS",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "ITS",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
         },
         {
             "nama": "Maya",
             "email": "-",
             "handphone": "08115039479",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/7/22",
+            "tglInput": "2022-09-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8104,7 +9295,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Maya Susanti",
@@ -8113,17 +9304,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Medical & Health",
             "email": "-",
             "handphone": "08995105532",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/9/22",
+            "tglInput": "2022-08-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8131,31 +9322,31 @@ module.exports = [
             "nama": "Mega Cahyaningtias",
             "email": "Mega.cahyaningtias@gmail.com",
             "handphone": "87808080060",
-            "perusahaan": "Mishya Amaira",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Mishya Amaira",
             "status": "Closing",
-            "tglInput": "10/17/22"
+            "tglInput": "2022-10-17"
         },
         {
             "nama": "Mega Juana Vardan",
             "email": "megajvhworks@gmail.com",
             "handphone": "82217183031",
-            "perusahaan": "PT Astra Mitra Ventura",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "PT Astra Mitra Ventura",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Meida Rachmawati",
             "email": "meidaleanptsg@gmail.com",
             "handphone": "087887502242",
-            "perusahaan": "Nusantara Training and Research",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Nusantara Training and Research",
             "status": "Closing",
-            "tglInput": "11/6/22",
+            "tglInput": "2022-11-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8163,11 +9354,11 @@ module.exports = [
             "nama": "Meida Rachmawati",
             "email": "meidaleanptsg@gmail.com",
             "handphone": "087887502242",
-            "perusahaan": "Nusantara Training and Research",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Nusantara Training and Research",
             "status": "Closing",
-            "tglInput": "11/5/22",
+            "tglInput": "2022-11-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8178,17 +9369,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/9/22"
+            "tglInput": "2022-11-09"
         },
         {
             "nama": "Melati",
             "email": "-",
             "handphone": "085811035492",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/27/22",
+            "tglInput": "2022-08-27",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -8199,17 +9390,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/6/21"
+            "tglInput": "2021-08-06"
         },
         {
             "nama": "Melina Vega Febriani",
             "email": "melinavegafbr26@gmail.com",
             "handphone": "085967056213",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/13/22",
+            "tglInput": "2022-08-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8217,11 +9408,11 @@ module.exports = [
             "nama": "MELLISCA FALLENY THE",
             "email": "mellisca.falleny@gmail.com",
             "handphone": "082233558288",
-            "perusahaan": "RATJOEN",
             "program": "Sertifikasi Social Media",
             "batch": "15",
+            "perusahaan": "RATJOEN",
             "status": "Closing",
-            "tglInput": "12/1/22",
+            "tglInput": "2022-12-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8229,22 +9420,22 @@ module.exports = [
             "nama": "Memey",
             "email": "memeydatulong@gmail.com",
             "handphone": "081280031185",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/18/22",
+            "tglInput": "2022-08-18",
             "concern": "Service",
             "sumber": "Wordpress"
         },
         {
             "nama": "Menjadi Aku",
             "handphone": "0852-9012-0021",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8252,11 +9443,11 @@ module.exports = [
             "nama": "menmecreative",
             "email": "-",
             "handphone": "082243286551",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/31/22",
+            "tglInput": "2022-07-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8264,11 +9455,11 @@ module.exports = [
             "nama": "Mentari Putrirahayu Prawira",
             "email": "mentari.putrirahayu@ui.ac.id",
             "handphone": "81232211127",
-            "perusahaan": "Junior Rockstar",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Junior Rockstar",
             "status": "Closing",
-            "tglInput": "6/14/22"
+            "tglInput": "2022-06-14"
         },
         {
             "nama": "Meriam Shabha",
@@ -8277,17 +9468,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Merlin Suvarna Sutera",
             "email": "merlin@gmail.com",
             "handphone": "08176888628",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -8295,11 +9486,11 @@ module.exports = [
             "nama": "Metodius Getan Plue",
             "email": "getanmetodius@gmail.com",
             "handphone": "085946396476",
-            "perusahaan": "Cakra Motor 11",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Cakra Motor 11",
             "status": "Closing",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8310,28 +9501,50 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Mettia Indar Pratami",
             "handphone": "0821-4323-2592",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "15",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Michelle Jonathi",
+            "handphone": "0812-5235-6235",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "status": "Closing",
+            "tglInput": "2023-01-25",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Mileni Sandri Cahyani",
+            "email": "mileni.sandri08@gmail.com",
+            "handphone": "082295938621",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-23",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Miranti Shelly Sentia",
             "email": "-",
             "handphone": "0812-8994-0728",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8339,11 +9552,11 @@ module.exports = [
             "nama": "Mita Andrani",
             "email": "-",
             "handphone": "0812-1287-5313",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8351,33 +9564,33 @@ module.exports = [
             "nama": "Mita Wulan Agustin",
             "email": "mithawulanagustin@gmail.com",
             "handphone": "081228072032",
-            "perusahaan": "Universitas Islam Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Universitas Islam Indonesia",
             "status": "Rapoo",
-            "tglInput": "7/20/22",
+            "tglInput": "2022-07-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Moch Raka Fayyadh",
             "handphone": "081292434129",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Moch Taofik M",
             "handphone": "0812-2578-6710",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/6/22",
+            "tglInput": "2022-12-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8385,21 +9598,21 @@ module.exports = [
             "nama": "Mochamad Fajar Aulia",
             "email": "fajarauliaputra@gmail.com",
             "handphone": "8988032409",
-            "perusahaan": "Bisnis best friend",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Bisnis best friend",
             "status": "Closing",
-            "tglInput": "9/8/22"
+            "tglInput": "2022-09-08"
         },
         {
             "nama": "Mochamad Ferdian",
             "email": "muhammadferdi05@gmail.com",
             "handphone": "087731144554",
-            "perusahaan": "PT. Bumi berkah boga",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. Bumi berkah boga",
             "status": "Rapoo",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8407,11 +9620,11 @@ module.exports = [
             "nama": "Mochamad Ferdian",
             "email": "-",
             "handphone": "0877-3114-4554",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/5/22",
+            "tglInput": "2022-10-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8422,27 +9635,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Mohammad Reza",
             "email": "reza@gemawan.org",
             "handphone": "81256005531",
-            "perusahaan": "Perkumpulan Gemawan",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "Perkumpulan Gemawan",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Mohammad Rifqi Fachreza",
             "email": "-",
             "handphone": "088808660066",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/20/22",
+            "tglInput": "2022-10-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8450,22 +9663,22 @@ module.exports = [
             "nama": "Mohd.Raja Firdaus",
             "email": "mrajafds123@gmail.com",
             "handphone": "082277818888",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/3/22",
+            "tglInput": "2022-09-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Monique",
             "handphone": "0811-8338-947",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/24/22",
+            "tglInput": "2022-11-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8473,33 +9686,44 @@ module.exports = [
             "nama": "Moses Bima Dewantara",
             "email": "moses.bimad@gmail.com",
             "handphone": "82140622393",
-            "perusahaan": "IDN Media",
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
+            "perusahaan": "IDN Media",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
         },
         {
             "nama": "Mr.Aditya",
             "email": "-",
             "handphone": "08977171621",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/16/22",
+            "tglInput": "2022-07-16",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "MS Travel Umrah Bogor",
+            "handphone": "0858-8046-8579",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-10",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Muchlis Mopangga",
             "email": "-",
             "handphone": "082113755340",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/20/22",
+            "tglInput": "2022-08-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8507,11 +9731,11 @@ module.exports = [
             "nama": "Mufti Ash-shidqie",
             "email": "-",
             "handphone": "087788597989",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8522,17 +9746,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muh Arif Batara",
             "email": "muharifbatara97@gmail.com",
             "handphone": "081356499428",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8543,27 +9767,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Muhamad Gema Pratama",
             "email": "muhamad.gema@brilife.co.id",
             "handphone": "818972323",
-            "perusahaan": "PT.Asuransi BRIlife",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "PT.Asuransi BRIlife",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhamad nur",
             "email": "mnur.rspc@gmail.com",
             "handphone": "082121341666",
-            "perusahaan": "RS pertamina Cirebon",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "RS pertamina Cirebon",
             "status": "Rapoo",
-            "tglInput": "10/6/22",
+            "tglInput": "2022-10-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8574,27 +9798,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "MUHAMAD RIZAL AVIF KHAN",
             "email": "rizal.khan@pelindo.co.id",
             "handphone": "85259620007",
-            "perusahaan": "PT. Pelindo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Pelindo",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Muhamad rusmana",
             "email": "Muhamadrusmana17@gmail.com",
             "handphone": "082124272210",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8602,31 +9826,31 @@ module.exports = [
             "nama": "Muhammad Agung Setyawan",
             "email": "muhammadagungsetyawan@gmail.com",
             "handphone": "82257466946",
-            "perusahaan": "UD SARANA AGUNG",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "UD SARANA AGUNG",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Muhammad Agustino",
             "email": "Agustino15rizqi@gmail.com",
             "handphone": "81338176026",
-            "perusahaan": "Universitas Bojonegoro",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Universitas Bojonegoro",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Muhammad akbar paroto",
             "email": "akbarmuh339@gmail.com",
             "handphone": "082395255753",
-            "perusahaan": "PT kelas vakansi indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "PT kelas vakansi indonesia",
             "status": "Program",
-            "tglInput": "9/14/22",
+            "tglInput": "2022-09-14",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8634,11 +9858,11 @@ module.exports = [
             "nama": "Muhammad Akmal Hidayat",
             "email": "shinodaakmal196@gmail.com",
             "handphone": "85317138701",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Muhammad Ali",
@@ -8647,37 +9871,61 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhammad Aqlam",
             "email": "maqlam8@gmail.com",
             "handphone": "8119600165",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Muhammad Dahsyat Aulia",
             "email": "dahsyat.aulia@gmail.com",
             "handphone": "81218122171",
-            "perusahaan": "PT. Tangan Kanan Digital",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Tangan Kanan Digital",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
+        },
+        {
+            "nama": "Muhammad Dzuhairi Sofyan",
+            "email": "joyact18@gmail.com",
+            "handphone": "081270524440",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-19",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Muhammad Fahri Raynaldy",
+            "email": "raynaldyfahri@gmail.com",
+            "handphone": "081221391961",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "Univ Lampung",
+            "status": "Closing",
+            "tglInput": "2022-12-20",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Muhammad faidz rizqi",
             "email": "faidzrizqi@gmail.com",
             "handphone": "081368090744",
-            "perusahaan": "Kementerian PUPR",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Kementerian PUPR",
             "status": "Refollow Up",
-            "tglInput": "10/30/22",
+            "tglInput": "2022-10-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8688,39 +9936,50 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "10/31/22"
+            "tglInput": "2022-10-31"
         },
         {
             "nama": "Muhammad faldhy maliki",
             "email": "faldhy2000@gmail.com",
             "handphone": "082281135907",
-            "perusahaan": "Universitas sumatera Utara",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Universitas sumatera Utara",
             "status": "Price",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Cost",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Muhammad Farhan Vaharabi",
+            "handphone": "0852-4232-9207",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-23",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Muhammad Hizrian",
             "email": "ziansuryawan@gmail.com",
             "handphone": "81226464213",
-            "perusahaan": "PT. Administrasi Medika",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "PT. Administrasi Medika",
             "status": "Closing",
-            "tglInput": "2/9/22"
+            "tglInput": "2022-02-09"
         },
         {
             "nama": "Muhammad Ikhsan Burhanudin",
             "email": "ikhsanburhan2018@gmail.com",
             "handphone": "081804449725",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8728,33 +9987,45 @@ module.exports = [
             "nama": "Muhammad Imam Nawawi Syujai",
             "email": "muhammad.imam.n.s@gmail.com",
             "handphone": "811102286",
-            "perusahaan": "Senior Officer - Markom",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "Senior Officer - Markom",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhammad Iqbal",
             "email": "-",
             "handphone": "0819-3322-9030",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/23/22",
+            "tglInput": "2022-10-23",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Muhammad Iqbal Dzulfikar",
+            "email": "thunderknights030@gmail.com",
+            "handphone": "081324734751",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-12",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Muhammad Iqbal Muttaqien",
             "email": "iqbal92.im@gmail.com",
             "handphone": "087788378388",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -8765,39 +10036,51 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhammad Jaiz",
             "email": "emjaiz1971@gmail.com",
             "handphone": "081398484583",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/18/22",
+            "tglInput": "2022-08-18",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Muhammad Kamal",
+            "email": "muhammadkamal274@gmail.com",
+            "handphone": "0813‑9370‑7780‬",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Mav Boutique",
+            "status": "Closing",
+            "tglInput": "2022-12-12",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Muhammad Khalid Mawardi",
             "email": "khalid.mawardi@pelindomarines.com",
             "handphone": "85852242208",
-            "perusahaan": "PT Pelindo Marine Service",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "PT Pelindo Marine Service",
             "status": "Closing",
-            "tglInput": "4/11/22"
+            "tglInput": "2022-04-11"
         },
         {
             "nama": "Muhammad Luthfi Adham Besari",
             "email": "luthfiadham7@gmail.com",
             "handphone": "087784001364",
-            "perusahaan": "Comika",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Comika",
             "status": "Rapoo",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8805,11 +10088,11 @@ module.exports = [
             "nama": "Muhammad Miftahul Huda",
             "email": "-",
             "handphone": "0853-2603-3451",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/16/22",
+            "tglInput": "2022-10-16",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8820,17 +10103,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Muhammad Nur Agung W",
             "email": "-",
             "handphone": "0822-8217-4267",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -8838,21 +10121,21 @@ module.exports = [
             "nama": "Muhammad Nur Fauzan",
             "email": "muhammadnurfauzan1@gmail.com",
             "handphone": "81354381567",
-            "perusahaan": "Telkom University",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Telkom University",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Muhammad Nuraba'in Daulat",
             "email": "official@ziswafctarsa.id",
             "handphone": "082112430909",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -8863,17 +10146,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "muhammad rahmatullah",
             "email": "drrahmat19@gmail.com",
             "handphone": "85659517179",
-            "perusahaan": "Owner",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Owner",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "Muhammad Ridwan Hafidz",
@@ -8882,7 +10165,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhammad Rizky Saputra",
@@ -8891,17 +10174,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Muhammad Rizky Suryanata",
             "email": "-",
             "handphone": "0822-5410-6527",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/14/22",
+            "tglInput": "2022-10-14",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8912,25 +10195,25 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/9/22"
+            "tglInput": "2022-11-09"
         },
         {
             "nama": "MUHAMMAD SYAMSUDIN",
             "email": "joe.danish77@gmail.com",
             "handphone": "81280364111",
-            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "MUHAMMAD SYAMSUDIN",
-            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Muhammad Thoifur",
@@ -8939,17 +10222,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
             "status": "Closing",
-            "tglInput": "4/11/22"
+            "tglInput": "2022-04-11"
         },
         {
             "nama": "Muhammad Yunus Siagian",
             "email": "Mysiagian48@gmail.com",
             "handphone": "081263467886",
-            "perusahaan": "Karya Bakti Sejahtera",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Karya Bakti Sejahtera",
             "status": "Schedule",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -8957,11 +10240,11 @@ module.exports = [
             "nama": "Muhtadin Widyoko",
             "email": "nevezted7714@gmail.com",
             "handphone": "082268401731",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "15",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/7/22",
+            "tglInput": "2022-12-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -8969,11 +10252,11 @@ module.exports = [
             "nama": "Mujib",
             "email": "-",
             "handphone": "0822-5377-7751",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -8981,34 +10264,46 @@ module.exports = [
             "nama": "Muni Ledia Astuti",
             "email": "mmunilydiaa@gmail.com",
             "handphone": "08995081501",
-            "perusahaan": "CV sinar Surya utama",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "CV sinar Surya utama",
             "status": "Refollow Up",
-            "tglInput": "9/26/22",
+            "tglInput": "2022-09-26",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Murfid rafif tascha",
+            "email": "rafiftascha@gmail.com",
+            "handphone": "082288689004",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Murlan hot",
             "email": "-",
             "handphone": "085363834853",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/19/22",
+            "tglInput": "2022-08-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "MUSFIYAN ERFANDI",
             "handphone": "0818-228-842",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/5/22",
+            "tglInput": "2022-12-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9016,53 +10311,53 @@ module.exports = [
             "nama": "Mutiara Cahyani",
             "email": "wahyoejeremie2710@gmail.com",
             "handphone": "83823993190",
-            "perusahaan": "cergas kreatif konsultindo - Cergas Konsultan",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "cergas kreatif konsultindo - Cergas Konsultan",
             "status": "Closing",
-            "tglInput": "12/23/21"
+            "tglInput": "2021-12-23"
         },
         {
             "nama": "mutyadukalang",
             "email": "-",
             "handphone": "0821-9541-0313",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Nabila",
             "handphone": "+62 812-4920-5036",
-            "perusahaan": "Institure Teknologi Sepuluh Nopember",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Institure Teknologi Sepuluh Nopember",
             "status": "Refollow Up",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Nabila Silmina Hakim, S.T., MBA",
             "handphone": "81249205036",
-            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "Institut Teknologi Sepuluh Nopember",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "Nabilla Purba",
             "email": "-",
             "handphone": "082374029630",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9070,11 +10365,11 @@ module.exports = [
             "nama": "Naca Korryana Kasanti",
             "email": "nachakokasistewardlau@gmail.com",
             "handphone": "082149341271",
-            "perusahaan": "Mahasiswa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Mahasiswa",
             "status": "Rapoo",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -9082,11 +10377,11 @@ module.exports = [
             "nama": "Nadia Ananda Heraini",
             "email": "-",
             "handphone": "081210893722",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "7/17/22",
+            "tglInput": "2022-07-17",
             "concern": "Service",
             "sumber": "Kontak"
         },
@@ -9097,27 +10392,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Nadia Atika",
             "email": "nadiaatika689@gmail.com",
             "handphone": "85161130807",
-            "perusahaan": "WIRALAND PROPERTY GROUP",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "WIRALAND PROPERTY GROUP",
             "status": "Closing",
-            "tglInput": "10/12/21"
+            "tglInput": "2021-10-12"
         },
         {
             "nama": "Nadia sabana",
             "email": "Nadiasabana98@gmail.com",
             "handphone": "081283163090",
-            "perusahaan": "Dewpre",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Dewpre",
             "status": "Rapoo",
-            "tglInput": "12/9/22",
+            "tglInput": "2022-12-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9125,23 +10420,34 @@ module.exports = [
             "nama": "Nadia sabana",
             "email": "Nadiasabana98@gmail.com",
             "handphone": "081283163090",
-            "perusahaan": "Dewpre",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Dewpre",
             "status": "Rapoo",
-            "tglInput": "12/9/22",
+            "tglInput": "2022-12-09",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Nadia Shabilla",
+            "email": "nadiashabilla@gmail.com",
+            "handphone": "081320746412",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "status": "Closing",
+            "tglInput": "2023-01-18",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Nadiah Abidin",
             "email": "nadiahabidin2010@gmail.com",
             "handphone": "081295999458",
-            "perusahaan": "Cahaya Anak Negeri",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Cahaya Anak Negeri",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9149,11 +10455,11 @@ module.exports = [
             "nama": "Nadiah Abidin",
             "email": "nadiahabidin2010@gmail.com",
             "handphone": "081295999458",
-            "perusahaan": "Cahaya Anak Negeri",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Cahaya Anak Negeri",
             "status": "Closing",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -9161,11 +10467,11 @@ module.exports = [
             "nama": "Nadiah Abidin",
             "email": "nadiahabidin2010@gmail.com",
             "handphone": "81295999458",
-            "perusahaan": "Cahaya Anak Negeri (lembaga sosial) dan Institut STIAMI",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Cahaya Anak Negeri (lembaga sosial) dan Institut STIAMI",
             "status": "Closing",
-            "tglInput": "10/12/22"
+            "tglInput": "2022-10-12"
         },
         {
             "nama": "Nadiah Abidin",
@@ -9174,28 +10480,28 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "10/12/22"
+            "tglInput": "2022-10-12"
         },
         {
             "nama": "nadima tanjung",
             "email": "imanyanathan@gmail.com",
             "handphone": "085786166466",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/15/22",
+            "tglInput": "2022-08-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Nadya",
             "handphone": "0895-1947-6605",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
-            "batch": "15",
+            "batch": "16",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "12/4/22",
+            "tglInput": "2022-12-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9203,11 +10509,11 @@ module.exports = [
             "nama": "Nadya Paramitha",
             "email": "nadya.paramitha@ymail.com",
             "handphone": "81315077731",
-            "perusahaan": "Green Park Content",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Green Park Content",
             "status": "Closing",
-            "tglInput": "7/9/22"
+            "tglInput": "2022-07-09"
         },
         {
             "nama": "Nana Krisna Pramadyanthi",
@@ -9216,17 +10522,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "3/29/22"
+            "tglInput": "2022-03-29"
         },
         {
             "nama": "Nanda",
             "email": "-",
             "handphone": "0857-0269-4061",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9234,11 +10540,11 @@ module.exports = [
             "nama": "Nandira Aura A",
             "email": "nandira@gmail.com",
             "handphone": "085939568876",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -9246,11 +10552,11 @@ module.exports = [
             "nama": "Nando",
             "email": "-",
             "handphone": "081293313045",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/26/22",
+            "tglInput": "2022-07-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9258,11 +10564,11 @@ module.exports = [
             "nama": "Natalia Salim",
             "email": "liiyalimz@gmail.com",
             "handphone": "87878919818",
-            "perusahaan": "Ariane",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Ariane",
             "status": "Closing",
-            "tglInput": "6/18/22"
+            "tglInput": "2022-06-18"
         },
         {
             "nama": "Natalia Susi",
@@ -9271,27 +10577,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Natalia Susi",
             "email": "susielvina@gmail.com",
             "handphone": "81321693128",
+            "program": "Human Resource Manager",
+            "batch": "4",
             "perusahaan": "PT Anyar Retail Indonesia",
-            "program": "Human Resource Manager",
-            "batch": "4",
             "status": "Closing",
-            "tglInput": "10/5/21"
+            "tglInput": "2021-10-05"
         },
         {
             "nama": "Nathalia",
             "email": "lia_suhandynata@yahoo.com",
             "handphone": "081386212359",
-            "perusahaan": "Satyamitra Surya Perkasa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Satyamitra Surya Perkasa",
             "status": "Closing",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9299,11 +10605,11 @@ module.exports = [
             "nama": "Nathalia Kusumasetyarini",
             "email": "nathaliakusumasetyarini1@gmail.com",
             "handphone": "082226360820",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/30/22",
+            "tglInput": "2022-11-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9314,7 +10620,18 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "18",
             "status": "Closing",
-            "tglInput": "6/13/22"
+            "tglInput": "2022-06-13"
+        },
+        {
+            "nama": "Naufal",
+            "handphone": "0853-6281-9276",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-04",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Naufal Azmi Riswanto",
@@ -9323,17 +10640,29 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "6/16/22"
+            "tglInput": "2022-06-16"
+        },
+        {
+            "nama": "Nawawi Al Asy Ari",
+            "email": "alasyarin@gmail.com",
+            "handphone": "0823-4091-9284",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-13",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Nawwa",
             "email": "-",
             "handphone": "0878-2142-4999",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/21/22",
+            "tglInput": "2022-10-21",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9341,11 +10670,11 @@ module.exports = [
             "nama": "Naya",
             "email": "tinanda@rollover-reaction.com",
             "handphone": "0811107611",
-            "perusahaan": "PT Dalea Kreasi Nadisanti (Rollover Reaction)",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Dalea Kreasi Nadisanti (Rollover Reaction)",
             "status": "Refollow Up",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9353,11 +10682,11 @@ module.exports = [
             "nama": "Neppi Raspati Manikam",
             "email": "Neppymanikam@gmail.com",
             "handphone": "81213188177",
-            "perusahaan": "Seacons aviation",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Seacons aviation",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "nery diana",
@@ -9366,17 +10695,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Neta",
             "email": "-",
             "handphone": "0895-3846-87583",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9384,23 +10713,34 @@ module.exports = [
             "nama": "Ni Kadek Mitha Ismayanti",
             "email": "mithaijb@gmail.com",
             "handphone": "081239045123",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/4/22",
+            "tglInput": "2022-08-04",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Ni Kadek Mitha Ismayanti",
+            "email": "mithaijb@gmail.com",
+            "handphone": "081239045123",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-19",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Ni Luh Sri Suwartiningsih",
-            "email": "-",
             "handphone": "08119842207",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
-            "batch": "6",
+            "batch": "5",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/20/22",
+            "tglInput": "2022-07-20",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -9408,11 +10748,11 @@ module.exports = [
             "nama": "NI MADE AYU UTAMI",
             "email": "MDAYUUTAMI@GMAIL.COM",
             "handphone": "85701216158",
-            "perusahaan": "PT. BALI SARI",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. BALI SARI",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Ni Nyoman Sri Wisudawati, S.St.Par.,M.Par",
@@ -9421,7 +10761,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ni Putu Intan Permatasari",
@@ -9430,17 +10770,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ni Putu Mia Puriyanti",
             "email": "puriyantimita@gmail.com",
             "handphone": "085737098638",
-            "perusahaan": "PT Omni Hotelier Internasional",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "PT Omni Hotelier Internasional",
             "status": "Rapoo",
-            "tglInput": "11/30/22",
+            "tglInput": "2022-11-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9448,11 +10788,11 @@ module.exports = [
             "nama": "Nico",
             "email": "-",
             "handphone": "081914464551",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9460,11 +10800,11 @@ module.exports = [
             "nama": "Nico Billytra",
             "email": "nicobillytral4l@gmail.com",
             "handphone": "081273403325",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/9/22",
+            "tglInput": "2022-08-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9472,31 +10812,31 @@ module.exports = [
             "nama": "Niddy Ambar Katresna",
             "email": "niddyambarkatresna@gmail.com",
             "handphone": "82118666535",
-            "perusahaan": "Hits Unikom Radio",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Hits Unikom Radio",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Nihayah Qurrotul Aini",
             "email": "nihayqurotul@gmail.com",
             "handphone": "8974493859",
-            "perusahaan": "PT. Sepertiga Bahasa Internasional",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "PT. Sepertiga Bahasa Internasional",
             "status": "Closing",
-            "tglInput": "3/10/22"
+            "tglInput": "2022-03-10"
         },
         {
             "nama": "Niki",
             "email": "tidakadaemail@gmail.com",
             "handphone": "0878-8686-3951",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9504,21 +10844,21 @@ module.exports = [
             "nama": "Nikolas Agung Wibowo",
             "email": "nicolasagung20@gmail.com",
             "handphone": "87821110202",
-            "perusahaan": "Universitas Kristen Maranatha",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Universitas Kristen Maranatha",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Nila Widyajanti",
             "email": "nilawidyajanti@gmail.com",
             "handphone": "081311410151",
-            "perusahaan": "PT. Citilink Indonesia",
             "program": "Online Course",
             "batch": "1",
+            "perusahaan": "PT. Citilink Indonesia",
             "status": "Closing",
-            "tglInput": "11/16/22",
+            "tglInput": "2022-11-16",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9526,21 +10866,33 @@ module.exports = [
             "nama": "Nindy Ismail",
             "email": "nindy@ibkul.com",
             "handphone": "85900040498",
-            "perusahaan": "PT Indo Perkasa",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "PT Indo Perkasa",
             "status": "Closing",
-            "tglInput": "2/7/22"
+            "tglInput": "2022-02-07"
+        },
+        {
+            "nama": "Nisa Kania",
+            "email": "sayanisakania@gmail.com",
+            "handphone": "089683646529",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2022-12-23",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "nisrina bentang raina fikri",
             "email": "nisrinabentang99@gmail.com",
             "handphone": "081221617166",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/5/22",
+            "tglInput": "2022-12-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9548,21 +10900,21 @@ module.exports = [
             "nama": "Nofriska Krissanya",
             "email": "nofriskakrissanya@gmail.com",
             "handphone": "81317954347",
-            "perusahaan": "Jakarta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Jakarta",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "noname",
             "email": "-",
             "handphone": "0895-4115-99685",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/4/22",
+            "tglInput": "2022-10-04",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -9570,11 +10922,11 @@ module.exports = [
             "nama": "None",
             "email": "-",
             "handphone": "085157542250",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9582,11 +10934,11 @@ module.exports = [
             "nama": "none",
             "email": "-",
             "handphone": "0812-7410-4391",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/5/22",
+            "tglInput": "2022-10-05",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9594,11 +10946,11 @@ module.exports = [
             "nama": "none",
             "email": "-",
             "handphone": "082324775778",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/22/22",
+            "tglInput": "2022-10-22",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9606,33 +10958,44 @@ module.exports = [
             "nama": "None",
             "email": "-",
             "handphone": "0857-9512-7560",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "None",
             "handphone": "0878-9593-8843",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "12/1/22",
+            "tglInput": "2022-12-01",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "none",
             "handphone": "0813-8004-2015",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/4/22",
+            "tglInput": "2022-12-04",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "none",
+            "handphone": "0852-6511-0181",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2022-12-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9640,21 +11003,21 @@ module.exports = [
             "nama": "Noor Sabah",
             "email": "bundabintang.maha@gmail.com",
             "handphone": "83898218489",
-            "perusahaan": "generasi juara",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "generasi juara",
             "status": "Closing",
-            "tglInput": "8/19/22"
+            "tglInput": "2022-08-19"
         },
         {
             "nama": "Nopi",
             "email": "-",
             "handphone": "081310500697",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/21/22",
+            "tglInput": "2022-09-21",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9662,11 +11025,11 @@ module.exports = [
             "nama": "Not a Business",
             "email": "-",
             "handphone": "083195555028",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/9/22",
+            "tglInput": "2022-08-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9674,21 +11037,21 @@ module.exports = [
             "nama": "Nova Ardian",
             "email": "ardiannova519@gmail.com",
             "handphone": "89520806644",
-            "perusahaan": "Realizm87",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Realizm87",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Nova Astuty Marlinda Sidabutar",
             "email": "novasidabutar@asuransijasindo.co.id",
             "handphone": "818401968",
-            "perusahaan": "PT. Jasindo Bangun Insani",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "PT. Jasindo Bangun Insani",
             "status": "Closing",
-            "tglInput": "9/2/21"
+            "tglInput": "2021-09-02"
         },
         {
             "nama": "Nova Ridho Sisprasojo",
@@ -9697,17 +11060,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Novando",
             "email": "-",
             "handphone": "081249580199",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "7/24/22",
+            "tglInput": "2022-07-24",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -9715,11 +11078,11 @@ module.exports = [
             "nama": "Novando Angga Pratama",
             "email": "novandoanggap@gmail.com",
             "handphone": "81249580199",
-            "perusahaan": "Blitar Park",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Blitar Park",
             "status": "Closing",
-            "tglInput": "7/27/22"
+            "tglInput": "2022-07-27"
         },
         {
             "nama": "novi dwi daryanti",
@@ -9728,17 +11091,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Novitaadw",
             "email": "-",
             "handphone": "0838-7144-8078",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9746,11 +11109,11 @@ module.exports = [
             "nama": "Ns Nurlaily Irfa Zuhriana S.Tr Kep",
             "email": "nurlailyzuhriana@gmail.com",
             "handphone": "085816361393",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/24/22",
+            "tglInput": "2022-09-24",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -9761,17 +11124,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Nur Afni Mahiya Usemahu",
             "email": "-",
             "handphone": "08115039479",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/7/22",
+            "tglInput": "2022-09-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9779,11 +11142,11 @@ module.exports = [
             "nama": "Nur Afni Oktavitrianingtyas",
             "email": "nurafniokta2@gmail.com",
             "handphone": "083140838211",
-            "perusahaan": "PT. Vloowless Kosmetik Indonesia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT. Vloowless Kosmetik Indonesia",
             "status": "Closing",
-            "tglInput": "10/3/22",
+            "tglInput": "2022-10-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9791,11 +11154,11 @@ module.exports = [
             "nama": "Nur Afni Oktavitrianingtyas",
             "email": "-",
             "handphone": "0831-4083-8211",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/3/22",
+            "tglInput": "2022-10-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9806,17 +11169,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Nur azmi andinii",
             "email": "Andiniazmi78@gmail.com",
             "handphone": "082169999969",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -9824,11 +11187,11 @@ module.exports = [
             "nama": "Nur azmi andinii",
             "email": "Andiniazmi78@gmail.com",
             "handphone": "082169999969",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9836,11 +11199,11 @@ module.exports = [
             "nama": "Nur Hasan Ubaidilah",
             "email": "nurhasanubai@gmail.com",
             "handphone": "085607491321",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -9848,21 +11211,21 @@ module.exports = [
             "nama": "Nur Sheily Andin Isna",
             "email": "nursheilyandinisnan@gmail.com",
             "handphone": "82116863186",
-            "perusahaan": "UNIKOM",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "UNIKOM",
             "status": "Closing",
-            "tglInput": "4/11/22"
+            "tglInput": "2022-04-11"
         },
         {
             "nama": "Nurain mootalu",
             "email": "nurainmootalu78@gmail.com",
             "handphone": "082259131476",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9870,21 +11233,21 @@ module.exports = [
             "nama": "Nurdin Hidayah L",
             "email": "nurdin@stp-bandung.ac.id",
             "handphone": "81222640828",
-            "perusahaan": "Sekolah Tinggi Pariwisata Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "Sekolah Tinggi Pariwisata Bandung",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Nurhalimah",
             "email": "-",
             "handphone": "081933523433",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/26/22",
+            "tglInput": "2022-08-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9892,11 +11255,11 @@ module.exports = [
             "nama": "Nurhalimah",
             "email": "lensagrafita@yahoo.co.id",
             "handphone": "0819-3352-3433",
-            "perusahaan": "PT Lensa Grafita",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT Lensa Grafita",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Nurhasan Maryo Miki",
@@ -9905,16 +11268,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Nurlaili Susanti",
             "handphone": "0853-3322-7111",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "12/2/22",
+            "tglInput": "2022-12-02",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -9922,41 +11285,52 @@ module.exports = [
             "nama": "Nurlita Prima Regiati",
             "email": "lita.agungtoyota@gmail.com",
             "handphone": "81511188257",
-            "perusahaan": "PT Agung Automall",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "PT Agung Automall",
             "status": "Closing",
-            "tglInput": "9/20/21"
+            "tglInput": "2021-09-20"
+        },
+        {
+            "nama": "Nurul",
+            "handphone": "0895-3693-61621",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Nurul Fadillah",
             "email": "nurulsimt2021@gmail.com",
             "handphone": "81216713757",
-            "perusahaan": "ITS",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "ITS",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
         },
         {
             "nama": "Nyimas Qoonitah",
             "email": "nyimasq22@gmail.com",
             "handphone": "88291186136",
-            "perusahaan": "IPB",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "IPB",
             "status": "Closing",
-            "tglInput": "2/26/22"
+            "tglInput": "2022-02-26"
         },
         {
             "nama": "Ochie",
             "email": "-",
             "handphone": "085891594321",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/27/22",
+            "tglInput": "2022-07-27",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -9964,11 +11338,11 @@ module.exports = [
             "nama": "Octaviani Mulyati",
             "email": "octavianimoel@gmail.com",
             "handphone": "085785678417",
-            "perusahaan": "Mitra Abadi",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Mitra Abadi",
             "status": "Rapoo",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -9979,16 +11353,16 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "6/11/22"
+            "tglInput": "2022-06-11"
         },
         {
             "nama": "Oka",
             "handphone": "87764999663",
-            "perusahaan": "Dinas Pariwisata Kab. Pemalang",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kab. Pemalang",
             "status": "Rapoo",
-            "tglInput": "7/19/22",
+            "tglInput": "2022-07-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -9996,11 +11370,11 @@ module.exports = [
             "nama": "Oka",
             "email": "-",
             "handphone": "082210544582",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10008,11 +11382,11 @@ module.exports = [
             "nama": "Okeu Achmad Firdaus",
             "email": "okeuachmad@gmail.com",
             "handphone": "8990911272",
-            "perusahaan": "ani's group",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "ani's group",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Oki DM Reguler",
@@ -10020,7 +11394,7 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Schedule",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -10031,17 +11405,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/8/22"
+            "tglInput": "2022-11-08"
         },
         {
             "nama": "Pandu Wicaksono",
             "email": "pandu.skull@gmail.com",
             "handphone": "082114143116",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10049,21 +11423,21 @@ module.exports = [
             "nama": "Patricia Natalia",
             "email": "patricia.natalias20@gmail.com",
             "handphone": "87783856480",
-            "perusahaan": "Nextep Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "Nextep Indonesia",
             "status": "Closing",
-            "tglInput": "3/10/22"
+            "tglInput": "2022-03-10"
         },
         {
             "nama": "Patrick",
             "email": "-",
             "handphone": "081991021888",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/1/22",
+            "tglInput": "2022-09-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10074,38 +11448,49 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Piranti",
+            "handphone": "0821-1917-9900",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "14",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-19",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Ponty Yuwono",
             "email": "pontyyuwono@gmail.com",
             "handphone": "811912628",
-            "perusahaan": "PT. Evello Teknologi Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "PT. Evello Teknologi Indonesia",
             "status": "Closing",
-            "tglInput": "4/1/22"
+            "tglInput": "2022-04-01"
         },
         {
             "nama": "Poppy Sidoarjo",
             "email": "-",
             "handphone": "087853125252",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/4/22",
+            "tglInput": "2022-09-04",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Pr J Sianipar",
             "handphone": "0818-537-111",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/13/22",
+            "tglInput": "2022-12-13",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -10116,27 +11501,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Prasetya Nugeraha",
             "email": "prasetya.nugeraha18@gmail.com",
             "handphone": "81373435752",
-            "perusahaan": "universitas Lampung",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "universitas Lampung",
             "status": "Closing",
-            "tglInput": "10/22/21"
+            "tglInput": "2021-10-22"
         },
         {
             "nama": "Prasetyo",
             "email": "prasetyo4783@gmail.com",
             "handphone": "089648580331",
-            "perusahaan": "Ebliethos",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "Ebliethos",
             "status": "Rapoo",
-            "tglInput": "11/11/22",
+            "tglInput": "2022-11-11",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10147,27 +11532,39 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Pratama Rifqi Prabowo S.Psi",
             "email": "pratamarifqi1@gmail.com",
             "handphone": "81284476838",
-            "perusahaan": "Kopi Tubing",
             "program": "Human Resource Manager",
             "batch": "4",
+            "perusahaan": "Kopi Tubing",
             "status": "Closing",
-            "tglInput": "10/3/21"
+            "tglInput": "2021-10-03"
+        },
+        {
+            "nama": "Prayashi Anjani",
+            "email": "Prayashia.pa@gmail.com",
+            "handphone": "082178299040",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-16",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Prioki Trainer",
             "email": "-",
             "handphone": "085781725247",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -10175,21 +11572,21 @@ module.exports = [
             "nama": "Priyo Jatmiko",
             "email": "priyojatmiko828@gmail.com",
             "handphone": "81297067682",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "3/8/22"
+            "tglInput": "2022-03-08"
         },
         {
             "nama": "Puang Tajio",
             "email": "-",
             "handphone": "0822-1181-0078",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/2/22",
+            "tglInput": "2022-11-02",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10200,27 +11597,27 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "9",
             "status": "Closing",
-            "tglInput": "6/17/22"
+            "tglInput": "2022-06-17"
         },
         {
             "nama": "Puspita Asri Praceka, M.I.Kom",
             "email": "puspita@untirta.ac.id",
             "handphone": "81213790995",
-            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Sultan Ageng Tiryayasa Serang Banten",
             "status": "Closing",
-            "tglInput": "10/15/21"
+            "tglInput": "2021-10-15"
         },
         {
             "nama": "Puti Amanda",
             "email": "atishasarah@gmail.com",
             "handphone": "089517411818",
-            "perusahaan": "Amadia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Amadia",
             "status": "Price",
-            "tglInput": "10/9/22",
+            "tglInput": "2022-10-09",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -10228,11 +11625,11 @@ module.exports = [
             "nama": "Puti Amanda",
             "email": "atishasarah@gmail.com",
             "handphone": "089517411818",
-            "perusahaan": "Amadia",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Amadia",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10240,11 +11637,11 @@ module.exports = [
             "nama": "Putra Yudiss",
             "email": "-",
             "handphone": "081388968598",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/1/22",
+            "tglInput": "2022-08-01",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -10252,11 +11649,11 @@ module.exports = [
             "nama": "Putri",
             "email": "-",
             "handphone": "0812-2500-1059",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/21/22",
+            "tglInput": "2022-10-21",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -10264,21 +11661,21 @@ module.exports = [
             "nama": "Putri Khalidah",
             "email": "khalidahputri@gmail.com",
             "handphone": "85714666576",
-            "perusahaan": "Rumah Pena",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "Rumah Pena",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Putri Nabilla",
             "email": "putrinabillaaa312@gmail.com",
             "handphone": "082389111306",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/30/22",
+            "tglInput": "2022-08-30",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10289,7 +11686,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Putri Prameswari Sudin",
@@ -10298,39 +11695,51 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Putri Rahmadewi",
             "email": "rahmadewi.putri@gmail.com",
             "handphone": "81318185808",
-            "perusahaan": "PT Petrosea Tbk",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "PT Petrosea Tbk",
             "status": "Closing",
-            "tglInput": "6/17/22"
+            "tglInput": "2022-06-17"
         },
         {
             "nama": "Putri Rahmawaty",
             "email": "-",
             "handphone": "085266077100",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "12/16/22",
+            "tglInput": "2023-01-25",
             "concern": "Cost",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Putri Sibuea",
+            "email": "lofianyuppie@gmail.com",
+            "handphone": "082164764166",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "IT Del",
+            "status": "Rapoo",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Putri Sukma Ayu Agustina",
             "email": "-",
             "handphone": "08123880623",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10341,17 +11750,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Putu Ayu Anggira Pratami",
             "email": "anggira.pratami@gmail.com",
             "handphone": "81246123072",
-            "perusahaan": "Adhigana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Adhigana",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Putu Ayu Titha Paramita Pika",
@@ -10360,17 +11769,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "11",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Putu Dibia Adnyana",
             "email": "Putudibiaadnyana@gmail.com",
             "handphone": "85847825609",
-            "perusahaan": "Universitas Mahasaraswati Denpasar",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Universitas Mahasaraswati Denpasar",
             "status": "Closing",
-            "tglInput": "6/12/22"
+            "tglInput": "2022-06-12"
         },
         {
             "nama": "Putu Ema Werdiastuti",
@@ -10379,27 +11788,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Putu Herry",
             "email": "herryhermawan910@gmail.com",
             "handphone": "85738296579",
-            "perusahaan": "Denpasar",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Denpasar",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Quote",
             "email": "-",
             "handphone": "0812-8438-1985",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10410,7 +11819,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "R. Rita Avianty, SE., M.Ak",
@@ -10419,55 +11828,125 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "9/21/21"
+            "tglInput": "2021-09-21"
+        },
+        {
+            "nama": "R.MLDN",
+            "handphone": "0819-9334-4242",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-13",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Rachel Meliala",
             "email": "rachelmeliala@gmail.com",
             "handphone": "81228348923",
-            "perusahaan": "PT Indo Perkasa",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "PT Indo Perkasa",
             "status": "Closing",
-            "tglInput": "1/31/22"
+            "tglInput": "2022-01-31"
         },
         {
             "nama": "Rachma Tri Widuri",
             "email": "rachma.widuri@gmail.com",
             "handphone": "81906080307",
-            "perusahaan": "Politeknik Tempo",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "Politeknik Tempo",
             "status": "Closing",
-            "tglInput": "6/11/22"
+            "tglInput": "2022-06-11"
+        },
+        {
+            "nama": "Rachmaniah",
+            "handphone": "0857-7882-1647",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-21",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Rachmaniah Nurul Imani",
+            "email": "rachmaniah28@gmail.com",
+            "handphone": "085778821647",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Rachmaniah Nurul Imani",
+            "email": "rachmaniah28@gmail.com",
+            "handphone": "085778821647",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-19",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "RADEN PRIA HERVIADI",
+            "email": "rpria.herviadi@gmail.com",
+            "handphone": "082110114007",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Deraya Air",
+            "status": "Closing",
+            "tglInput": "2023-01-09",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Raden Soeko Agung Prasetyo",
+            "email": "qubevolution@gmail.com",
+            "handphone": "081230060022",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Jasa Raharja",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "RADEN SURYANDI BUWONO COKRO",
             "handphone": "8114539791",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "RADEN SURYANDI BUWONO COKRO",
             "handphone": "0811-4539-791",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Raden Zikri Najmuddin Ahmad",
             "email": "zikrinajmuddin@gdriveme.id",
             "handphone": "082224126224",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/25/22",
+            "tglInput": "2022-09-25",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -10475,21 +11954,21 @@ module.exports = [
             "nama": "Raditya Pratama Putra",
             "email": "radityapratamaputra15@gmail.com",
             "handphone": "82295029646",
-            "perusahaan": "UNISBA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "UNISBA",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Rafif fadhlurrahaman muti",
             "email": "rafifrhmn@gmail.com",
             "handphone": "0895320344546",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10497,11 +11976,11 @@ module.exports = [
             "nama": "Rafiq Arifianto",
             "email": "rafiqarif4@gmail.com",
             "handphone": "083114012945",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/4/22",
+            "tglInput": "2022-12-04",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10509,11 +11988,11 @@ module.exports = [
             "nama": "Ragi dzaky setya pratama",
             "email": "rafidzaky99@gmail.com",
             "handphone": "085947583005",
-            "perusahaan": "Global sarana raya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Global sarana raya",
             "status": "Price",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -10521,11 +12000,11 @@ module.exports = [
             "nama": "Rahayu Sri Purnami",
             "email": "rsripurnami@gmail.com",
             "handphone": "085220093682",
-            "perusahaan": "Institut Digital Ekonomi LPKIA",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Institut Digital Ekonomi LPKIA",
             "status": "Closing",
-            "tglInput": "10/31/22",
+            "tglInput": "2022-10-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10533,11 +12012,11 @@ module.exports = [
             "nama": "Rahayu Sri Purnami",
             "email": "rsripurnami@gmail.com",
             "handphone": "085220093682",
-            "perusahaan": "Institut Digital Ekonomi LPKIA",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "Institut Digital Ekonomi LPKIA",
             "status": "Closing",
-            "tglInput": "11/4/22",
+            "tglInput": "2022-11-04",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10548,7 +12027,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "10/31/22"
+            "tglInput": "2022-10-31"
         },
         {
             "nama": "Rahel Stefani",
@@ -10557,17 +12036,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rahma Siti Maulida",
             "email": "rahmasiti000@gmail.com",
             "handphone": "085697455145",
-            "perusahaan": "Muslim Mandiri",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "Muslim Mandiri",
             "status": "Rapoo",
-            "tglInput": "11/24/22",
+            "tglInput": "2022-11-24",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10575,11 +12054,11 @@ module.exports = [
             "nama": "Rahma Wahdiniwaty",
             "email": "rahma@email.unikom@ac.id",
             "handphone": "08156096986",
-            "perusahaan": "Universita Komputer Indonesia",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universita Komputer Indonesia",
             "status": "Refollow Up",
-            "tglInput": "6/25/22",
+            "tglInput": "2022-06-25",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -10587,31 +12066,31 @@ module.exports = [
             "nama": "Rahmad Bagaskara",
             "email": "bagaskara16.rb@gmail.com",
             "handphone": "89649216756",
-            "perusahaan": "Kotagede Jewellery",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Kotagede Jewellery",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Rahmad Bagaskara",
             "email": "bagaskara16.rb@gmail.com",
             "handphone": "89649216756",
-            "perusahaan": "PT Kotagede Jewellery Group",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT Kotagede Jewellery Group",
             "status": "Closing",
-            "tglInput": "10/12/22"
+            "tglInput": "2022-10-12"
         },
         {
             "nama": "Rahmat Hertawan",
             "email": "rahmat.hertawan@gmail.com",
             "handphone": "81774166247",
-            "perusahaan": "Generasi Juara",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Generasi Juara",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Rahmat Noviar Ansyari",
@@ -10620,7 +12099,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/5/21"
+            "tglInput": "2021-08-05"
         },
         {
             "nama": "Rahmawati Ama",
@@ -10629,17 +12108,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rahmawati Dzaelani",
             "email": "rachma.gts@gmail.com",
             "handphone": "8128991074",
-            "perusahaan": "Depok",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Depok",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Rahmawati Meirina",
@@ -10648,17 +12127,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "10/26/21"
+            "tglInput": "2021-10-26"
         },
         {
             "nama": "Rahmi Irwan",
             "email": "rahmirw08@gmail.com",
             "handphone": "0818161020",
-            "perusahaan": "Amakwak.if",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Amakwak.if",
             "status": "Refollow Up",
-            "tglInput": "11/19/22",
+            "tglInput": "2022-11-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -10666,30 +12145,30 @@ module.exports = [
             "nama": "Raihan Fadhilah",
             "email": "raihan.51919122@mahasiswa.unikom.ac.id",
             "handphone": "85798400031",
-            "perusahaan": "Bandung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Bandung",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Raissa Triani Putri",
             "email": "raissatriani@gmail.com",
             "handphone": "81289532259",
-            "perusahaan": "andaf Corp",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "andaf Corp",
             "status": "Closing",
-            "tglInput": "8/29/22"
+            "tglInput": "2022-08-29"
         },
         {
             "nama": "Raka Adam",
             "handphone": "85212489317",
-            "perusahaan": "Dinas Pariwisata Kab. Purwakarta",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Dinas Pariwisata Kab. Purwakarta",
             "status": "Schedule",
-            "tglInput": "7/14/22",
+            "tglInput": "2022-07-14",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -10697,20 +12176,20 @@ module.exports = [
             "nama": "Ramadiani Ardika syahputri",
             "email": "rardikasyaputri@gmail.com",
             "handphone": "81220505648",
-            "perusahaan": "PT CMK",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "PT CMK",
             "status": "Closing",
-            "tglInput": "10/22/21"
+            "tglInput": "2021-10-22"
         },
         {
             "nama": "Rangga",
             "handphone": "0851-5625-6098",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/8/22",
+            "tglInput": "2022-11-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10718,11 +12197,11 @@ module.exports = [
             "nama": "Rani",
             "email": "blessindomaseja@gmail.com",
             "handphone": "081280938475",
-            "perusahaan": "PT Bless Indo Maseja",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT Bless Indo Maseja",
             "status": "Refollow Up",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -10730,11 +12209,11 @@ module.exports = [
             "nama": "Rani Astira",
             "email": "blessindomaseja@gmail.com",
             "handphone": "081280938475",
-            "perusahaan": "PT Bless Indo Maseja",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT Bless Indo Maseja",
             "status": "Closing",
-            "tglInput": "7/31/22",
+            "tglInput": "2022-07-31",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -10742,41 +12221,52 @@ module.exports = [
             "nama": "Rani Astira",
             "email": "blessindomaseja@gmail.com",
             "handphone": "81280938475",
-            "perusahaan": "PT Bless Indo Maseja",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT Bless Indo Maseja",
             "status": "Closing",
-            "tglInput": "8/3/22"
+            "tglInput": "2022-08-03"
         },
         {
             "nama": "Rani Astira",
             "email": "blessindomaseja@gmail.com",
             "handphone": "81280938475",
-            "perusahaan": "PT Bless Indo Maseja",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT Bless Indo Maseja",
             "status": "Closing",
-            "tglInput": "8/3/22"
+            "tglInput": "2022-08-03"
         },
         {
             "nama": "Rani Saraswati",
             "email": "ranisaraswati31@gmail.com",
             "handphone": "81238702141",
-            "perusahaan": "BPR Saraswati Ekabumi",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "BPR Saraswati Ekabumi",
             "status": "Closing",
-            "tglInput": "2/8/22"
+            "tglInput": "2022-02-08"
+        },
+        {
+            "nama": "Ranusa",
+            "handphone": "0877-8185-8626",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-19",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Ratih",
             "email": "-",
             "handphone": "082141043371",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "7/26/22",
+            "tglInput": "2022-07-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10784,29 +12274,29 @@ module.exports = [
             "nama": "ratih fitri rahayu",
             "email": "rumahseroja@gmail.com",
             "handphone": "81808855404",
-            "perusahaan": "Bank Sahabat Sampoerna",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "Bank Sahabat Sampoerna",
             "status": "Closing",
-            "tglInput": "11/29/21"
+            "tglInput": "2021-11-29"
         },
         {
             "nama": "Ratih Pandu Mustikasari",
             "handphone": "85655511875",
-            "perusahaan": "UPN Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UPN Jatim",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Ratih Sunita",
             "handphone": "+62 878-8075-9027",
-            "perusahaan": "PT Emak Boga Nusantara",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Emak Boga Nusantara",
             "status": "Refollow Up",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Delivery",
             "sumber": "Wordpress"
         },
@@ -10817,51 +12307,99 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ravi Asyari",
             "email": "-",
             "handphone": "082118562710",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Rayya Adila Sakinah",
+            "email": "rayyaadila@gmail.com",
+            "handphone": "0812-8223-6158",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "-",
+            "status": "Closing",
+            "tglInput": "2023-01-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "RDA",
             "handphone": "0821-3838-0110",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "12/15/22",
+            "tglInput": "2022-12-15",
             "concern": "Cost",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Reggie Fauzan Ismail",
+            "email": "erfauzan90@gmail.com",
+            "handphone": "087724015927",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-22",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Renata",
             "email": "-",
             "handphone": "0878-7719-5196",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Delivery",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Rendi karno",
+            "email": "Rendikarno28@gmail.com",
+            "handphone": "081278856551",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Berkah Duria",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-25",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Rendi karno",
+            "email": "Rendikarno28@gmail.com",
+            "handphone": "081278856551",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Schedule",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Renitha Faj'wa",
             "handphone": "0811-7994-991",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "11/14/22",
+            "tglInput": "2022-11-14",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -10869,11 +12407,11 @@ module.exports = [
             "nama": "resky muhardian",
             "email": "reskymuhardian@gmail.com",
             "handphone": "087771517141",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10881,11 +12419,11 @@ module.exports = [
             "nama": "Reskyfirnadini",
             "email": "mireyakasih@gmail.com",
             "handphone": "081938938989",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10893,11 +12431,11 @@ module.exports = [
             "nama": "Resti",
             "email": "-",
             "handphone": "082283368997",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/15/22",
+            "tglInput": "2022-07-15",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -10905,11 +12443,11 @@ module.exports = [
             "nama": "Retno Renggani Nugroho",
             "email": "retnorengganin@gmail.com",
             "handphone": "081221375037",
-            "perusahaan": "PT. Jagat Semesta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. Jagat Semesta",
             "status": "Closing",
-            "tglInput": "8/23/22",
+            "tglInput": "2022-08-23",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -10917,31 +12455,31 @@ module.exports = [
             "nama": "Retno Renggani Nugroho",
             "email": "retnorengganin@gmail.com",
             "handphone": "81221375037",
-            "perusahaan": "PT. Jagat Semesta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PT. Jagat Semesta",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Retta Erlita",
             "email": "rettaerlita18@gmail.com",
             "handphone": "85210660226",
-            "perusahaan": "Tru Kefi",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Tru Kefi",
             "status": "Closing",
-            "tglInput": "2/9/22"
+            "tglInput": "2022-02-09"
         },
         {
             "nama": "Reva rachmadina",
             "email": "-",
             "handphone": "0821-2999-9604",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -10949,11 +12487,11 @@ module.exports = [
             "nama": "Revi",
             "email": "hermansyahrevi09@gmail.com",
             "handphone": "081908076778",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/15/22",
+            "tglInput": "2022-08-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -10961,11 +12499,11 @@ module.exports = [
             "nama": "Reyfika Adiputri",
             "email": "-",
             "handphone": "081219409108",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/13/22",
+            "tglInput": "2022-09-13",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -10973,31 +12511,31 @@ module.exports = [
             "nama": "Reyhan Naufal",
             "email": "reyhannaufalz@gmail.com",
             "handphone": "81249830733",
-            "perusahaan": "Stixma Agency",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "Stixma Agency",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Reynaldi",
             "email": "reynaldiricardo.95@gmail.com",
             "handphone": "81806866857",
-            "perusahaan": "GAB Graphic and Branding",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "GAB Graphic and Branding",
             "status": "Closing",
-            "tglInput": "7/11/22"
+            "tglInput": "2022-07-11"
         },
         {
             "nama": "Reza",
             "email": "-",
             "handphone": "082116848436",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11008,37 +12546,49 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Reza Ramadani Firman",
             "email": "rezaramadani@ittelkom-jkt.ac.id",
             "handphone": "81224298162",
-            "perusahaan": "IT Telkom Jakarta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "IT Telkom Jakarta",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
+        },
+        {
+            "nama": "Rezeky Mariam Risnawaty SE",
+            "email": "rezeky.aziz.17sept@gmail.com",
+            "handphone": "087879433738",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT.Sparta Guna Sentosa",
+            "status": "Program",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Rhafidilla Vebrynda",
             "email": "rhafidilla@gmail.com",
             "handphone": "85641732381",
-            "perusahaan": "UMY",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "UMY",
             "status": "Closing",
-            "tglInput": "2/11/22"
+            "tglInput": "2022-02-11"
         },
         {
             "nama": "rhein mahatma",
             "email": "rhein.mahatma@gmail.com",
             "handphone": "081281071170",
-            "perusahaan": "kolektibel/vexanium",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "kolektibel/vexanium",
             "status": "Closing",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11049,17 +12599,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rhesa Pramudita Sakti Bawana",
             "email": "rhesapramudita2495@gmail.com",
             "handphone": "081249833052",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11070,17 +12620,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Riadiani Resmisari",
             "email": "adm.connected.smg@gmail.com",
             "handphone": "082223000558",
-            "perusahaan": "Agent Force Property",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Agent Force Property",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11091,17 +12641,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
             "status": "Closing",
-            "tglInput": "5/18/22"
+            "tglInput": "2022-05-18"
         },
         {
             "nama": "Rian Hidayat",
             "email": "rianhidayat53@gmail.com",
             "handphone": "8111111738",
-            "perusahaan": "Ecodigitus",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Ecodigitus",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "Riana Jayanti",
@@ -11110,7 +12660,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Riana Jayanti",
@@ -11119,7 +12669,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Riana Jogi Ahdareni M",
@@ -11128,17 +12678,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Richu Ridho Rizki",
             "email": "-",
             "handphone": "0813-1511-1029",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11146,11 +12696,11 @@ module.exports = [
             "nama": "Rico",
             "email": "-",
             "handphone": "082120085881",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -11161,17 +12711,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Ridwan Hafidz",
             "email": "ridwan@gmail.com",
             "handphone": "085155310503",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -11182,17 +12732,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/13/22"
+            "tglInput": "2022-09-13"
         },
         {
             "nama": "Rifky Naufal Fauzan",
             "email": "rifky16naufal@gmail.com",
             "handphone": "0895334901643",
-            "perusahaan": "Aktiva",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Aktiva",
             "status": "Rapoo",
-            "tglInput": "7/29/22",
+            "tglInput": "2022-07-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11200,11 +12750,11 @@ module.exports = [
             "nama": "Rifqi",
             "email": "-",
             "handphone": "087786486695",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/18/22",
+            "tglInput": "2022-08-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11212,11 +12762,11 @@ module.exports = [
             "nama": "Rika Fitri Ramayani",
             "email": "rikafitririka94@gmail.com",
             "handphone": "082179837084",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11224,11 +12774,11 @@ module.exports = [
             "nama": "Rika Fitri Ramayani",
             "email": "rikafitririka94@gmail.com",
             "handphone": "082179837084",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/14/22",
+            "tglInput": "2022-11-14",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -11236,11 +12786,11 @@ module.exports = [
             "nama": "Riko Herdiana",
             "email": "herdriko1234@gmail.com",
             "handphone": "085226048053",
-            "perusahaan": "LPK AL HIKMAH",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "LPK AL HIKMAH",
             "status": "Rapoo",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11251,7 +12801,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/30/21"
+            "tglInput": "2021-06-30"
         },
         {
             "nama": "RIKVI Dariana",
@@ -11260,17 +12810,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "6/30/21"
+            "tglInput": "2021-06-30"
         },
         {
             "nama": "Rina Adriana Susana",
             "email": "Susana.rina@gmail.com",
             "handphone": "08118091967",
-            "perusahaan": "Biovital",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Biovital",
             "status": "Closing",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11278,21 +12828,21 @@ module.exports = [
             "nama": "Rina Adriana Susana",
             "email": "Susana.rina@gmail.com",
             "handphone": "8118091967",
-            "perusahaan": "PT. Biovital Victoria Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT. Biovital Victoria Indonesia",
             "status": "Closing",
-            "tglInput": "8/14/22"
+            "tglInput": "2022-08-14"
         },
         {
             "nama": "Rina Novianty",
             "email": "rina.ariawaty@gmail.com",
             "handphone": "081220687878",
-            "perusahaan": "Sanggabuana",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Sanggabuana",
             "status": "Refollow Up",
-            "tglInput": "8/31/22",
+            "tglInput": "2022-08-31",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11303,7 +12853,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Rina Novianty Ariawaty",
@@ -11312,7 +12862,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Rinata Selfia Prakuntari",
@@ -11321,17 +12871,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rini",
             "email": "-",
             "handphone": "081905061262",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/11/22",
+            "tglInput": "2022-08-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11342,17 +12892,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/6/21"
+            "tglInput": "2021-08-06"
         },
         {
             "nama": "Rinike Dwi Rahayu",
             "email": "-",
             "handphone": "0895374071424",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/15/22",
+            "tglInput": "2022-07-15",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -11360,74 +12910,109 @@ module.exports = [
             "nama": "Rinna Eddy",
             "email": "rinnaedd@gmail.com",
             "handphone": "81222209009",
-            "perusahaan": "Tubagus Car Spa",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Tubagus Car Spa",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rinrin",
             "handphone": "081395515994",
-            "perusahaan": "Orien Olshop",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Orien Olshop",
             "status": "Rapoo",
-            "tglInput": "9/29/22",
+            "tglInput": "2022-09-29",
             "concern": "Quality",
             "sumber": "Wordpress"
+        },
+        {
+            "nama": "Riski Bagus Santoso",
+            "handphone": "08811395368",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "Voxxy Media",
+            "status": "Closing",
+            "tglInput": "2022-12-28",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Riski Bagus Santoso",
+            "email": "riskibagussantoso@gmail.com",
+            "handphone": "08811395368",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "Voxxy Media",
+            "status": "Closing",
+            "tglInput": "2022-12-27",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Ristian",
             "email": "-",
             "handphone": "087804228342",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
-            "nama": "Riva Nurazidah",
-            "email": "rvnurazidah@gmail.com",
-            "handphone": "81219690373",
-            "perusahaan": "yayasan tambun islamic school",
-            "program": "Sertifikasi Social Media",
-            "batch": "11",
-            "status": "Closing",
-            "tglInput": "8/2/22"
+            "nama": "Riswan Effendi sp",
+            "email": "effendiriswan123@gmail.com",
+            "handphone": "085360175930",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Wiraswasta",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-29",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Riva Nurazidah",
             "email": "rvnurazidah@gmail.com",
             "handphone": "81219690373",
-            "perusahaan": "yayasan tambun islamic school",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "yayasan tambun islamic school",
             "status": "Closing",
-            "tglInput": "8/2/22"
+            "tglInput": "2022-08-02"
+        },
+        {
+            "nama": "Riva Nurazidah",
+            "email": "rvnurazidah@gmail.com",
+            "handphone": "81219690373",
+            "program": "Sertifikasi Social Media",
+            "batch": "11",
+            "perusahaan": "yayasan tambun islamic school",
+            "status": "Closing",
+            "tglInput": "2022-08-02"
         },
         {
             "nama": "Riza Darma Putra",
             "email": "rizadarmaputra@univpancasila.ac.id",
             "handphone": "81241701640",
-            "perusahaan": "Fikom Univ Pancasila",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "Fikom Univ Pancasila",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rizal Susanto sihite",
             "email": "rizalsihite1527@gmail.com",
             "handphone": "085247280173",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11435,11 +13020,11 @@ module.exports = [
             "nama": "Rizal Susanto sihite",
             "email": "rizalsihite1527@gmail.com",
             "handphone": "085247280173",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/8/22",
+            "tglInput": "2022-12-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11447,11 +13032,11 @@ module.exports = [
             "nama": "Rizka Wulandari",
             "email": "-",
             "handphone": "082285190809",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/19/22",
+            "tglInput": "2022-08-19",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11462,17 +13047,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Rizki Mauladi Mitrowijoyo",
             "email": "-",
             "handphone": "08812286407",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/13/22",
+            "tglInput": "2022-09-13",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11480,11 +13065,11 @@ module.exports = [
             "nama": "Rizky Ardi Pratama",
             "email": "Rizkyardipratama3@gmail.com",
             "handphone": "081272933772",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -11495,7 +13080,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Rizky Harahap",
@@ -11504,7 +13089,7 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "rizky noviasri",
@@ -11513,17 +13098,28 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
+        },
+        {
+            "nama": "Rizqi F.R",
+            "handphone": "0857-8266-8832",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "-",
+            "status": "Schedule",
+            "tglInput": "2023-01-25",
+            "concern": "Delivery",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Rn",
             "email": "-",
             "handphone": "087887601786",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/28/22",
+            "tglInput": "2022-08-28",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11534,27 +13130,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Robert Filipus",
             "email": "robertfilipus@gmail.com",
             "handphone": "81803029150",
-            "perusahaan": "Exodus Creative",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Exodus Creative",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Rochy",
             "email": "-",
             "handphone": "0822-1420-2809",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/17/22",
+            "tglInput": "2022-10-17",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -11562,11 +13158,11 @@ module.exports = [
             "nama": "Roeis Ulmumin",
             "email": "-",
             "handphone": "0882-1845-4855",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11574,11 +13170,11 @@ module.exports = [
             "nama": "Rofi Ardhianto",
             "email": "rofi1977@gmail.com",
             "handphone": "81910148900",
-            "perusahaan": "www phiradio.net",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "www phiradio.net",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Rofi Eko Saputro",
@@ -11587,17 +13183,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "10/5/22"
+            "tglInput": "2022-10-05"
         },
         {
             "nama": "ROKHIM",
             "email": "-",
             "handphone": "085882455398",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/8/22",
+            "tglInput": "2022-09-08",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11605,11 +13201,11 @@ module.exports = [
             "nama": "Roni",
             "email": "-",
             "handphone": "082210101880",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/17/22",
+            "tglInput": "2022-08-17",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -11619,37 +13215,37 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "10/8/21"
+            "tglInput": "2021-10-08"
         },
         {
             "nama": "Rony Rahmat",
             "email": "ronir1234@gmail.com",
             "handphone": "811222848",
-            "perusahaan": "PT Telkom",
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
+            "perusahaan": "PT Telkom",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "RR PUTRI AYU SS",
             "email": "ayu@multiterminal.co.id",
             "handphone": "81315236873",
-            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "RR PUTRI AYU SS",
             "email": "ayu@multiterminal.co.id",
             "handphone": "0813 1523 6873",
-            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Rudy Ashary",
@@ -11658,37 +13254,37 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/3/21"
+            "tglInput": "2021-08-03"
         },
         {
             "nama": "Rully Arifiansyah",
             "email": "rully.arifiansyah@gmail.com",
             "handphone": "87884267405",
-            "perusahaan": "STIE Pariwisata",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "STIE Pariwisata",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Rully Baskara",
             "email": "rullybhaskara@gmail.com",
             "handphone": "82111212272",
-            "perusahaan": "Nahla Coaching Firm",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "Nahla Coaching Firm",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Rusmiati",
             "email": "-",
             "handphone": "0812-8257-496",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11696,11 +13292,11 @@ module.exports = [
             "nama": "Rusmiati",
             "email": "-",
             "handphone": "0812-8257-496",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11708,11 +13304,22 @@ module.exports = [
             "nama": "Rustan",
             "email": "-",
             "handphone": "081381332228",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Ruth Gracia",
+            "handphone": "0858-9117-0487",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11720,22 +13327,22 @@ module.exports = [
             "nama": "Ryan",
             "email": "-",
             "handphone": "082287317036",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Ryan",
             "handphone": "0878-2416-1448",
-            "perusahaan": "-",
             "program": "Online Course",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11743,31 +13350,31 @@ module.exports = [
             "nama": "Ryan Mauladi",
             "email": "ryan.mauladi@gmail.com",
             "handphone": "8119888958",
-            "perusahaan": "PT Ide Cahaya Perubahan",
             "program": "Sertifikasi Social Media",
             "batch": "7",
+            "perusahaan": "PT Ide Cahaya Perubahan",
             "status": "Closing",
-            "tglInput": "3/30/22"
+            "tglInput": "2022-03-30"
         },
         {
             "nama": "Sabina Chinantya",
             "email": "sabinachinantya@gmail.com",
             "handphone": "81284196915",
-            "perusahaan": "SABINA x SARAH",
             "program": "Sertifikasi Social Media",
             "batch": "3",
+            "perusahaan": "SABINA x SARAH",
             "status": "Closing",
-            "tglInput": "11/24/21"
+            "tglInput": "2021-11-24"
         },
         {
             "nama": "Saliem Mahsyar",
             "email": "-",
             "handphone": "085331476002",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/27/22",
+            "tglInput": "2022-07-27",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -11778,46 +13385,68 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "4",
             "status": "Closing",
-            "tglInput": "10/19/21"
+            "tglInput": "2021-10-19"
         },
         {
             "nama": "Salman Al-farisi",
             "email": "salman.alaqsha@gmail.com",
             "handphone": "85335504400",
-            "perusahaan": "PT. Inspira Sabila Makmur",
             "program": "Human Resource Manager",
             "batch": "4",
+            "perusahaan": "PT. Inspira Sabila Makmur",
             "status": "Closing",
-            "tglInput": "10/14/21"
+            "tglInput": "2021-10-14"
+        },
+        {
+            "nama": "Samantha",
+            "handphone": "0877-8026-7078",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2023-01-12",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Samuel Julius",
             "email": "samueljulius777@gmail.com",
             "handphone": "81319103232",
-            "perusahaan": "WTC",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "WTC",
             "status": "Closing",
-            "tglInput": "6/19/22"
+            "tglInput": "2022-06-19"
+        },
+        {
+            "nama": "Sandhy Rizky Aulia",
+            "handphone": "081280391582",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "KSO",
+            "status": "Closing",
+            "tglInput": "2022-12-26",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "sandi nugroho",
             "email": "ceritasandy@gmail.com",
             "handphone": "85757746878",
-            "perusahaan": "PT.Okuzono Nippindo Paradiso (Okuzono Japanese Dining)",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "PT.Okuzono Nippindo Paradiso (Okuzono Japanese Dining)",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Sandi T.A. Saputra",
             "handphone": "0813-9047-2955",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11828,47 +13457,47 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "10",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Sando Triwibowo",
             "email": "sandotriwibowo@gmail.com",
             "handphone": "8123000590",
-            "perusahaan": "www.jamtangan.com / machtwacht",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "www.jamtangan.com / machtwacht",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "SANTI SAPTASARI",
             "email": "ssaptasari@pelindo1.co.id",
             "handphone": "81376469119",
-            "perusahaan": "PT. Pelindo",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Pelindo",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Santoso Salim",
             "email": "santososalims@gmail.com",
             "handphone": "811828643",
-            "perusahaan": "Jakarta",
             "program": "Sertifikasi Social Media",
             "batch": "8",
+            "perusahaan": "Jakarta",
             "status": "Closing",
-            "tglInput": "5/14/22"
+            "tglInput": "2022-05-14"
         },
         {
             "nama": "Sarah Claudia",
             "email": "sarah.irawati@gdn-commerce.com",
             "handphone": "082298506800",
-            "perusahaan": "PT Global Digital Media",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Global Digital Media",
             "status": "Refollow Up",
-            "tglInput": "6/9/22",
+            "tglInput": "2022-06-09",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -11876,31 +13505,67 @@ module.exports = [
             "nama": "Sari Anjani",
             "email": "sarianjany@gmail.com",
             "handphone": "85773789205",
-            "perusahaan": "Sekolah Cikal",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Sekolah Cikal",
             "status": "Closing",
-            "tglInput": "2/7/22"
+            "tglInput": "2022-02-07"
+        },
+        {
+            "nama": "Sari Suryandari",
+            "email": "ssuryandari@yahoo.co.id",
+            "handphone": "081222098052",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Agronesia",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Sari Suryandari",
+            "email": "ssuryandari@yahoo.co.id",
+            "handphone": "081222098052",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Agronesia",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-02",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Satria Ruzu Martino",
+            "email": "Satriarzzu@gmail.com",
+            "handphone": "087882868248",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Sekolah tinggi hukum bandung",
+            "status": "Closing",
+            "tglInput": "2022-12-27",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Satriavi Dananjaya",
             "email": "satriavid@gmail.com",
             "handphone": "8115347799",
-            "perusahaan": "LMNX Digital",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "LMNX Digital",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Satrio",
             "email": "-",
             "handphone": "089513033058",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/2/22",
+            "tglInput": "2022-09-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11908,11 +13573,11 @@ module.exports = [
             "nama": "Satriya Permana H",
             "email": "satriyapermana.sp@gmail.com",
             "handphone": "085210696069",
-            "perusahaan": "Arsana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "Arsana",
             "status": "Schedule",
-            "tglInput": "8/6/22",
+            "tglInput": "2022-08-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -11920,11 +13585,11 @@ module.exports = [
             "nama": "Seila Millianda",
             "email": "-",
             "handphone": "0812-1447-8149",
-            "perusahaan": "0",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "0",
             "status": "Schedule",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -11932,22 +13597,33 @@ module.exports = [
             "nama": "Sejahtera Giovani",
             "email": "sejahteragio3@gmail.com",
             "handphone": "081908054502",
-            "perusahaan": "PT. Dipo Internasional Pahala Otomotif",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "PT. Dipo Internasional Pahala Otomotif",
             "status": "Rapoo",
-            "tglInput": "10/30/22",
+            "tglInput": "2022-10-30",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
+            "nama": "Sekar",
+            "handphone": "0812-3412-3520",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Program",
+            "tglInput": "2023-01-12",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
             "nama": "Selly Destiani",
             "handphone": "0821-6955-0687",
-            "perusahaan": "-",
             "program": "Tiktok Ads",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/7/22",
+            "tglInput": "2022-12-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11955,21 +13631,21 @@ module.exports = [
             "nama": "Selviana Chalifah",
             "email": "selvianachalifah@gmail.com",
             "handphone": "81373694336",
-            "perusahaan": "UGM",
             "program": "Sertifikasi Social Media",
             "batch": "8",
+            "perusahaan": "UGM",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "SENDY",
             "email": "-",
             "handphone": "085885937587",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/21/22",
+            "tglInput": "2022-08-21",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -11977,21 +13653,44 @@ module.exports = [
             "nama": "Septi Pebriyanti",
             "email": "septipebriyanti@ipmi.ac.id",
             "handphone": "81219317200",
-            "perusahaan": "IPMI Internasional Business School",
             "program": "Sertifikasi Social Media",
             "batch": "9",
+            "perusahaan": "IPMI Internasional Business School",
             "status": "Closing",
-            "tglInput": "6/10/22"
+            "tglInput": "2022-06-10"
         },
         {
             "nama": "Septiana",
             "email": "-",
             "handphone": "083132085896",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/9/22",
+            "tglInput": "2022-08-09",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Setyorini Safitri S.T",
+            "email": "setyorini.safitri@gmail.com",
+            "handphone": "083819992723",
+            "program": "Sertifikasi Social Media",
+            "batch": "17",
+            "perusahaan": "bu Profesional",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-22",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Shafira Putri",
+            "handphone": "081224970545",
+            "program": "Sertifikasi Social Media",
+            "batch": "16",
+            "perusahaan": "KSO",
+            "status": "Closing",
+            "tglInput": "2023-01-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -11999,11 +13698,11 @@ module.exports = [
             "nama": "Sheila Aruna",
             "email": "-",
             "handphone": "085770932799",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "7/30/22",
+            "tglInput": "2022-07-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12014,17 +13713,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Shindi Azalika",
             "email": "-",
             "handphone": "081292218411",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/19/22",
+            "tglInput": "2022-07-19",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -12032,31 +13731,31 @@ module.exports = [
             "nama": "Shinta Dwi Rinawanti",
             "email": "shintadwirinawanti@gmail.com",
             "handphone": "81316889119",
-            "perusahaan": "PT. Human Mandiri Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT. Human Mandiri Indonesia",
             "status": "Closing",
-            "tglInput": "10/12/22"
+            "tglInput": "2022-10-12"
         },
         {
             "nama": "Shinta Nur Santoso",
             "email": "Shintanursantoso@yahoo.co.id",
             "handphone": "83865544062",
-            "perusahaan": "Toko Busana Indah",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "Toko Busana Indah",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Shinta Valen",
             "email": "-",
             "handphone": "0823-0165-3366",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12064,11 +13763,23 @@ module.exports = [
             "nama": "Shofiya Ashilah Eddy",
             "email": "shofiya.ashilah@gmail.com",
             "handphone": "081394616397",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Sholihatul fitri",
+            "email": "sholihatulfitrie@gmail.com",
+            "handphone": "081321777984",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Travel",
+            "status": "Rapoo",
+            "tglInput": "2022-12-30",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12076,11 +13787,11 @@ module.exports = [
             "nama": "Shopia Widya Kristiana",
             "email": "-",
             "handphone": "081225008326",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "7/27/22",
+            "tglInput": "2022-07-27",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12091,17 +13802,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Silvi",
             "email": "-",
             "handphone": "087718329079",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/1/22",
+            "tglInput": "2022-08-01",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12109,21 +13820,21 @@ module.exports = [
             "nama": "Siswoto SE",
             "email": "siswoto@gmail.com",
             "handphone": "85894668908",
-            "perusahaan": "PT.Jagogo Analisa Gemilang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "PT.Jagogo Analisa Gemilang",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Siti Fatimah",
             "email": "hellosydney1698@gmail.com",
             "handphone": "082131467966",
-            "perusahaan": "PT. Jaya Digital Properti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT. Jaya Digital Properti",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12131,11 +13842,11 @@ module.exports = [
             "nama": "Siti Fatimah",
             "email": "hellosydney1698@gmail.com",
             "handphone": "082131467966",
-            "perusahaan": "PT. Jaya Digital Properti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT. Jaya Digital Properti",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12143,11 +13854,11 @@ module.exports = [
             "nama": "Siti Febrianti Patimah",
             "email": "sitifebriantipatimah@gmail.com",
             "handphone": "085778659459",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12155,11 +13866,11 @@ module.exports = [
             "nama": "Siti Febrianti Patimah",
             "email": "sitifebriantipatimah@gmail.com",
             "handphone": "895705090077",
-            "perusahaan": "Pesantren Maskanul Huffadz",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Pesantren Maskanul Huffadz",
             "status": "Closing",
-            "tglInput": "10/7/22"
+            "tglInput": "2022-10-07"
         },
         {
             "nama": "Siti Marjuni",
@@ -12168,17 +13879,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "SL",
             "email": "-",
             "handphone": "085645165199",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/30/22",
+            "tglInput": "2022-07-30",
             "concern": "Service",
             "sumber": "WhatsApp"
         },
@@ -12189,17 +13900,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Sofyan",
             "email": "sofyan@multiterminal.co.id",
             "handphone": "081288872696",
-            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT MULTI TERMINAL INDONESIA",
             "status": "Closing",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12207,22 +13918,22 @@ module.exports = [
             "nama": "Sofyan",
             "email": "-",
             "handphone": "0812-1544-5550",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Sonia Rulita",
             "handphone": "85221777899",
-            "perusahaan": "PT. Infomedia Nusantara",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT. Infomedia Nusantara",
             "status": "Refollow Up",
-            "tglInput": "5/18/22",
+            "tglInput": "2022-05-18",
             "concern": "Delivery",
             "sumber": "Kontak"
         },
@@ -12230,11 +13941,11 @@ module.exports = [
             "nama": "Sonny Argie Suprapto",
             "email": "sonnyargiesuprapto45@gmail.com",
             "handphone": "085885556122",
-            "perusahaan": "-",
             "program": "Online Course",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12245,17 +13956,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "SORAYA FIRDAUSI NUZZILA",
             "email": "sorayafirdausi2803@gmail.com",
             "handphone": "082335936761",
-            "perusahaan": "UNIVERSITAS MUHAMMADIYAH JEMBER",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "UNIVERSITAS MUHAMMADIYAH JEMBER",
             "status": "Refollow Up",
-            "tglInput": "9/21/22",
+            "tglInput": "2022-09-21",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12266,37 +13977,37 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "13",
             "status": "Closing",
-            "tglInput": "10/10/22"
+            "tglInput": "2022-10-10"
         },
         {
             "nama": "Sri Mardini",
             "email": "srimardini01@gmail.com",
             "handphone": "81314202807",
-            "perusahaan": "SMK GITA KIRTTI 1 JAKARTA",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "SMK GITA KIRTTI 1 JAKARTA",
             "status": "Closing",
-            "tglInput": "12/21/21"
+            "tglInput": "2021-12-21"
         },
         {
             "nama": "Sri Pernia Warakmulty",
             "email": "niah@email.unikom.ac.id",
             "handphone": "82320328861",
-            "perusahaan": "Universitas Komputer Indonesia (Unikom)",
             "program": "Sertifikasi Digital Marketing (UNIKOM)",
             "batch": "5",
+            "perusahaan": "Universitas Komputer Indonesia (Unikom)",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Sri Wahyuningsih",
             "email": "-",
             "handphone": "082383569868",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12304,11 +14015,11 @@ module.exports = [
             "nama": "Start Your Impossible",
             "email": "-",
             "handphone": "08119920209",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/19/22",
+            "tglInput": "2022-08-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12316,11 +14027,11 @@ module.exports = [
             "nama": "Stefani",
             "email": "-",
             "handphone": "081289091992",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12328,11 +14039,11 @@ module.exports = [
             "nama": "Stefani",
             "email": "-",
             "handphone": "0812-8909-1992",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12343,16 +14054,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
+        },
+        {
+            "nama": "Stepanus Budi C",
+            "email": "stbudi3vy.98@gmail.com",
+            "handphone": "087739217719",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Map Aktif Adiperkasa",
+            "status": "Pilih Status",
+            "tglInput": "2023-01-11",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Stepsmedia",
             "handphone": "081218464663",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/28/22",
+            "tglInput": "2022-09-28",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -12363,27 +14086,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Suci Rohalia Putri",
             "email": "sucirohalia@gmail.com",
             "handphone": "81231149244",
-            "perusahaan": "ITS",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "ITS",
             "status": "Closing",
-            "tglInput": "10/18/22"
+            "tglInput": "2022-10-18"
         },
         {
             "nama": "Sugianto",
             "email": "sugianto.hwi@gmail.com",
             "handphone": "81310307678",
-            "perusahaan": "PT Health Wealth Indonesia",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PT Health Wealth Indonesia",
             "status": "Price",
-            "tglInput": "4/29/22",
+            "tglInput": "2022-04-29",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12391,11 +14114,11 @@ module.exports = [
             "nama": "suginto abah olin",
             "email": "-",
             "handphone": "0857-2621-2411",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12403,11 +14126,11 @@ module.exports = [
             "nama": "Sukma",
             "email": "-",
             "handphone": "085718583129",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/29/22",
+            "tglInput": "2022-08-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12418,37 +14141,49 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/2/21"
+            "tglInput": "2021-08-02"
+        },
+        {
+            "nama": "Sunandar",
+            "email": "sunandar174@gmail.com",
+            "handphone": "081511690032",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Zocos",
+            "status": "Closing",
+            "tglInput": "2022-12-24",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Supriadi",
             "email": "adhyzikluz@gmail.com",
             "handphone": "85213627371",
-            "perusahaan": "PT. Maristas Jaya Indonesia",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "PT. Maristas Jaya Indonesia",
             "status": "Closing",
-            "tglInput": "9/9/21"
+            "tglInput": "2021-09-09"
         },
         {
             "nama": "Suprihatin Ali",
             "email": "suprihatin.ali@fisip.unila.ac.id",
             "handphone": "82385982862",
-            "perusahaan": "Universitas Lampung",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "Universitas Lampung",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Surkani",
             "email": "soerkani@gmail.com",
             "handphone": "081260129289",
-            "perusahaan": "Tim ahli dprd",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Tim ahli dprd",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12456,11 +14191,23 @@ module.exports = [
             "nama": "Surkani",
             "email": "soerkani@gmail.com",
             "handphone": "081260129289",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Survidia Nur",
+            "email": "survidianur4@gmail.com",
+            "handphone": "082217613155",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-05",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12468,11 +14215,11 @@ module.exports = [
             "nama": "Sweetly Yedia Ambalau",
             "email": "-",
             "handphone": "081343839330",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/13/22",
+            "tglInput": "2022-09-13",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12480,11 +14227,11 @@ module.exports = [
             "nama": "Sweetly Yedia Ambalau",
             "email": "-",
             "handphone": "081343839330",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/14/22",
+            "tglInput": "2022-09-14",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12492,11 +14239,11 @@ module.exports = [
             "nama": "SYAFRIZALDI",
             "email": "syaf.rizaldi.csr@gmail.com",
             "handphone": "0813-6143-2445",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/9/22",
+            "tglInput": "2022-11-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12507,27 +14254,27 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "11/9/22"
+            "tglInput": "2022-11-09"
         },
         {
             "nama": "syahidah asma amanina",
             "email": "syahidahasma.amanina@yahoo.com",
             "handphone": "85775136470",
-            "perusahaan": "Cake And Bakery",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "Cake And Bakery",
             "status": "Closing",
-            "tglInput": "10/6/22"
+            "tglInput": "2022-10-06"
         },
         {
             "nama": "Syahirah",
             "email": "-",
             "handphone": "0811-8881-422",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/20/22",
+            "tglInput": "2022-10-20",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -12535,11 +14282,11 @@ module.exports = [
             "nama": "Syahnas Amalia",
             "email": "-",
             "handphone": "081249699956",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/24/22",
+            "tglInput": "2022-08-24",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12547,21 +14294,21 @@ module.exports = [
             "nama": "Syahrizal Ahyani",
             "email": "syahrizal.ahyani@gmail.com",
             "handphone": "81210213921",
-            "perusahaan": "Self Employed",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "Self Employed",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Syahruddin",
             "email": "syah_united@yahoo.com",
             "handphone": "081519231397",
-            "perusahaan": "PT. Intermesindo Forging Prima",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "PT. Intermesindo Forging Prima",
             "status": "Closing",
-            "tglInput": "7/20/22",
+            "tglInput": "2022-07-20",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -12572,28 +14319,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Syaiful",
             "email": "-",
             "handphone": "082124702189",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/15/22",
+            "tglInput": "2022-08-15",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Syariful",
             "handphone": "+62 811-2281-510",
-            "perusahaan": "D4 UNPAD",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "D4 UNPAD",
             "status": "Refollow Up",
-            "tglInput": "7/25/22",
+            "tglInput": "2022-07-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12601,11 +14348,11 @@ module.exports = [
             "nama": "Syeren",
             "email": "-",
             "handphone": "081807899909",
-            "perusahaan": "-",
             "program": "Subsidi Digital Marketing",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12613,11 +14360,11 @@ module.exports = [
             "nama": "Syeren Wijaya",
             "email": "syerenwijaya@gmail.com",
             "handphone": "081807899909",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12628,17 +14375,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Syifa",
             "email": "-",
             "handphone": "089655982432",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12646,11 +14393,11 @@ module.exports = [
             "nama": "Syifa Aulia Rabbani",
             "email": "-",
             "handphone": "089655982432",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "9/10/22",
+            "tglInput": "2022-09-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12658,71 +14405,83 @@ module.exports = [
             "nama": "Syifa Aulia Rabbani",
             "email": "syifaaulia2512@gmail.com",
             "handphone": "89655982432",
-            "perusahaan": "Universitas Muhammadiyah Yogyakarta",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "Universitas Muhammadiyah Yogyakarta",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
+        },
+        {
+            "nama": "Syifa Lailatul Rahmah",
+            "email": "syifalailatulrhmh@gmail.com",
+            "handphone": "085772846235",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-23",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Syifa Syarifah",
             "handphone": "81320112301",
+            "program": "Sertifikasi Social Media",
+            "batch": "11",
             "perusahaan": "UPN Jatim",
-            "program": "Sertifikasi Social Media",
-            "batch": "11",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Sylvi Ikrima",
             "email": "mitralancarsejahtera2021@gmail.com",
             "handphone": "81388348588",
-            "perusahaan": "PT. Mitra Lancar Sejahtera",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT. Mitra Lancar Sejahtera",
             "status": "Closing",
-            "tglInput": "8/1/22"
+            "tglInput": "2022-08-01"
         },
         {
             "nama": "Sylvi Ikrima",
             "email": "mitralancarsejahtera2021@gmail.com",
             "handphone": "81388348588",
-            "perusahaan": "PT. Mitra Lancar Sejahtera",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "PT. Mitra Lancar Sejahtera",
             "status": "Closing",
-            "tglInput": "8/1/22"
+            "tglInput": "2022-08-01"
         },
         {
             "nama": "Sylvia Handayani",
             "email": "dentalclinic.cdc@gmail.com",
             "handphone": "8111634377",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Sylvy Ikrima",
             "email": "mitralancarsejahtera2021@gmail.com",
             "handphone": "081388348588",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "7/31/22",
+            "tglInput": "2022-07-31",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Tajri",
             "handphone": "0851-6270-9868",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/8/22",
+            "tglInput": "2022-11-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12730,20 +14489,20 @@ module.exports = [
             "nama": "Tammy Tiffany Geneberty",
             "email": "tammy.tiffany@gmail.com",
             "handphone": "81297225362",
-            "perusahaan": "IPMI International Business School",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "IPMI International Business School",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Tania",
             "handphone": "82320225936",
-            "perusahaan": "Universitas Jenderal Achmad Yani",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "Universitas Jenderal Achmad Yani",
             "status": "Program",
-            "tglInput": "3/7/22",
+            "tglInput": "2022-03-07",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12751,11 +14510,11 @@ module.exports = [
             "nama": "TankCleaning/wastehndlng",
             "email": "-",
             "handphone": "081959172536",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "8/3/22",
+            "tglInput": "2022-08-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12763,11 +14522,11 @@ module.exports = [
             "nama": "Tanpa Nama",
             "email": "-",
             "handphone": "082282174267",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -12777,7 +14536,7 @@ module.exports = [
             "program": "In House Training",
             "batch": "1",
             "status": "Rapoo",
-            "tglInput": "9/5/22",
+            "tglInput": "2022-09-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12785,51 +14544,63 @@ module.exports = [
             "nama": "Tanti Nur Ainun Azizah",
             "email": "tantitannn@gmail.com",
             "handphone": "81294291800",
-            "perusahaan": "IDLC",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "IDLC",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
+        },
+        {
+            "nama": "TARSUDI",
+            "email": "udi.star@gmail.com",
+            "handphone": "08116193040",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "CV. Sinartek Globalindo",
+            "status": "Closing",
+            "tglInput": "2023-01-03",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Tasya Ayu Sonia",
             "email": "tasyasonia@gmail.com",
             "handphone": "82216146343",
-            "perusahaan": "Miko.Mall",
             "program": "Sertifikasi Digital Marketing",
             "batch": "9",
+            "perusahaan": "Miko.Mall",
             "status": "Closing",
-            "tglInput": "10/11/21"
+            "tglInput": "2021-10-11"
         },
         {
             "nama": "Tasya Ayu Sonia",
             "email": "tasyasonia@gmail.com",
             "handphone": "82216146343",
-            "perusahaan": "PT.Milan Jaya Pratama (Miko Mall)",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "PT.Milan Jaya Pratama (Miko Mall)",
             "status": "Closing",
-            "tglInput": "10/3/22"
+            "tglInput": "2022-10-03"
         },
         {
             "nama": "Taufan Bramantoro",
             "email": "tbram@cloudgdrive.com",
             "handphone": "8563100722",
-            "perusahaan": "UNAIR",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "UNAIR",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "Taufik Fauzan Ismail",
             "email": "taufikfauzan.ismail@gmail.com",
             "handphone": "82321629686",
-            "perusahaan": "PT. Medion Ardhika Bhakti",
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
+            "perusahaan": "PT. Medion Ardhika Bhakti",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Taupik Sahbana",
@@ -12838,17 +14609,17 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/6/21"
+            "tglInput": "2021-07-06"
         },
         {
             "nama": "Teguh Eko Prasetyo",
             "email": "teguhekoprasetyo@gmail.com",
             "handphone": "082323570272",
-            "perusahaan": "Fasco Digital",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "Fasco Digital",
             "status": "Rapoo",
-            "tglInput": "11/15/22",
+            "tglInput": "2022-11-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12856,11 +14627,11 @@ module.exports = [
             "nama": "Teguh Eko Prasetyo",
             "email": "teguhekoprasetyo@gmail.com",
             "handphone": "082323570272",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/14/22",
+            "tglInput": "2022-11-14",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12871,17 +14642,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "5",
             "status": "Closing",
-            "tglInput": "2/13/22"
+            "tglInput": "2022-02-13"
         },
         {
             "nama": "Tejo Wurianto",
             "email": "tejowurianto@gmail.com",
             "handphone": "081385470687",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/15/22",
+            "tglInput": "2022-08-15",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12889,21 +14660,21 @@ module.exports = [
             "nama": "Thariq Azra",
             "email": "aalgi080@gmail.com",
             "handphone": "85771340096",
-            "perusahaan": "Tangerang",
             "program": "Sertifikasi Digital Marketing",
             "batch": "17",
+            "perusahaan": "Tangerang",
             "status": "Closing",
-            "tglInput": "5/17/22"
+            "tglInput": "2022-05-17"
         },
         {
             "nama": "Theresia",
             "email": "theresiadhiangentiaras@gmail.com",
             "handphone": "081927871466",
-            "perusahaan": "STIE Gentiaras",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "STIE Gentiaras",
             "status": "Refollow Up",
-            "tglInput": "6/30/22",
+            "tglInput": "2022-06-30",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -12914,7 +14685,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/5/21"
+            "tglInput": "2021-07-05"
         },
         {
             "nama": "Theresia Hariyati",
@@ -12923,7 +14694,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "7/5/21"
+            "tglInput": "2021-07-05"
         },
         {
             "nama": "Tiara Maharani",
@@ -12932,17 +14703,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "15",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Tiara Octavia",
             "email": "tiara.octavia14@gmail.com",
             "handphone": "08883937214",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "9/28/22",
+            "tglInput": "2022-09-28",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -12950,21 +14721,21 @@ module.exports = [
             "nama": "Tiffany",
             "email": "tiffanyyfang29@gmail.com",
             "handphone": "8116318088",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Tilu Fashion",
             "email": "-",
             "handphone": "0882000273534",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -12972,11 +14743,11 @@ module.exports = [
             "nama": "Timothy",
             "email": "-",
             "handphone": "081249392779",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "9/12/22",
+            "tglInput": "2022-09-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -12984,21 +14755,21 @@ module.exports = [
             "nama": "Titin Fauziyah Rochmawati",
             "email": "titinfauziyah.r@gmail.com",
             "handphone": "8111598326",
-            "perusahaan": "Kementerian Perindustrian",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "Kementerian Perindustrian",
             "status": "Closing",
-            "tglInput": "2/14/22"
+            "tglInput": "2022-02-14"
         },
         {
             "nama": "Tito 108",
             "email": "-",
             "handphone": "081313401479",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13009,16 +14780,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "8",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Tobbyas Ramadhann",
             "handphone": "0895-0789-6046",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "Pilih Batch Program",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/26/22",
+            "tglInput": "2022-11-26",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13026,11 +14797,11 @@ module.exports = [
             "nama": "Toet",
             "email": "-",
             "handphone": "0818961672",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/18/22",
+            "tglInput": "2022-08-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13041,16 +14812,16 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "7/30/21"
+            "tglInput": "2021-07-30"
         },
         {
             "nama": "Toriq Firmansyah",
             "handphone": "0856-4353-6268",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13058,11 +14829,11 @@ module.exports = [
             "nama": "Tresea",
             "email": "treseaaa@gmail.com",
             "handphone": "081271686530",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -13070,11 +14841,11 @@ module.exports = [
             "nama": "Tri angga awalokta",
             "email": "triangga.awalokta@yahoo.com",
             "handphone": "082231295654",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13082,11 +14853,11 @@ module.exports = [
             "nama": "Tri angga awalokta",
             "email": "triangga.awalokta@yahoo.com",
             "handphone": "082231295654",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "14",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13097,17 +14868,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/8/22"
+            "tglInput": "2022-11-08"
         },
         {
             "nama": "Tri Gita OKtafia",
             "email": "trigitaoktafia90@gmail.com",
             "handphone": "08111081090",
-            "perusahaan": "PT Bank Rakyat Indonesia (Persero) Tbk.",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "PT Bank Rakyat Indonesia (Persero) Tbk.",
             "status": "Closing",
-            "tglInput": "11/22/22",
+            "tglInput": "2022-11-22",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13115,11 +14886,11 @@ module.exports = [
             "nama": "Tri Sepviona Ananda Sari",
             "email": "vionaananda2019@gmail.com",
             "handphone": "081373701718",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/20/22",
+            "tglInput": "2022-11-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13130,16 +14901,16 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Tri Yuniarti",
             "handphone": "0812-4640-6788",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "11/18/22",
+            "tglInput": "2022-11-18",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13150,17 +14921,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/13/22"
+            "tglInput": "2022-09-13"
         },
         {
             "nama": "Ty",
             "email": "-",
             "handphone": "082213087634",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/22/22",
+            "tglInput": "2022-07-22",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -13168,31 +14939,31 @@ module.exports = [
             "nama": "Tyas Ajeng Nastiti",
             "email": "tyas.nastiti@uisi.ac.id",
             "handphone": "81259329956",
-            "perusahaan": "UISI",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "UISI",
             "status": "Closing",
-            "tglInput": "1/7/22"
+            "tglInput": "2022-01-07"
         },
         {
             "nama": "Tyas Nastiti",
             "handphone": "+62 812-5932-9956",
-            "perusahaan": "UICI (univ Internasional Semen Indonesia)",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "UICI (univ Internasional Semen Indonesia)",
             "status": "Refollow Up",
-            "tglInput": "8/8/22",
+            "tglInput": "2022-08-08",
             "concern": "Quality",
             "sumber": "Kontak"
         },
         {
             "nama": "Tyas Nastiti dan Ibu",
             "handphone": "81259329956",
-            "perusahaan": "PRODISTIK",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "PRODISTIK",
             "status": "Refollow Up",
-            "tglInput": "5/19/22",
+            "tglInput": "2022-05-19",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -13200,41 +14971,41 @@ module.exports = [
             "nama": "Ubaidzillah Shobaq",
             "email": "-",
             "handphone": "0813-9059-5696",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
         {
             "nama": "UJANG SUBAGJA",
             "handphone": "81333333012",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "UJANG SUBAGJA",
             "handphone": "0813-3333-3012",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Uki",
             "email": "-",
             "handphone": "0877-8639-6025",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13242,11 +15013,11 @@ module.exports = [
             "nama": "Uki Vewe",
             "email": "-",
             "handphone": "0877-8639-6025",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/19/22",
+            "tglInput": "2022-10-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13254,11 +15025,11 @@ module.exports = [
             "nama": "Ulwan",
             "email": "-",
             "handphone": "0878-7895-1033",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/28/22",
+            "tglInput": "2022-10-28",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13266,21 +15037,21 @@ module.exports = [
             "nama": "Valene Teddy",
             "email": "valeneteddy@gmail.com",
             "handphone": "87825520050",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Vallian Tantrijuan",
             "email": "vallian.tantrijuan@hotmail.com",
             "handphone": "81213058780",
-            "perusahaan": "Universitas Pertamina",
             "program": "Sertifikasi Digital Marketing",
             "batch": "10",
+            "perusahaan": "Universitas Pertamina",
             "status": "Closing",
-            "tglInput": "10/18/21"
+            "tglInput": "2021-10-18"
         },
         {
             "nama": "Vanesa Fansuri",
@@ -13289,17 +15060,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Vania Saraswati",
             "email": "vania.hername@gmail.com",
             "handphone": "87873779000",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Vany Hummaira Ziqra",
@@ -13308,19 +15079,53 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "3",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Vegys Gultom",
             "email": "-",
             "handphone": "087880001726",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/9/22",
+            "tglInput": "2022-09-09",
             "concern": "Quality",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Velicia Ferren",
+            "handphone": "0818-0590-8807",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-14",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Velicia Ferren",
+            "handphone": "0818-0590-8807",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Price",
+            "tglInput": "2022-12-14",
+            "concern": "Cost",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Vero",
+            "email": "Veroonwjj@gmail.com",
+            "handphone": "0895323702244",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "Pt. Nusabt",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-27",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Veronica Gabriella",
@@ -13329,17 +15134,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "11/8/22"
+            "tglInput": "2022-11-08"
         },
         {
             "nama": "Veronika Mulyani Dakhi",
             "email": "veroonikaa26@gmail.com",
             "handphone": "81380901014",
-            "perusahaan": "Universitas Bunda Mulia",
             "program": "Sertifikasi Social Media",
             "batch": "2",
+            "perusahaan": "Universitas Bunda Mulia",
             "status": "Closing",
-            "tglInput": "10/22/21"
+            "tglInput": "2021-10-22"
         },
         {
             "nama": "Very Yovelin",
@@ -13348,25 +15153,25 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
             "status": "Closing",
-            "tglInput": "1/10/22"
+            "tglInput": "2022-01-10"
         },
         {
             "nama": "VIAN ENDRAMANTO",
             "handphone": "81371389876",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "VIAN ENDRAMANTO",
             "handphone": "81371389876",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "8/15/22"
+            "tglInput": "2022-08-15"
         },
         {
             "nama": "Vicranovic Alkmar",
@@ -13375,17 +15180,17 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "9/4/22"
+            "tglInput": "2022-09-04"
         },
         {
             "nama": "Victoria Tanujaya",
             "email": "-",
             "handphone": "085336862686",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/5/22",
+            "tglInput": "2022-08-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13393,41 +15198,41 @@ module.exports = [
             "nama": "Victoria Tanujaya",
             "email": "victoriatanujaya@gmail.com",
             "handphone": "85336862686",
-            "perusahaan": "Life Talk Asia",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Life Talk Asia",
             "status": "Closing",
-            "tglInput": "8/7/22"
+            "tglInput": "2022-08-07"
         },
         {
             "nama": "Victoria Tanujaya",
             "email": "victoriatanujaya@gmail.com",
             "handphone": "85336862686",
-            "perusahaan": "Life Talk Asia",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Life Talk Asia",
             "status": "Closing",
-            "tglInput": "8/7/22"
+            "tglInput": "2022-08-07"
         },
         {
             "nama": "Vidyarini Dwita",
             "email": "vidyarini@fe.unp.ac.id",
             "handphone": "811663046/82246333918",
-            "perusahaan": "Dosen",
             "program": "Sertifikasi Digital Marketing",
             "batch": "4",
+            "perusahaan": "Dosen",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "vijaykumar",
             "email": "-",
             "handphone": "0812-8038-1978",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/30/22",
+            "tglInput": "2022-11-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13435,11 +15240,11 @@ module.exports = [
             "nama": "Vika Awallya",
             "email": "-",
             "handphone": "081213585173",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "8/5/22",
+            "tglInput": "2022-08-05",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13447,21 +15252,21 @@ module.exports = [
             "nama": "Viky Mahardika Fajjri",
             "email": "Vikymahardika@gmail.com",
             "handphone": "81315240793",
-            "perusahaan": "KBRI Addis Ababa",
             "program": "Sertifikasi Social Media",
             "batch": "13",
+            "perusahaan": "KBRI Addis Ababa",
             "status": "Closing",
-            "tglInput": "10/5/22"
+            "tglInput": "2022-10-05"
         },
         {
             "nama": "Vincentio Felix",
             "email": "-",
             "handphone": "081234300280",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13469,23 +15274,34 @@ module.exports = [
             "nama": "Wahyu",
             "email": "-",
             "handphone": "085714599607",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/14/22",
+            "tglInput": "2022-07-14",
             "concern": "Cost",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Wahyu Anjas Wuryanto",
+            "handphone": "0822-8102-9717",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-08",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Wanda isabelita khazizah",
             "email": "wandaisabelita25@gmail.com",
             "handphone": "081331533528",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "8/2/22",
+            "tglInput": "2022-08-02",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13493,11 +15309,11 @@ module.exports = [
             "nama": "Wanda Pinatik",
             "email": "-",
             "handphone": "085263847646",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "8/11/22",
+            "tglInput": "2022-08-11",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13505,11 +15321,11 @@ module.exports = [
             "nama": "wawang wiratama",
             "email": "-",
             "handphone": "081234560087",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/25/22",
+            "tglInput": "2022-08-25",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13517,21 +15333,21 @@ module.exports = [
             "nama": "Wawang Wiratama",
             "email": "wawang.wiratama@gmail.com",
             "handphone": "81234560087",
-            "perusahaan": "PLN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "PLN",
             "status": "Closing",
-            "tglInput": "9/12/22"
+            "tglInput": "2022-09-12"
         },
         {
             "nama": "Wicak",
             "email": "-",
             "handphone": "0853-2603-3451",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/15/22",
+            "tglInput": "2022-10-15",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13539,33 +15355,33 @@ module.exports = [
             "nama": "Widi Fajar Widyatmoko",
             "email": "widifajar@hotmail.com",
             "handphone": "0818260554",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "11/2/22",
+            "tglInput": "2022-11-02",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Widia (Reguler DM)",
             "handphone": "+62 857-4907-3755",
-            "perusahaan": "CV Hobby Kerja",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "CV Hobby Kerja",
             "status": "Program",
-            "tglInput": "8/12/22",
+            "tglInput": "2022-08-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Widya",
             "handphone": "0895-3313-35669",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/1/22",
+            "tglInput": "2022-12-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13573,20 +15389,20 @@ module.exports = [
             "nama": "Wildan Sulthan Faathira",
             "email": "wildansulthanf@gmail.com",
             "handphone": "81296620070",
-            "perusahaan": "Kidos Agency",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Kidos Agency",
             "status": "Closing",
-            "tglInput": "7/2/22"
+            "tglInput": "2022-07-02"
         },
         {
             "nama": "wildanfu",
             "handphone": "0812-1213-7590",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/10/22",
+            "tglInput": "2022-11-10",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13597,28 +15413,28 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/16/21"
+            "tglInput": "2021-11-16"
         },
         {
             "nama": "williams",
             "email": "wilsyah1321@gmail.com",
             "handphone": "081932698949",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/17/22",
+            "tglInput": "2022-10-17",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Winda",
             "handphone": "0812-3823-5270",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/3/22",
+            "tglInput": "2022-12-03",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13629,25 +15445,25 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "12",
             "status": "Closing",
-            "tglInput": "11/15/21"
+            "tglInput": "2021-11-15"
         },
         {
             "nama": "Wira",
             "email": "wirwiraaa@gmail.com",
             "handphone": "83891307890",
-            "perusahaan": "Gadkey",
             "program": "Sertifikasi Social Media",
             "batch": "10",
+            "perusahaan": "Gadkey",
             "status": "Closing",
-            "tglInput": "7/8/22"
+            "tglInput": "2022-07-08"
         },
         {
             "nama": "Wirda",
-            "perusahaan": "Allianz",
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
+            "perusahaan": "Allianz",
             "status": "Refollow Up",
-            "tglInput": "3/24/22",
+            "tglInput": "2022-03-24",
             "concern": "Delivery",
             "sumber": "WhatsApp"
         },
@@ -13655,21 +15471,32 @@ module.exports = [
             "nama": "Wisnu Triehatmojo",
             "email": "wtriehatmojo@gmail.com",
             "handphone": "87721604500",
-            "perusahaan": "bappedalitbang",
             "program": "Sertifikasi Social Media",
             "batch": "4",
+            "perusahaan": "bappedalitbang",
             "status": "Closing",
-            "tglInput": "12/22/21"
+            "tglInput": "2021-12-22"
+        },
+        {
+            "nama": "Wulan Amelia",
+            "handphone": "0812-8941-6078",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2023-01-05",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Wulansari",
             "email": "-",
             "handphone": "0811-8061-623",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13677,11 +15504,11 @@ module.exports = [
             "nama": "Wullan",
             "email": "-",
             "handphone": "085694841301",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13689,11 +15516,11 @@ module.exports = [
             "nama": "Wullan",
             "email": "-",
             "handphone": "0856-9484-1301",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/12/22",
+            "tglInput": "2022-10-12",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13704,17 +15531,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "7",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Yaenal Zamrinata",
             "email": "zamrinata@gmail.com",
             "handphone": "081327489229",
-            "perusahaan": "Ella Skincare",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "Ella Skincare",
             "status": "Program",
-            "tglInput": "10/18/22",
+            "tglInput": "2022-10-18",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13722,33 +15549,44 @@ module.exports = [
             "nama": "Yan Aditiya Pratama",
             "email": "yanaditiyapratama@darmajaya.ac.id",
             "handphone": "82245406040",
-            "perusahaan": "Institut Informatika dan Bisnis Darmajaya",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "Institut Informatika dan Bisnis Darmajaya",
             "status": "Closing",
-            "tglInput": "7/13/22"
+            "tglInput": "2022-07-13"
         },
         {
             "nama": "Yani Chandira W",
             "email": "maryani.maryam@gmail.com",
             "handphone": "087886907687",
-            "perusahaan": "Chandira WO",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Chandira WO",
             "status": "Closing",
-            "tglInput": "7/21/22",
+            "tglInput": "2022-07-21",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Yanti",
+            "handphone": "0877-6118-5666",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "26",
+            "perusahaan": "-",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-16",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Yefta",
             "email": "-",
             "handphone": "085256227658",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "6",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "7/21/22",
+            "tglInput": "2022-07-21",
             "concern": "Cost",
             "sumber": "Kontak"
         },
@@ -13756,21 +15594,21 @@ module.exports = [
             "nama": "yety anggelina",
             "email": "yt.anggelina99@gmail.com",
             "handphone": "87807485770",
-            "perusahaan": "RSUD kab belitung timur",
             "program": "Sertifikasi Social Media",
             "batch": "5",
+            "perusahaan": "RSUD kab belitung timur",
             "status": "Closing",
-            "tglInput": "2/2/22"
+            "tglInput": "2022-02-02"
         },
         {
             "nama": "Yoana",
             "email": "-",
             "handphone": "08122172708",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "11/1/22",
+            "tglInput": "2022-11-01",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13781,17 +15619,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Yoeantoro",
             "email": "-",
             "handphone": "081317118117",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "-",
             "status": "Closing",
-            "tglInput": "8/20/22",
+            "tglInput": "2022-08-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13799,33 +15637,45 @@ module.exports = [
             "nama": "Yoeantoro Mikael",
             "email": "yoeantoromikael@gmail.com",
             "handphone": "81317118117",
-            "perusahaan": "UD. Maicake",
             "program": "Sertifikasi Social Media",
             "batch": "12",
+            "perusahaan": "UD. Maicake",
             "status": "Closing",
-            "tglInput": "9/1/22"
+            "tglInput": "2022-09-01"
         },
         {
             "nama": "yoen kusuma",
             "email": "-",
             "handphone": "081398082649",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "8/27/22",
+            "tglInput": "2022-08-27",
             "concern": "Delivery",
             "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Yogi febrianto",
+            "email": "febrianto.yf@gmail.com",
+            "handphone": "08989595759",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-17",
+            "concern": "Quality",
+            "sumber": "Wordpress"
         },
         {
             "nama": "Yogi Saripaturohman",
             "email": "yogi53202@gmail.com",
             "handphone": "089513917939",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "9/20/22",
+            "tglInput": "2022-09-20",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13836,17 +15686,17 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Yonathan Pangestu",
             "email": "yonathanc8@gmail.com",
             "handphone": "8987083914",
-            "perusahaan": "Universitas Kristen Maranatha",
             "program": "Sertifikasi Digital Marketing",
             "batch": "16",
+            "perusahaan": "Universitas Kristen Maranatha",
             "status": "Closing",
-            "tglInput": "3/14/22"
+            "tglInput": "2022-03-14"
         },
         {
             "nama": "Yonathan Tedjokusumo",
@@ -13855,27 +15705,27 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Yopi Ernizar",
             "email": "ernizarpie@gmail.com",
             "handphone": "8111131231",
-            "perusahaan": "PT. Virginia Estetika",
             "program": "Sertifikasi Digital Marketing",
             "batch": "14",
+            "perusahaan": "PT. Virginia Estetika",
             "status": "Closing",
-            "tglInput": "1/18/22"
+            "tglInput": "2022-01-18"
         },
         {
             "nama": "Yopy Nugraha",
             "email": "yoppynugrahas@gmail.com",
             "handphone": "085353666667",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -13884,7 +15734,7 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "1",
             "status": "Refollow Up",
-            "tglInput": "12/16/22",
+            "tglInput": "2023-01-25",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -13892,22 +15742,22 @@ module.exports = [
             "nama": "Yosevin",
             "email": "yosevin.sirait@gmail.com",
             "handphone": "081290732448",
-            "perusahaan": "MRTJ",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "MRTJ",
             "status": "Rapoo",
-            "tglInput": "8/18/22",
+            "tglInput": "2022-08-18",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
         {
             "nama": "Yudha",
             "handphone": "85721078609",
-            "perusahaan": "SAS Hospitality",
             "program": "In House Training",
             "batch": "1",
+            "perusahaan": "SAS Hospitality",
             "status": "Price",
-            "tglInput": "5/10/22",
+            "tglInput": "2022-05-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
@@ -13918,7 +15768,7 @@ module.exports = [
             "program": "Human Resource Manager",
             "batch": "2",
             "status": "Closing",
-            "tglInput": "8/3/21"
+            "tglInput": "2021-08-03"
         },
         {
             "nama": "yudithia lisnanditha",
@@ -13927,26 +15777,26 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Yuli Candrasar",
             "handphone": "82141043371",
-            "perusahaan": "UPN Jatim",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "UPN Jatim",
             "status": "Closing",
-            "tglInput": "8/12/22"
+            "tglInput": "2022-08-12"
         },
         {
             "nama": "Yuli SAFFA",
             "email": "-",
             "handphone": "082141043371",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/21/22",
+            "tglInput": "2022-07-21",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -13957,40 +15807,50 @@ module.exports = [
             "program": "Sertifikasi Digital Marketing",
             "batch": "23",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Yulita Isyara Rahmawati",
             "email": "Yulita@yahoo.com",
             "handphone": "089650557969",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "19",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "7/11/22",
+            "tglInput": "2022-07-11",
             "concern": "Quality",
             "sumber": "Kontak"
+        },
+        {
+            "nama": "Yumi",
+            "handphone": "0818-992-188",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "25",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-11",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
         },
         {
             "nama": "Yura B",
             "email": "-",
             "handphone": "0812-8266-4440",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Price",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Cost",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Yusuf",
             "handphone": "0812-9505-3577",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/28/22",
+            "tglInput": "2022-11-28",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -13998,11 +15858,11 @@ module.exports = [
             "nama": "Yusuf Kamil Harahap",
             "email": "yusufxlegend@gmail.com",
             "handphone": "081260146492",
-            "perusahaan": "PT NICE VIEW DESIGN",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "PT NICE VIEW DESIGN",
             "status": "Schedule",
-            "tglInput": "8/10/22",
+            "tglInput": "2022-08-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14010,11 +15870,11 @@ module.exports = [
             "nama": "Yusuf Qithfirul Aziz",
             "email": "azizpacitan10@gmail.com",
             "handphone": "087778665664",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Program",
-            "tglInput": "10/11/22",
+            "tglInput": "2022-10-11",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14022,11 +15882,11 @@ module.exports = [
             "nama": "Yusuf Qithfirul Aziz",
             "email": "azizpacitan10@gmail.com",
             "handphone": "087778665664",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "10/17/22",
+            "tglInput": "2022-10-17",
             "concern": "Cost",
             "sumber": "Wordpress"
         },
@@ -14034,11 +15894,11 @@ module.exports = [
             "nama": "Yusuf Ramlan Nanu",
             "email": "yusuframlannanu@gmail.com",
             "handphone": "0895397353839",
-            "perusahaan": "SGB",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "SGB",
             "status": "Rapoo",
-            "tglInput": "10/7/22",
+            "tglInput": "2022-10-07",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -14046,23 +15906,35 @@ module.exports = [
             "nama": "Yusuf Ramlan Nanu",
             "email": "yusuframlannanu@gmail.com",
             "handphone": "0895397353839",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "22",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "10/8/22",
+            "tglInput": "2022-10-08",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
-            "nama": "Zahirul rahmad",
-            "email": "Zahirul896@gmail.com",
-            "handphone": "081374234595",
-            "perusahaan": "tenun balai panjang",
-            "program": "Sertifikasi Digital Marketing",
-            "batch": "22",
-            "status": "Program",
-            "tglInput": "10/9/22",
+            "nama": "Yuyun Yuningsih",
+            "email": "yuyunyuningsih706@gmail.com",
+            "handphone": "085220716633",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "PT Mahugi Jaya Sejahtera",
+            "status": "Refollow Up",
+            "tglInput": "2022-12-25",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Yuyun yuningsih",
+            "email": "Yuyunyuningsih706@gmail.com",
+            "handphone": "085220716633",
+            "program": "Human Resource Manager",
+            "batch": "6",
+            "perusahaan": "Pt Mahugi Jaya Sejahtera",
+            "status": "Refollow Up",
+            "tglInput": "2023-01-12",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14070,11 +15942,23 @@ module.exports = [
             "nama": "Zahirul rahmad",
             "email": "Zahirul896@gmail.com",
             "handphone": "081374234595",
-            "perusahaan": "-",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "22",
+            "perusahaan": "tenun balai panjang",
+            "status": "Program",
+            "tglInput": "2022-10-09",
+            "concern": "Quality",
+            "sumber": "Wordpress"
+        },
+        {
+            "nama": "Zahirul rahmad",
+            "email": "Zahirul896@gmail.com",
+            "handphone": "081374234595",
             "program": "Sertifikasi Digital Marketing",
             "batch": "20",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/10/22",
+            "tglInput": "2022-10-10",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14082,21 +15966,21 @@ module.exports = [
             "nama": "Zahra Aqilla Putri Chandra",
             "email": "zahra.qilla15@gmail.com",
             "handphone": "81284142585",
-            "perusahaan": "Universitas Telkom",
             "program": "Sertifikasi Social Media",
             "batch": "1",
+            "perusahaan": "Universitas Telkom",
             "status": "Closing",
-            "tglInput": "9/17/21"
+            "tglInput": "2021-09-17"
         },
         {
             "nama": "Zaki fausan",
             "email": "-",
             "handphone": "082393660813",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14104,22 +15988,33 @@ module.exports = [
             "nama": "Zaky Fausan",
             "email": "-",
             "handphone": "082393660813",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "21",
+            "perusahaan": "-",
             "status": "Schedule",
-            "tglInput": "9/6/22",
+            "tglInput": "2022-09-06",
+            "concern": "Quality",
+            "sumber": "WhatsApp"
+        },
+        {
+            "nama": "Zan",
+            "handphone": "0822-1300-0737",
+            "program": "Sertifikasi Digital Marketing",
+            "batch": "24",
+            "perusahaan": "-",
+            "status": "Rapoo",
+            "tglInput": "2022-12-19",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
         {
             "nama": "Zapblon",
             "handphone": "0878-8760-0094",
-            "perusahaan": "-",
             "program": "Sertifikasi Social Media",
-            "batch": "15",
+            "batch": "16",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "12/5/22",
+            "tglInput": "2022-12-05",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -14127,11 +16022,11 @@ module.exports = [
             "nama": "Zefanya Anggela Carla Estrada",
             "email": "Zanggela27@gmail.com",
             "handphone": "085730708529",
-            "perusahaan": "Arunika films",
             "program": "Sertifikasi Social Media",
             "batch": "11",
+            "perusahaan": "Arunika films",
             "status": "Rapoo",
-            "tglInput": "7/20/22",
+            "tglInput": "2022-07-20",
             "concern": "Quality",
             "sumber": "Wordpress"
         },
@@ -14142,16 +16037,16 @@ module.exports = [
             "program": "Sertifikasi Social Media",
             "batch": "1",
             "status": "Closing",
-            "tglInput": "9/22/21"
+            "tglInput": "2021-09-22"
         },
         {
             "nama": "ZEN",
             "handphone": "0816-289-910",
-            "perusahaan": "-",
             "program": "Sertifikasi Digital Marketing",
             "batch": "24",
+            "perusahaan": "-",
             "status": "Refollow Up",
-            "tglInput": "11/29/22",
+            "tglInput": "2022-11-29",
             "concern": "Quality",
             "sumber": "WhatsApp"
         },
@@ -14159,21 +16054,21 @@ module.exports = [
             "nama": "Zulfikar Tirta Rizky Pratama",
             "email": "zulfikartirta47@gmail.com",
             "handphone": "81910636361",
-            "perusahaan": "PT. Trimitra Garmedindo Intetbuana",
             "program": "Sertifikasi Digital Marketing",
             "batch": "6",
+            "perusahaan": "PT. Trimitra Garmedindo Intetbuana",
             "status": "Closing",
-            "tglInput": "12/16/22"
+            "tglInput": "2023-01-25"
         },
         {
             "nama": "Zulkarnain Ahmad",
             "email": "-",
             "handphone": "085262436574",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "1",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "7/18/22",
+            "tglInput": "2022-07-18",
             "concern": "Quality",
             "sumber": "Kontak"
         },
@@ -14181,11 +16076,11 @@ module.exports = [
             "nama": "Zulkarnain Ahmad",
             "email": "-",
             "handphone": "0852-6243-6574",
-            "perusahaan": "-",
             "program": "Human Resource Manager",
             "batch": "5",
+            "perusahaan": "-",
             "status": "Rapoo",
-            "tglInput": "10/30/22",
+            "tglInput": "2022-10-30",
             "concern": "Quality",
             "sumber": "WhatsApp"
         }
