@@ -68,7 +68,7 @@
         <!-- /.col -->
       </div>
       <div class="row">
-        <div class="col-7" style="padding-right: 5px !important">
+        <div class="col-6" style="padding-right: 5px !important">
           <div class="card card-info">
             <div class="card-header">
               <h3 class="card-title">
@@ -193,7 +193,7 @@
           <!-- /.col -->
         </div>
 
-        <div class="col-5" style="padding-left: 5px !important">
+        <div class="col-6" style="padding-left: 5px !important">
           <div class="card card-info">
             <div class="card-header">
               <h3 class="card-title">Data Leads</h3>
@@ -221,41 +221,17 @@
                     <th>Program</th>
                     <th>Total Leads</th>
                     <th>Closing Leads</th>
+                    <th>%</th>
                   </tr>
                 </thead>
                 <tbody>
-                  <% for (let p of program) {%>
+                  <% for (let res of result) {%>
                   <tr>
-                    <td><%= p.nama %></td>
-                    <% if (p.nama === "Sertifikasi Digital Marketing") {%>
-                    <td><%= leadsSDM %></td>
-                    <% } else if (p.nama === "Sertifikasi Social Media") { %>
-                    <td><%= leadsSSM %></td>
-                    <% } else if (p.nama === "Subsidi Social Media") {%>
-                    <td><%= leadsSubsidiSM %></td>
-                    <% } else if (p.nama === "Subsidi Digital Marketing") {%>
-                    <td><%= leadsSubsidiDM %></td>
-                    <% } else if (p.nama === "In House Training") {%>
-                    <td><%= leadsInhouse %></td>
-                    <% } else if (p.nama === "Human Resource Manager") {%>
-                    <td><%= leadsHRM %></td>
-                    <% } else { %>
-                    <td>-</td>
-                    <% } %> <% if (p.nama === "Sertifikasi Digital Marketing") { %>
-                    <td><%= leadsClosingSDM %></td>
-                    <% } else if (p.nama === "Sertifikasi Social Media") { %>
-                    <td><%= leadsClosingSSM %></td>
-                    <% } else if (p.nama === "Subsidi Social Media") { %>
-                    <td><%= leadsClosingSubsidiSM %></td>
-                    <% } else if(p.nama === "Subsidi Digital Marketing") {%>
-                    <td><%= leadsClosingSubsidiDM %></td>
-                    <% } else if (p.nama === "In House Training") {%>
-                    <td><%= leadsClosingInhouse %></td>
-                    <% } else if (p.nama === "Human Resource Manager") {%>
-                    <td><%= leadsClosingHRM %></td>
-                    <% } else { %>
-                    <td>-</td>
-                    <% } %>
+                   <td><%= res.name %></td>
+                   <td><%= res.count %></td>
+                   <td><%= res.closing %></td>
+                   <% const percentage = (res.closing / res.count) * 100 %>
+                   <td><%= percentage.toFixed(2) %> %</td> 
                   </tr>
                   <% } %>
                 </tbody>

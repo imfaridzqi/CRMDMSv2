@@ -7,6 +7,7 @@ module.exports.index = async(req, res) => {
     const programCari = req.body.namaProgram;
     const tahun = req.body.tahun;
     const batch = req.body.batch;
+
     const totalLeads = datasets.length;
     const closingLeads = [];
     let totalClosingLeads = 0;
@@ -15,57 +16,21 @@ module.exports.index = async(req, res) => {
     const dataLeadsHRM = [];
     const dataLeadsInhouse = [];
 
-    let leadsSDM = 0;
-    let leadsClosingSDM = 0;
-    let leadsSSM = 0;
-    let leadsClosingSSM = 0;
-    let leadsSubsidiSM = 0;
-    let leadsClosingSubsidiSM = 0;
-    let leadsSubsidiDM = 0;
-    let leadsClosingSubsidiDM = 0;
-    let leadsInhouse = 0;
-    let leadsClosingInhouse = 0;
-    let leadsHRM = 0;
-    let leadsClosingHRM = 0;
+    // Get Total Leads and Closing Leads Each Program
+    let result = [];
 
-    for (let dataset of datasets) {
-        if (dataset.program === "Sertifikasi Digital Marketing") {
-            leadsSDM += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingSDM += 1;
-            }
+    datasets.forEach(item => {
+        let program = item.program;
+        let status = item.status;
+        let found = result.find(r => r.name === program);
+        if (!found) {
+            result.push({ name: program, count: 1, closing: status === 'Closing' ? 1 : 0 });
+        } else {
+            found.count++;
+            if(status === 'Closing') found.closing++;
         }
-        if (dataset.program === "Sertifikasi Social Media") {
-            leadsSSM += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingSSM += 1;
-            }
-        }
-        if (dataset.program === "Subsidi Social Media") {
-            leadsSubsidiSM += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingSubsidiSM += 1;
-            }
-        }
-        if (dataset.program === "Subsidi Digital Marketing") {
-            leadsSubsidiDM += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingSubsidiDm += 1;
-            }
-        }
-        if (dataset.program === "In House Training") {
-            leadsInhouse += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingInhouse += 1;
-            }
-        }
-        if (dataset.program === "Human Resource Manager") {
-            leadsHRM += 1;
-            if (dataset.status === "Closing") {
-                leadsClosingHRM += 1;
-            }
-        }
-    }
+    });
+    // --------------------------------------------------
 
     for (let dataset of datasets) {
         if (dataset.status === "Closing") {
@@ -96,9 +61,22 @@ module.exports.index = async(req, res) => {
         }
     }
 
+//     let closingLeadsObj = datasets.filter(item => item.status === 'Closing')
+//   .reduce((acc, curr) => {
+//     let program = curr.program;
+//     if (!acc[program]) {
+//       acc[program] = { program, data: [] };
+//     }
+//     acc[program].data.push(curr);
+//     return acc;
+//   }, {});
+
+//   let closingLeadsArr = Object.values(closingLeadsObj);
+//     for (let i = 0; i < closingLeadsArr.length; i++) {
+//     console.log(`Data in ${closingLeadsArr[i].program}:`, closingLeadsArr[i].data);
+//     }
 
     // Chart
-
     const jan = [];
     const feb = [];
     const mar = [];
@@ -206,5 +184,5 @@ module.exports.index = async(req, res) => {
         }
     }
 
-    res.render("dashboard/", {datasets, totalLeads, totalClosingLeads, program, datasets, janLength, febLength, marLength, aprLength, mayLength, junLength, julLength, augLength, sepLength, octLength, novLength, decLength, programCari, tahun, batch, totalData, highest, lowest, dataLeadsSDM, dataLeadsSSM, dataLeadsHRM, dataLeadsInhouse, leadsSDM, leadsClosingSDM, leadsSSM, leadsClosingSSM, leadsSubsidiSM, leadsClosingSubsidiSM, leadsSubsidiDM, leadsClosingSubsidiDM, leadsInhouse, leadsClosingInhouse, leadsHRM, leadsClosingHRM});
+    res.render("dashboard/", {datasets, totalLeads, totalClosingLeads, program, janLength, febLength, marLength, aprLength, mayLength, junLength, julLength, augLength, sepLength, octLength, novLength, decLength, programCari, tahun, batch, totalData, highest, lowest, dataLeadsSDM, dataLeadsSSM, dataLeadsHRM, dataLeadsInhouse, result});
 }
