@@ -30,8 +30,6 @@ module.exports.index = async(req, res) => {
             if(status === 'Closing') found.closing++;
         }
     });
-
-    console.log(result)
     // --------------------------------------------------
 
     for (let dataset of datasets) {
